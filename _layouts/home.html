@@ -1,34 +1,38 @@
 ---
 layout: default
 ---
-<div class="title-slide">
+<div class="background-home">
   {% include navigation.html %}
-    <div class="name">
-        <h1 class="light">{{ site.name }}</h1>
-        <h3>{{ site.profession }}</h3>
-        <h3> <em>Coming Soon</em> </h2>
+  <div class="title-slide">
+      <div class="name">
+          <h1 class="light">{{ site.name }}</h1>
+          <h3>{{ site.profession }}</h3>
+      </div>
     </div>
-</div>
-<div class="current-work">
-  <h1>Current Work</h1>
-  {% for post in site.posts %}
-    {% if post.current == true %}
-      <h2>{{ post.title }}</h2>
-      <p>{{ post.description }}</p>
-      <img src="{{ post.preview-picture }}" alt="">
-    {% endif %}
-  {% endfor %}
-</div>
-
-<div class="julia">
-  <img src="{{ page.avatar }}" alt="julia vandehof">
-  <div class="bio">
-    <h2>{{ site.name }}</h2>
-    <p>{{ page.bio }}</p>
   </div>
-</div>
+    <div class="current-work">
+      <h1>Current Work</h1>
+      <div class="current-item">
+        {% for post in site.posts %}
+          {% if post.current == true %}
+            <h2 class="current-title">{{ post.title }}</h2>
+            <p class="current-description">{{ post.description }}</p>
+            <img class="current-image" src="{{ post.preview-picture }}" alt="">
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
 
-<div class="contacts">
-  <h2 class="vertical-left">Contact</h2>
-  <a class="email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+    <div class="julia">
+      <img src="{{ page.avatar }}" alt="julia vandehof">
+      <div class="bio">
+        <h2>{{ site.name }}</h2>
+        <p>{{ page.bio }}</p>
+      </div>
+    </div>
+
+    <div class="contacts">
+      <h2 class="vertical-left">Contact</h2>
+      <a class="email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+    </div>
 </div>

@@ -1,0 +1,40 @@
+.background-home {
+  background: linear-gradient(
+      rgba(00, 00, 124, 0.5),
+      rgba(73, 146, 124, 0.7)
+      ), url(/assets/img/videoblocks-black-ink-drop-in-water-filmed-in-slow-motion_s414zxc9g_thumbnail-full06.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+}
+.title-slide {
+  * {
+    text-align: center;
+    color: white;
+  }
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1 0 auto;
+  min-height: 600px;
+}
+.current-work {
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
+.current-item {
+  border: solid 1px black;
+  display: flex;
+  align-items: center;
+}
+.current-title {
+  transform: rotate(-90deg);
+}
+.current-image {
+  width: 400px;
+  object-fit: contain;
+}
