@@ -1,10 +1,17 @@
 ---
-layout: coming-soon
+layout: default
 ---
 <div class="title-slide">
-  <div class="name">
-      <h1>{{ site.name }}</h1>
-      <h3>{{ site.profession }}</h3>
-      <h3> <em>Coming Soon</em> </h2>
-  </div>
+  {% include navigation.html %}
+    <div class="name">
+        <h1 class="light">{{ site.name }}</h1>
+        <h3>{{ site.profession }}</h3>
+        <h3> <em>Coming Soon</em> </h2>
+    </div>
+</div>
+<div id="current-work">
+  <h1>Current Work</h1>
+  {% for post in site.posts %}
+    {{ post.title }}
+  {% endfor %}
 </div>
