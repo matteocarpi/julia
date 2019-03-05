@@ -13,12 +13,19 @@ html {
 }
 h1 {
   font-size: 120px;
+  font-weight: 700;
 }
 h2 {
   font-size: 70px;
 }
 h3 {
   font-size: 30px;
+}
+nav {
+  margin-top: 2rem;
+}
+.grow {
+  flex-grow: 1;
 }
 .button {
   padding: 1rem 2rem;
