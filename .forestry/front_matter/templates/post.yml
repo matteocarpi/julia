@@ -27,3 +27,5 @@ fields:
 - type: image_gallery
   name: secondary_gallery
   label: Secondary Gallery
+pages:
+- _posts/die-löwen-sind-den-schmetterlineen-nicht-lästig.md
