@@ -4,6 +4,18 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
+  name: permalink
+  label: Permalink
+  hidden: true
+  config:
+    required: true
+  default: "/:title"
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: post
+- type: text
   name: title
   label: Title
 - type: file
