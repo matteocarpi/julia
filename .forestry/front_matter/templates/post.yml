@@ -1,0 +1,29 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: file
+  name: preview_picture
+  label: Preview Picture
+  description: This image will show in the homepage if this work is "current"
+- type: boolean
+  name: current
+  label: Current
+  description: Turn on if this project is part of "Current Work"
+- type: image_gallery
+  name: main_pictures
+  label: Main Pictures
+- type: textarea
+  name: description
+  label: Description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: image_gallery
+  name: secondary_gallery
+  label: Secondary Gallery
