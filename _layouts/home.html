@@ -18,7 +18,9 @@ layout: default
           <div class="current-title-wrap">
             <h2 class="current-title vertical-left">{{ post.title }}</h2>
           </div>
-          <p class="current-description">{{ post.description }}</p>
+          <div  class="current-description">
+            <p>{{ post.description }}</p><button><a href="{{ post.permalink }}"> Read More</a></button>
+          </div>
           <img class="current-image" src="{{ post.preview-picture }}" alt="">
         </div>
       {% endif %}

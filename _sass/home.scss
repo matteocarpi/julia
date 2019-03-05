@@ -55,12 +55,13 @@
 }
 .current-description {
   max-width: 600px;
+  display: flex;
+  flex-direction: column;
 }
 .julia {
   display: flex;
   justify-content: space-evenly;
   border-bottom: solid 1px;
-  border-top: solid 1px;
 }
 .bio {
   margin: 0 auto;
