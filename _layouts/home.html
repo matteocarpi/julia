@@ -10,12 +10,12 @@ layout: default
       </div>
     </div>
   </div>
-    <div class="current-work">
+    <div id="current" class="current-work">
       <h1>Current Work</h1>
       <div class="current-item">
         {% for post in site.posts %}
           {% if post.current == true %}
-            <h2 class="current-title">{{ post.title }}</h2>
+            <h2 class="current-title vertical-left">{{ post.title }}</h2>
             <p class="current-description">{{ post.description }}</p>
             <img class="current-image" src="{{ post.preview-picture }}" alt="">
           {% endif %}
@@ -23,7 +23,7 @@ layout: default
       </div>
     </div>
 
-    <div class="julia">
+    <div id="about" class="julia">
       <img src="{{ page.avatar }}" alt="julia vandehof">
       <div class="bio">
         <h2>{{ site.name }}</h2>
@@ -31,7 +31,7 @@ layout: default
       </div>
     </div>
 
-    <div class="contacts">
+    <div id="contact" class="contacts">
       <h2 class="vertical-left">Contact</h2>
       <a class="email" href="mailto:{{ site.email }}">{{ site.email }}</a>
     </div>

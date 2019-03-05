@@ -1,5 +1,7 @@
 - name: Home
   link: /
+- name: Current Work
+  link: /#current
 - name: About
   link: /#about
 - name: Projects
@@ -8,5 +10,3 @@
   link: /media
 - name: Contact
   link: /#contact
-- name: Current Work
-  link: /#current

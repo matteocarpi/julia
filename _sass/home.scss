@@ -29,12 +29,45 @@
 .current-item {
   border: solid 1px black;
   display: flex;
+  justify-content: space-between;
   align-items: center;
 }
-.current-title {
+.vertical-left {
   transform: rotate(-90deg);
 }
+.current-title {
+  max-height: 700px;
+  text-align: center;
+  margin-left: -100px;
+}
 .current-image {
-  width: 400px;
+  width: 600px;
   object-fit: contain;
+}
+.current-description {
+  max-width: 600px;
+}
+.julia {
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom: solid 1px;
+}
+.bio {
+  margin: 0 auto;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.contacts {
+  border-bottom: solid 1px;
+  display: flex;
+  align-items: center;
+  min-height: 300px;
+}
+a.email {
+    margin: 0 auto;
+    color: black;
+    font-size: 50px;
 }
