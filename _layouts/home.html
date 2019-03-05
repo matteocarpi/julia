@@ -10,17 +10,19 @@ layout: default
       </div>
     </div>
   </div>
-    <div id="current" class="current-work">
-      <h1>Current Work</h1>
-      <div class="current-item">
-        {% for post in site.posts %}
-          {% if post.current == true %}
+  <h1 id="current" class="current-section">Current Work</h1>
+    <div class="current-work">
+    {% for post in site.posts %}
+      {% if post.current == true %}
+        <div class="current-item">
+          <div class="current-title-wrap">
             <h2 class="current-title vertical-left">{{ post.title }}</h2>
-            <p class="current-description">{{ post.description }}</p>
-            <img class="current-image" src="{{ post.preview-picture }}" alt="">
-          {% endif %}
-        {% endfor %}
-      </div>
+          </div>
+          <p class="current-description">{{ post.description }}</p>
+          <img class="current-image" src="{{ post.preview-picture }}" alt="">
+        </div>
+      {% endif %}
+    {% endfor %}
     </div>
 
     <div id="about" class="julia">
