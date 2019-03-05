@@ -20,6 +20,15 @@ h2 {
 h3 {
   font-size: 30px;
 }
+.button {
+  padding: 1rem 2rem;
+  border: solid 1px;
+  color: black;
+  margin-top: 2rem;
+  :hover {
+    color: black;
+  }
+}
 .light {
   color: white;
 }
