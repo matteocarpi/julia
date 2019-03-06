@@ -34,8 +34,9 @@ img.gallery_image.horizontal {
   display: flex;
   align-items: center;
 }
-.trailer {
+.documentation {
   text-align: center;
   display: flex;
   flex-direction: column;
+  justify-content: space-around;
 }

@@ -22,18 +22,23 @@ layout: default
       {% endfor %}
     </div>
 
-    <div class="trailer">
-      <h2>Trailer</h2>
-      <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <div class="grow">
+    <div class="documentation">
 
-      <h2>Press</h2>
-      {% if press == true %}
-        {% for item in page.press %}
-        <img src="{{ item }}" alt="">
-        {% endfor %}
-      {% endif %}
+      <div class="trailer">
+        <h2>Trailer</h2>
+        <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
+
+      <div class="press">
+        <h2>Press</h2>
+        {% if page.press_pictures %}
+          {% for item in page.press_pictures %}
+            <img src="{{ item }}" alt="">
+          {% endfor %}
+        {% endif %}
+      </div>
+
     </div>
+
   </div>
 </div>
