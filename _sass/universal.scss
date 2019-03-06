@@ -25,11 +25,14 @@ h3 {
 nav {
   margin-top: 2rem;
 }
-a.nav-link {
-    color: black;
-}
 div#navbarNav {
+    display: flex;
     justify-content: center;
+}
+nav.dark {
+  a.nav-link {
+      color: black;
+  }
     border-bottom: solid 1px;
     padding-bottom: 2rem;
 }
