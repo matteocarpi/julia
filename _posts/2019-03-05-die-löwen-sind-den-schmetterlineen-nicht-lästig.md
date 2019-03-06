@@ -14,7 +14,8 @@ vertical_gallery:
 - "/uploads/Lowen-4.png"
 horizontal_gallery:
 - "/uploads/Lowen-6.png"
-press:
+press: true
+press_pictures:
 - "/uploads/Lowen-press.jpg"
 
 ---
