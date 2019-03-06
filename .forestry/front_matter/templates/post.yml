@@ -39,3 +39,5 @@ fields:
 - type: image_gallery
   name: secondary_gallery
   label: Secondary Gallery
+pages:
+- _posts/2019-03-04-persephone-dancing-with-the-shadows.markdown
