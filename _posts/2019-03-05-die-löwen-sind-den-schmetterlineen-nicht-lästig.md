@@ -1,6 +1,5 @@
 ---
 layout: post
-permalink: /lowen
 title: Die Löwen sind den Schmetterlineen nicht lästig!
 preview_picture: "/uploads/Lowen-1.jpg"
 current: true
