@@ -18,6 +18,7 @@ name: "Julia Vandehof"
 profession: Theatre Maker | Performer
 email: julia.vandehof@gmx.at
 description: Theater Maker | Performer
+permalink: /:title/
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.juliavandehof.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
