@@ -29,6 +29,10 @@ fields:
   name: current
   label: Current
   description: Turn on if this project is part of "Current Work"
+- type: boolean
+  name: only_current
+  label: Only Current
+  description: Turn on if you don't have a full page about this project
 - type: image_gallery
   name: main_pictures
   label: Main Pictures
@@ -58,9 +62,6 @@ fields:
   description: Pictures here will be shown only if you activated the above "Press"
     button
 - type: image_gallery
-- type: boolean
-  name: only_current
-  label: Only Current
 pages:
 - _posts/2019-03-04-you've-met-yout-match.markdown
 - _posts/2019-03-04-persephone-dancing-with-the-shadows.markdown
