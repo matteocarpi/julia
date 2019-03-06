@@ -27,7 +27,7 @@ layout: default
           <div  class="current-description">
             <p>{{ post.description }}</p>
             {% if post.description %}
-              <a class="button" href="{{ post.permalink }}"> Read More</a>
+              <a class="button" href="{{ post.url }}"> Read More</a>
             {% endif %}
           </div>
           <img class="current-image" src="{{ post.preview_picture }}" alt="">
