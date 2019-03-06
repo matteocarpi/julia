@@ -12,4 +12,12 @@ secondary_gallery:
 - "/uploads/Lowen-5.png"
 - "/uploads/Lowen-6.png"
 date: 2019-03-05 20:11:10 +0000
+permalink: "/:title"
+youtube_link: https://www.youtube.com/watch?v=2f9SItUEtJ8
+vertical_gallery:
+- "/uploads/Lowen-5.png"
+- "/uploads/Lowen-4.png"
+horizontal_gallery:
+- "/uploads/Lowen-6.png"
+
 ---
