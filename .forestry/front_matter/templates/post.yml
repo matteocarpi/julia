@@ -37,8 +37,11 @@ fields:
     schema:
       format: markdown
 - type: image_gallery
-  name: secondary_gallery
-  label: Secondary Gallery
+  name: vertical_gallery
+  label: Vertical Images
+- type: image_gallery
+  name: horizontal_gallery
+  label: Horizontal Images
 - type: text
   name: youtube_link
   label: YouTube link
