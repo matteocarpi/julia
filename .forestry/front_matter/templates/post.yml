@@ -39,6 +39,9 @@ fields:
 - type: image_gallery
   name: secondary_gallery
   label: Secondary Gallery
+- type: text
+  name: youtube_link
+  label: YouTube link
 pages:
 - _posts/2019-03-04-you've-met-yout-match.markdown
 - _posts/2019-03-04-persephone-dancing-with-the-shadows.markdown
