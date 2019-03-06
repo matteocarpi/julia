@@ -27,6 +27,12 @@ layout: default
       <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <div class="grow">
 
+      <h2>Press</h2>
+      {% if press == true %}
+        {% for item in page.press %}
+        <img src="{{ item }}" alt="">
+        {% endfor %}
+      {% endif %}
       </div>
     </div>
   </div>
