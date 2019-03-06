@@ -57,6 +57,7 @@ fields:
   label: Press Pictures
   description: Pictures here will be shown only if you activated the above "Press"
     button
+- type: image_gallery
 pages:
 - _posts/2019-03-04-persephone-dancing-with-the-shadows.markdown
 - _posts/2019-03-05-die-löwen-sind-den-schmetterlineen-nicht-lästig.md
