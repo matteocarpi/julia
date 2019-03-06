@@ -25,9 +25,12 @@ layout: default
             <h2 class="current-title vertical-left">{{ post.title }}</h2>
           </div>
           <div  class="current-description">
-            <p>{{ post.description }}</p><a class="button" href="{{ post.permalink }}"> Read More</a>
+            <p>{{ post.description }}</p>
+            {% if post.description %}
+              <a class="button" href="{{ post.permalink }}"> Read More</a>
+            {% endif %}
           </div>
-          <img class="current-image" src="{{ post.preview-picture }}" alt="">
+          <img class="current-image" src="{{ post.preview_picture }}" alt="">
         </div>
       {% endif %}
     {% endfor %}
