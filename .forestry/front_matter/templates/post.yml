@@ -38,9 +38,15 @@ fields:
 - type: text
   name: youtube_link
   label: YouTube link
-- type: image_gallery
+- type: boolean
   name: press
   label: Press
+  description: Do you have a review for this show?
+- type: image_gallery
+  name: press_pictures
+  label: Press Pictures
+  description: Pictures here will be shown only if you activated the above "Press"
+    button
 pages:
 - _posts/2019-03-05-die-löwen-sind-den-schmetterlineen-nicht-lästig.md
 - _posts/2019-03-04-you've-met-yout-match.markdown
