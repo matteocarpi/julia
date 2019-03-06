@@ -1,7 +1,33 @@
 ---
 layout: default
 ---
-<h2 class="post-title">{{ page.title}}</h2>
-{% for item in page.main_pictures %}
-<img src="{{ page.main_picture.item }}" alt="">
-{% endfor %}
+<div class="post_container">
+
+  <h2 class="post-title">{{ page.title}}</h2>
+
+  <div class="main_pictures">
+    {% for item in page.main_pictures %}
+      <img src="{{ item }}" alt="">
+    {% endfor %}
+  </div>
+
+  <div class="post_gallery">
+    <div class="secondary_gallery">
+      {% for item in page.vertical_gallery %}
+        <img class="gallery_image vertical" src="{{ item }}" alt="">
+      {% endfor %}
+
+      {% for item in page.horizontal_gallery %}
+        <img class="gallery_image horizontal" src="{{ item }}" alt="">
+      {% endfor %}
+    </div>
+
+    <div class="trailer">
+      <h2>Trailer</h2>
+      <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="grow">
+
+      </div>
+    </div>
+  </div>
+</div>

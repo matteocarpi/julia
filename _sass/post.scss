@@ -1,0 +1,41 @@
+.post_container {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    // max-width: 1250px;
+}
+.main_pictures {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h2.post-title {
+    // max-width: 1000px;
+    text-align: center;
+}
+.secondary_gallery {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    align-items: flex-start;
+    justify-content: center;
+    max-width: 50%;
+}
+img.gallery_image.vertical {
+    max-width: 285px;
+    margin: 5px;
+}
+img.gallery_image.horizontal {
+  max-width: 580px;
+  margin: 5px;
+}
+.post_gallery {
+  display: flex;
+  align-items: center;
+}
+.trailer {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
