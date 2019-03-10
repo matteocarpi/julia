@@ -21,9 +21,21 @@ h2 {
 }
 h3 {
   font-size: 30px;
+  font-weight: 700;
 }
 img {
   object-fit: contain;
+}
+.header {
+  // display: flex;
+  // align-items: center;
+  // justify-content: space-between;
+  border-bottom: solid 1px;
+  padding-bottom: 2rem;
+}
+.name {
+  margin-top: -4.6rem;
+  margin-left: 2rem;
 }
 nav {
   margin-top: 2rem;
@@ -36,7 +48,6 @@ nav.dark {
   a.nav-link {
       color: black;
   }
-    border-bottom: solid 1px;
     padding-bottom: 2rem;
 }
 .grow {
@@ -71,6 +82,9 @@ nav.dark {
   justify-content: center;
   align-items: center;
   flex: 1 0 auto;
+}
+.title {
+  margin: 0 auto;
 }
 .footer {
   display: flex;
