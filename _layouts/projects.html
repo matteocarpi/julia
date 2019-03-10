@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1> Projects</h1>
+<h1>{{ page.title }}</h1>
 <div class="current-work">
 {% for post in site.posts %}
     <div class="current-item">
@@ -11,10 +11,13 @@ layout: default
       <div  class="current-description">
         <p>{{ post.description | markdownify | truncate: 450 }}</p>
         {% if post.description %}
-          <a class="button" href="{{ post.url }}"> Read More</a>
+          <a class="button" href="{{ post.url }}">Read More</a>
+        {% endif %}
       </div>
-      <img class="current-image" src="{{ post.preview_picture }}" alt="">
+      <div class="current-image" style="background-image: url({{ post.preview_picture }});">
+
+      </div>
     </div>
-  {% endif %}
+
 {% endfor %}
 </div>

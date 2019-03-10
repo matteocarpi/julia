@@ -9,7 +9,7 @@ description: |-
 
   On stage there are five rectangular wooden frames. Covered in cloth they show shadowed shapes, consequently acting as a backdrop to the projected media of ink in water. They are the stage set and stage partners whilst being objects. The Boxes can be moved throughout the play creating images and sceneries. The performers move with, through and in them.
 permalink: "/:title"
-preview_picture: "/uploads/pers web Kopie.jpg"
+preview_picture: "/uploads/persephone-ink-back.jpg"
 main_pictures:
 - "/uploads/pers web Kopie.jpg"
 secondary_gallery:
