@@ -7,8 +7,12 @@ layout: default
   <h3 class="post-subtitle">{{ page.sub_title }}</h3>
   <div class="main_pictures">
     {% for item in page.main_pictures %}
-      <img src="{{ item }}" alt="">
+      <img class="main_picture"src="{{ item }}" alt="">
     {% endfor %}
+  </div>
+
+  <div class="post_description">
+    <p>{{ page.description | markdownify }}</p>
   </div>
 
   <div class="post_gallery">

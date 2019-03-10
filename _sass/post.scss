@@ -3,7 +3,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    // max-width: 1250px;
+    max-width: 1250px;
+    margin: 2rem auto 0 auto;
 }
 .main_pictures {
   display: flex;
@@ -12,9 +13,21 @@
   margin: 0 2rem;
   max-width: 1250px;
 }
+.main_picture {
+  max-width: 1250px;
+}
 h2.post-title {
     max-width: 800px;
     text-align: center;
+    margin: 0;
+}
+h3.post-subtitle {
+    font-style: italic;
+}
+.post_description {
+  max-width: 800px;
+  margin: 2rem auto;
+  
 }
 .secondary_gallery {
     display: flex;
