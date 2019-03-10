@@ -2,7 +2,6 @@
 layout: post
 title: Persephone - Dancing with the Shadows
 current: true
-preview-picture: "/uploads/random-pic.jpg"
 description: |-
   The performance is a descent into a world of shadows and phantoms and is inspired by the Greek myth of Persephone. The narrative alludes to the cyclical nature of life-death and to the idea of resurrection, questioning what it means to embrace _death-in-life._ The audience is invited into an atmospheric world where they encounter embodied movement, non-linear storytelling, soundscape and shapes in light causing striking shadows.
 
