@@ -6,6 +6,7 @@ layout: default
 </div>
 <div class="current-work">
 {% for post in site.posts %}
+  {% if post.only_current == false %}
     <div class="current-item">
       <div class="current-title-wrap">
         <h2 class="current-title vertical-left">{{ post.title }}</h2>
@@ -20,6 +21,6 @@ layout: default
 
       </div>
     </div>
-
+  {% endif %}
 {% endfor %}
 </div>

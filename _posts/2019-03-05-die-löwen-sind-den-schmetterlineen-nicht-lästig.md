@@ -17,5 +17,6 @@ horizontal_gallery:
 press: true
 press_pictures:
 - "/uploads/Lowen-press.jpg"
+only_current: false
 
 ---

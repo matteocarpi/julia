@@ -29,8 +29,10 @@ layout: default
       <div class="documentation">
 
         <div class="trailer">
-          <h2>Trailer</h2>
-          <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {% if page.youtube_link != '' %}
+            <h2>Trailer</h2>
+            <iframe width="560" height="315" src="{{ page.youtube_link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {% endif %}
         </div>
 
         <div class="press">
