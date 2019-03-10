@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<h1> Projects</h1>
+<div class="current-work">
+{% for post in site.posts %}
+    <div class="current-item">
+      <div class="current-title-wrap">
+        <h2 class="current-title vertical-left">{{ post.title }}</h2>
+      </div>
+      <div  class="current-description">
+        <p>{{ post.description | markdownify | truncate: 450 }}</p>
+        {% if post.description %}
+          <a class="button" href="{{ post.url }}"> Read More</a>
+      </div>
+      <img class="current-image" src="{{ post.preview_picture }}" alt="">
+    </div>
+  {% endif %}
+{% endfor %}
+</div>
