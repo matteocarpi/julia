@@ -14,7 +14,7 @@ layout: default
   <div class="post_gallery">
     <div class="secondary_gallery">
       {% for item in page.vertical_gallery %}
-        <img class="gallery_image     {% if page.press or page.youtube_link %} vertical {% endif %}" src="{{ item }}" alt="">
+        <img class="gallery_image {% if page.press or page.youtube_link %} vertical {% endif %}" src="{{ item }}" alt="">
       {% endfor %}
 
       {% for item in page.horizontal_gallery %}

@@ -11,7 +11,7 @@ description: |-
 permalink: "/:title"
 preview_picture: "/uploads/persephone-ink-back.jpg"
 main_pictures:
-- "/uploads/pers web Kopie.jpg"
+- "/uploads/persephone-ink-back.jpg"
 secondary_gallery:
 - "/uploads/Bildschirmfoto 2018-11-28 um 11.29.51 Kopie.png"
 - "/uploads/Bildschirmfoto 2018-11-28 um 11.26.54 Kopie.png"
