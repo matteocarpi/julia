@@ -13,7 +13,7 @@ layout: default
       </div>
       <div  class="current-description">
         <p>{{ post.description | markdownify | truncate: 450 }}</p>
-        {% if post.description %}
+        {% if post.description != '' %}
           <a class="button" href="{{ post.url }}">Read More</a>
         {% endif %}
       </div>
