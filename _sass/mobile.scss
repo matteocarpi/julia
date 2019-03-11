@@ -1,0 +1,28 @@
+// Tablet
+
+@media screen and (max-width: 768px){
+  .current-item {
+    flex-direction: column;
+  }
+  .vertical-left {
+    transform: rotate(0deg);
+  }
+  .current-title {
+    margin-left: 0;
+  }
+  .current-image {
+    order: 2;
+    width: 100%;
+  }
+  .current-description {
+    order: 3;
+  }
+  .julia {
+    flex-direction: column;
+    align-items: center;
+  }
+  div#contact {
+    flex-direction: column;
+    justify-content: center;
+  }
+}

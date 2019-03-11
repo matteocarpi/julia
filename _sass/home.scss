@@ -18,7 +18,8 @@
   flex-direction: column;
   align-items: center;
   flex: 1 0 auto;
-  min-height: 100vh;
+  height: 100vh;
+  min-height: 550px;
 }
 .fas.fa-arrow-down {
   margin-top: 5rem;
@@ -26,6 +27,7 @@
 }
 .current-section {
   margin: 0 auto;
+  text-align: center;
 }
 .current-work {
   display: flex;
