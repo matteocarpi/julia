@@ -1,0 +1,28 @@
+---
+label: Home
+hide_body: true
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: home
+- name: title
+  label: Title
+  type: text
+  hidden: true
+  default: Home
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: true
+  default: "/"
+- name: bio
+  label: Bio
+  type: textarea
+  hidden: false
+  default: ''
+- type: file
+  name: avatar
+  label: Avatar
+  description: Your profile picture that will appear next to the bio
