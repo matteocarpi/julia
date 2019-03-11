@@ -5,25 +5,24 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: home
 - name: title
   label: Title
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: Home
 - name: permalink
   label: Permalink
   type: text
-  hidden: false
-  default: ''
-- name: avatar
-  label: Avatar
-  type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: "/"
 - name: bio
   label: Bio
   type: textarea
   hidden: false
   default: ''
+- type: file
+  name: avatar
+  label: Avatar
+  description: Your profile picture that will appear next to the bio
