@@ -29,7 +29,8 @@ layout: default
         <img class="gallery_image     {% if page.press or page.youtube_link %} horizontal {% endif %}" src="{{ item }}" alt="">
       {% endfor %}
     </div>
-    {% if page.press or page.youtube_link %}
+
+    {% if page.press == true or page.youtube_link != '' %}
       <div class="documentation">
 
         <div class="trailer">
