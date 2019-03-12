@@ -20,9 +20,30 @@
   .julia {
     flex-direction: column;
     align-items: center;
+    padding-top: 2rem;
   }
   div#contact {
     flex-direction: column;
     justify-content: center;
+  }
+
+  // Project Page
+  .post_gallery {
+    flex-direction: column;
+  }
+  .secondary_gallery, .documentation {
+    margin: 0 0 2rem 0;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  h1 {
+    font-size: 60px;
+  }
+  a.email {
+    font-size: 20px;
+  }
+  .avatar {
+    width: 80%;
   }
 }

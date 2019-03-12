@@ -7,7 +7,11 @@ layout: default
   <h3 class="post-subtitle">{{ page.sub_title }}</h3>
   <div class="main_pictures">
     {% for item in page.main_pictures %}
-      <img class="main_picture"src="{{ item }}" alt="">
+      <div class="main_picture" style="background: url({{ item }});
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;">
+      </div>
     {% endfor %}
   </div>
 
@@ -36,7 +40,7 @@ layout: default
         </div>
 
         <div class="press">
-          {% if page.press_pictures > 1 %}
+          {% if page.press == true %}
             <h2>Press</h2>
 
             {% for item in page.press_pictures %}

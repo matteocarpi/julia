@@ -5,6 +5,7 @@
     align-items: center;
     max-width: 1250px;
     margin: 2rem auto 0 auto;
+    padding: 0 2rem;
 }
 .main_pictures {
   display: flex;
@@ -12,9 +13,12 @@
   align-items: center;
   margin: 0 2rem;
   max-width: 1250px;
+  width: 100%;
 }
 .main_picture {
   max-width: 1250px;
+  margin-bottom: 2rem;
+  background-size: contain;
 }
 h2.post-title {
     max-width: 800px;
@@ -24,10 +28,13 @@ h2.post-title {
 h3.post-subtitle {
     font-style: italic;
 }
+.main_picture {
+  width: 90%;
+  padding-top: (90% / 16) * 9;
+}
 .post_description {
   max-width: 800px;
   margin: 2rem auto;
-  
 }
 .secondary_gallery {
     display: flex;
