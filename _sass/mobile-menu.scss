@@ -3,7 +3,10 @@
   right: 0;
   top: 0;
   color: white;
-  background: linear-gradient(45deg, #9682C8 10%, #05BCC9);;
+  background: linear-gradient(
+      rgba(00, 00, 124, 0.5),
+      rgba(73, 146, 124, 0.7)
+      ),;
   font-size: 32px;
   padding: 16px 16px 32px 32px;
   border-radius: 0% 0% 0% 100%;
@@ -26,7 +29,6 @@
   width: 100vw;
   height: 50vh;
   padding: 25vh 0;
-  justify-content: space-around;
 }
 
 #links a{
@@ -36,4 +38,5 @@
   font-size: 2em;
   font-family: 'Roboto';
   z-index: 10;
+  padding: 1rem 0;
 }

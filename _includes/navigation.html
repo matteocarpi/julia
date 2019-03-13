@@ -5,9 +5,13 @@
     </div>
   {% endif %}
 
+  <i id="burger" class="material-icons" onclick="burger()">menu</i>
+  <i id="quit" class="material-icons" onclick="quit()">clear</i>
+
   <div id="links">
     {% for item in site.data.navigation %}
-      <a href="{{ item.link }}">{{ item.name }}</a>
+      <a class="menu-item" href="{{ item.link }}">{{ item.name }}</a>
     {% endfor %}
   </div>
+  
 </div>
