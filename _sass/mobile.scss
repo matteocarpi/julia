@@ -1,5 +1,9 @@
 // Tablet
-
+@media screed and (min-width: 769px){
+  .current-item {
+    padding-left: 2rem;
+  }
+}
 @media screen and (max-width: 768px){
   .current-item {
     flex-direction: column;
