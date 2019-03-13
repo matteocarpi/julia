@@ -57,6 +57,12 @@ nav.dark {
       color: black;
   }
     padding-bottom: 2rem;
+
+  a.nav-link:hover {
+    border-right: solid 1px;
+    border-left: solid 1px;
+    flex-shrink: 0;
+  }
 }
 .active, a.navlink:hover {
   font-weight: bold;
