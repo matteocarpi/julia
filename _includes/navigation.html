@@ -8,7 +8,7 @@
   <i id="burger" class="material-icons" onclick="burger()">menu</i>
   <i id="quit" class="material-icons" onclick="quit()">clear</i>
 
-  <ul id="large-menu" class="navbar-nav {% if page.url != "/" %} dark {% endif %}">
+  <ul id="large-menu" class="navbar-nav {% if page.url != "{{ site.baseurl }}/" %} dark {% endif %}">
     {% for item in site.data.navigation %}
       <li class="nav-item {% if page.url == item.link %} active {% endif %}">
         <a class="nav-link" href="{{ item.link }}"> {{ item.name }}<span class="sr-only">(current)</span></a>

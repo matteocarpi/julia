@@ -1,10 +1,10 @@
 - name: Current Work
-  link: /#current
+  link: {{ site.baseurl }}/#current
 - name: About
-  link: /#about
+  link: {{ site.baseurl }}/#about
 - name: Projects
-  link: /projects
+  link: {{ site.baseurl }}/projects
 - name: Media
-  link: /media
+  link: {{ site.baseurl }}/media
 - name: Contact
-  link: /#contact
+  link: {{ site.baseurl }}/#contact

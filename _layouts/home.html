@@ -22,15 +22,15 @@ layout: default
       {% if post.current == true %}
       <div class="current-item">
         <div class="current-title-wrap">
-        <a href="{{ post.url }}"><h2 class="current-title vertical-left">{{ post.title }}</h2></a>
+        <a href="{{ site.baseurl }}{{ post.url }}"><h2 class="current-title vertical-left">{{ post.title }}</h2></a>
         </div>
         <div  class="current-description">
           <p>{{ post.description | markdownify | truncate: 450 }}</p>
           {% if post.description %}
-            <a class="button" href="{{ post.url }}">Read More</a>
+            <a class="button" href="{{ site.baseurl }}{{ post.url }}">Read More</a>
           {% endif %}
         </div>
-        <div class="current-image" style="background-image: url({{ post.preview_picture }});">
+        <div class="current-image" style="background-image: url({{ site.baseurl }}{{ post.preview_picture }});">
 
         </div>
       </div>

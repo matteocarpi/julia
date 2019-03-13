@@ -11,6 +11,12 @@ body {
   min-height: 100%;
   margin: 0;
 }
+#container {
+  width: 100%;
+  height: 100vh;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
 h1 {
   font-size: 120px;
   font-weight: 700;
@@ -93,7 +99,7 @@ a.name:hover {
   background: linear-gradient(
       rgba(00, 00, 124, 0.5),
       rgba(73, 146, 124, 0.7)
-      ), url(/assets/img/videoblocks-black-ink-drop-in-water-filmed-in-slow-motion_s414zxc9g_thumbnail-full06.jpg);
+      ), url({{ site.baseurl }}/assets/img/videoblocks-black-ink-drop-in-water-filmed-in-slow-motion_s414zxc9g_thumbnail-full06.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

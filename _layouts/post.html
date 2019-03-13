@@ -7,7 +7,7 @@ layout: default
   <h3 class="post-subtitle">{{ page.sub_title }}</h3>
   <div class="main_pictures">
     {% for item in page.main_pictures %}
-      <div class="main_picture" style="background: url({{ item }});
+      <div class="main_picture" style="background: url({{ site.baseurl }}{{ item }});
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;">
