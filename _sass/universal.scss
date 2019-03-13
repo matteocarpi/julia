@@ -29,6 +29,7 @@ p {
 }
 a {
   color: #000000;
+  text-decoration: none;
 }
 img {
   object-fit: contain;
@@ -42,14 +43,14 @@ img {
   border-bottom: solid 1px;
   text-align: center;
 }
-nav {
-  margin-top: 2rem;
+ul#large-menu {
+  display: flex;
+  list-style: none;
+  a.nav-link {
+  padding: 0 1rem;
+  }
 }
-div#navbarNav {
-    display: flex;
-    justify-content: center;
-}
-nav.dark {
+.dark {
   a.nav-link {
       color: black;
   }
