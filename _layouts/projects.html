@@ -14,7 +14,7 @@ layout: default
       <div  class="current-description">
         <p>{{ post.description | markdownify | truncate: 450 }}</p>
         {% if post.description != '' %}
-          <a class="button" href="{{ post.url }}">Read More</a>
+          <a class="button" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
         {% endif %}
       </div>
       <div class="current-image" style="background-image: url({{ post.preview_picture | prepend: site.baseurl }});">

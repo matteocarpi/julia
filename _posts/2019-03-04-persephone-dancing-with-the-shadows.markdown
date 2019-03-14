@@ -5,7 +5,7 @@ current: true
 description: |-
   The performance is a descent into a world of shadows and phantoms and is inspired by the Greek myth of Persephone. The narrative alludes to the cyclical nature of life-death and to the idea of resurrection, questioning what it means to embrace _death-in-life._ The audience is invited into an atmospheric world where they encounter embodied movement, non-linear storytelling, soundscape and shapes in light causing striking shadows.
 
-  ![](/uploads/buenebild.jpg)
+  ![](/julia-preview/uploads/buenebild.jpg)
 
   On stage there are five rectangular wooden frames. Covered in cloth they show shadowed shapes, consequently acting as a backdrop to the projected media of ink in water. They are the stage set and stage partners whilst being objects. The Boxes can be moved throughout the play creating images and sceneries. The performers move with, through and in them.
 permalink: "/:title"
