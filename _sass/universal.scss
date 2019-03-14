@@ -48,6 +48,7 @@ img {
   justify-content: space-around;
   border-bottom: solid 1px;
   text-align: center;
+  flex-shrink: 0;
 }
 ul#large-menu {
   display: flex;

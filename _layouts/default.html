@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
     {% include head.html %}
   <body>
-    {% if page.url != "{{ site.baseurl }}" %}
+    {% if page.permalink != "/" %}
       {% include navigation.html %}
     {% endif %}
     <div id="container">
