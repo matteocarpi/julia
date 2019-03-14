@@ -7,7 +7,7 @@ layout: default
   <h3 class="post-subtitle">{{ page.sub_title }}</h3>
   <div class="main_pictures">
     {% for item in page.main_pictures %}
-      <div class="main_picture" style="background: url({{ site.baseurl }}{{ item }});
+      <div class="main_picture" style="background: url({{ item | prepend: site.baseurl }});
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;">
@@ -22,11 +22,11 @@ layout: default
   <div class="post_gallery">
     <div class="secondary_gallery">
       {% for item in page.vertical_gallery %}
-        <img class="gallery_image {% if page.press or page.youtube_link %} vertical {% endif %}" src="{{ item }}" alt="">
+        <img class="gallery_image {% if page.press or page.youtube_link %} vertical {% endif %}" src="{{ item | prepend: site.baseurl }}" alt="">
       {% endfor %}
 
       {% for item in page.horizontal_gallery %}
-        <img class="gallery_image     {% if page.press or page.youtube_link %} horizontal {% endif %}" src="{{ item }}" alt="">
+        <img class="gallery_image     {% if page.press or page.youtube_link %} horizontal {% endif %}" src="{{ item | prepend: site.baseurl }}" alt="">
       {% endfor %}
     </div>
 
@@ -45,7 +45,7 @@ layout: default
             <h2>Press</h2>
 
             {% for item in page.press_pictures %}
-              <img src="{{ item }}" alt="">
+              <img src="{{ item | prepend: site.baseurl }}" alt="">
             {% endfor %}
           {% endif %}
         </div>

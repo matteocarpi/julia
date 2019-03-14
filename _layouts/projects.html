@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="title">
+<div class="page-title">
   <h1>{{ page.title }}</h1>
 </div>
 <div class="current-work">
@@ -9,7 +9,7 @@ layout: default
   {% if post.only_current == false %}
     <div class="current-item">
       <div class="current-title-wrap">
-      <a href="{{ site.baseurl }}{{ post.url }}"><h2 class="current-title vertical-left">{{ post.title }}</h2></a> 
+      <a href="{{ site.baseurl }}{{ post.url }}"><h2 class="current-title vertical-left">{{ post.title }}</h2></a>
       </div>
       <div  class="current-description">
         <p>{{ post.description | markdownify | truncate: 450 }}</p>
@@ -17,7 +17,7 @@ layout: default
           <a class="button" href="{{ post.url }}">Read More</a>
         {% endif %}
       </div>
-      <div class="current-image" style="background-image: url({{ post.preview_picture }});">
+      <div class="current-image" style="background-image: url({{ post.preview_picture | prepend: site.baseurl }});">
 
       </div>
     </div>
