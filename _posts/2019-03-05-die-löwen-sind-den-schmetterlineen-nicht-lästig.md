@@ -18,5 +18,11 @@ press: true
 press_pictures:
 - "/uploads/Lowen-press.jpg"
 only_current: false
+sub_title: ''
+credits: ''
+gallery:
+- "/uploads/Lowen-6.png"
+- "/uploads/Lowen-4.png"
+- "/uploads/Lowen-5.png"
 
 ---
