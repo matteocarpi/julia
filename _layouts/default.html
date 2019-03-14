@@ -3,13 +3,12 @@
     {% include head.html %}
   <body>
     <div id="container">
-      {% if page.permalink != "/" %}
+      {% if page.url != "/" %}
         {% include navigation.html %}
       {% endif %}
-
       {{ content }}
+      {% include footer.html %}
+      {% include js.html %}
     </div>
-    {% include footer.html %}
-    {% include js.html %}
   </body>
 </html>
