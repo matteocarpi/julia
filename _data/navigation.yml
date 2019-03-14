@@ -1,10 +1,10 @@
 - name: Current Work
-  link: /#current
+  link: /julia-preview/#current
 - name: About
-  link: /#about
+  link: /julia-preview/#about
 - name: Projects
-  link: /projects
+  link: /julia-preview/projects
 - name: Media
-  link: /media
+  link: /julia-preview/media
 - name: Contact
-  link: /#contact
+  link: /julia-preview/#contact
