@@ -33,5 +33,8 @@ press: false
 press_pictures: []
 only_current: false
 undefined: []
+gallery:
+- "/uploads/persephone-gallery-2.jpg"
+- "/uploads/persephone-gallery-1.jpg"
 
 ---
