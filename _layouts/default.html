@@ -2,11 +2,12 @@
 <html lang="en" dir="ltr">
     {% include head.html %}
   <body>
-    {% if page.permalink != "/" %}
-      {% include navigation.html %}
-    {% endif %}
     <div id="container">
-        {{ content }}
+      {% if page.permalink != "/" %}
+        {% include navigation.html %}
+      {% endif %}
+
+      {{ content }}
     </div>
     {% include footer.html %}
     {% include js.html %}
