@@ -43,14 +43,15 @@ fields:
     schema:
       format: markdown
 - type: image_gallery
-  name: vertical_gallery
-  label: Vertical Images
-- type: image_gallery
-  name: horizontal_gallery
-  label: Horizontal Images
+  name: gallery
+  label: gallery
 - type: text
   name: youtube_link
   label: YouTube link
+- type: boolean
+  name: press
+  label: Press
+  description: Are there press images?
 - type: image_gallery
   name: press_pictures
   label: Press Pictures
