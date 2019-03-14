@@ -24,10 +24,6 @@ credits: |-
   **Music and Video support by** Matteo Carpi
 
   **Directed by** Julia Vandehof
-vertical_gallery: []
-horizontal_gallery:
-- "/uploads/Bildschirmfoto 2018-11-28 um 11.29.51 Kopie.png"
-- "/uploads/Bildschirmfoto 2018-11-28 um 11.26.54 Kopie.png"
 youtube_link: ''
 press: false
 press_pictures: []
