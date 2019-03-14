@@ -38,12 +38,12 @@ h3.post-subtitle {
   margin: 2rem auto;
 }
 .secondary_gallery {
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: 2rem;
-    align-items: flex-start;
-    justify-content: center;
-    max-width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 50%;
 }
 img.gallery_image {
   width: 100%;
@@ -59,6 +59,7 @@ img.gallery_image.horizontal {
 .post_gallery {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 .documentation {
   text-align: center;
