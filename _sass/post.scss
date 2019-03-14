@@ -3,7 +3,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 1250px;
     margin: 2rem auto 0 auto;
     padding: 0 2rem;
 }
@@ -41,21 +40,14 @@ h3.post-subtitle {
   display: flex;
   flex-wrap: wrap;
   margin-top: 2rem;
-  align-items: flex-start;
+  align-items: center;
   justify-content: center;
-  max-width: 50%;
 }
 img.gallery_image {
-  width: 100%;
+  max-width: 50%;
+  padding: 2rem;
 }
-img.gallery_image.vertical {
-    max-width: 285px;
-    margin: 5px;
-}
-img.gallery_image.horizontal {
-  max-width: 580px;
-  margin: 5px;
-}
+
 .post_gallery {
   width: 100%;
   display: flex;
