@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Die Löwen sind den Schmetterlineen nicht lästig!
+title: 'Die Löwen sind den Schmetterlineen nicht lästig! '
 preview_picture: "/uploads/Lowen-1.jpg"
 current: false
 main_pictures:
