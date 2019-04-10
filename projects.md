@@ -10,8 +10,8 @@ gallery:
   name: Begegnungszone 2016
   image: "/uploads/IMG_3154.JPG"
 - template: gallery
-  name: Pipi
-  image: "/uploads/persephone-gallery-2.jpg"
+  name: Ohne Angabe 2011
+  image: "/uploads/ohneang.jpg"
 - template: gallery
   name: Pipi
   image: "/uploads/persephone-gallery-2.jpg"
