@@ -13,3 +13,9 @@ fields:
   name: permalink
   label: permalink
   hidden: true
+- type: blocks
+  name: gallery
+  label: Gallery
+  description: other projects go here
+  template_types:
+  - gallery
