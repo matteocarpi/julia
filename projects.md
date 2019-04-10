@@ -13,8 +13,8 @@ gallery:
   name: Ohne Angabe 2011
   image: "/uploads/ohneang.jpg"
 - template: gallery
-  name: Pipi
-  image: "/uploads/persephone-gallery-2.jpg"
+  name: Pietro Pizzi 2013
+  image: "/uploads/pietro-3.jpg"
 - template: gallery
   name: Pipi
   image: "/uploads/persephone-gallery-2.jpg"
