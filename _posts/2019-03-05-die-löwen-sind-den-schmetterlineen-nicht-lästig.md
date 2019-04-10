@@ -4,7 +4,7 @@ title: 'Die Löwen sind den Schmetterlingen nicht lästig! '
 preview_picture: "/uploads/Lowen-1.jpg"
 current: false
 main_pictures:
-- "/uploads/Programmzettel Innen.jpg"
+- "/uploads/Programmzettel-Innen.jpg"
 - "/uploads/Lowen-1.jpg"
 description: ''
 date: 2019-03-05 20:11:10 +0000
