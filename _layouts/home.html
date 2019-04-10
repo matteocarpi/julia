@@ -21,11 +21,22 @@ layout: default
 
       {% for post in site.posts %}
         {% if post.current == true %}
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <div id="" class="current-item-preview" style="background-image: url({{ site.baseurl }}{{ post.preview_picture }});">
-            <h2 class="current-preview-title">{{ post.title }}</h2>
-          </div>
-        </a>
+          {% if post.only_current == false %}
+
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              <div id="" class="current-item-preview" style="background-image: url({{ site.baseurl }}{{ post.preview_picture }});">
+                <h2 class="current-preview-title">{{ post.title }}</h2>
+              </div>
+            </a>
+
+            {% else %}
+
+            <div id="" class="current-item-preview" style="background-image: url({{ site.baseurl }}{{ post.preview_picture }});">
+              <h2 class="current-preview-title">{{ post.title }}</h2>
+            </div>
+            
+          {% endif %}
+
         {% endif %}
       {% endfor %}
 

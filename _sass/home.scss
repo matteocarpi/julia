@@ -59,6 +59,9 @@
   font-size: 30px;
 }
 .current-work-preview {
+  a {
+    width: 100%;
+  }
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -76,11 +79,12 @@
   .current-preview-title {
     opacity: 1;
   }
-  opacity: 0.5;
+  background-color: rgba(255,255,255, 0.5);
 }
 .current-preview-title {
   opacity: 0;
   font-size: 30px;
+  padding: 2rem;
 }
 .current-image {
   width: 40%;
