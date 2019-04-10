@@ -4,8 +4,8 @@ title: Projects
 permalink: projects
 gallery:
 - template: gallery
-  name: Pipi
-  image: "/uploads/persephone-gallery-2.jpg"
+  name: Ein Stück vom Glück 2013
+  image: "/uploads/0072.jpg"
 - template: gallery
   name: Pipi
   image: "/uploads/persephone-gallery-2.jpg"
@@ -27,4 +27,5 @@ gallery:
 - template: gallery
   name: Pipi
   image: "/uploads/persephone-gallery-2.jpg"
+
 ---
