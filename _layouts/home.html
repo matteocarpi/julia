@@ -17,26 +17,19 @@ layout: default
     </div>
   </div>
   <h1 id="current" class="current-section">Current Work</h1>
-    <div class="current-work">
-    {% for post in site.posts %}
-      {% if post.current == true %}
-      <div class="current-item">
-        <div class="current-title-wrap">
-        <a href="{{ site.baseurl }}{{ post.url }}"><h2 class="current-title vertical-left">{{ post.title }}</h2></a>
-        </div>
-        <div  class="current-description">
-          <p>{{ post.description | markdownify | truncate: 450 }}</p>
-          {% if post.description %}
-            <a class="button" href="{{ site.baseurl }}{{ post.url }}">Read More</a>
-          {% endif %}
-        </div>
-        <div class="current-image" style="background-image: url({{ site.baseurl }}{{ post.preview_picture }});">
+    <div class="current-work-preview">
 
-        </div>
-      </div>
-      {% endif %}
-    {% endfor %}
+      {% for post in site.posts %}
+        {% if post.current == true %}
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          <div id="" class="current-item-preview" style="background-image: url({{ site.baseurl }}{{ post.preview_picture }});">
+            <h2 class="current-preview-title">{{ post.title }}</h2>
+          </div>
+        {% endif %}
+      {% endfor %}
+
     </div>
+
 
     <div id="about" class="julia">
       <img class="avatar" src="{{ page.avatar }}" alt="julia vandehof">

@@ -28,6 +28,7 @@
 .current-section {
   margin: 0 auto;
   text-align: center;
+  border-bottom: solid 1px black;
 }
 .current-work {
   display: flex;
@@ -54,6 +55,30 @@
   max-height: 700px;
   text-align: center;
   margin-left: -100px;
+  font-size: 30px;
+}
+.current-work-preview {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.current-item-preview {
+  min-height: 300px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-position: center;
+  background-size: cover;
+}
+.current-item-preview:hover {
+  .current-preview-title {
+    opacity: 1;
+  }
+  opacity: 0.5;
+}
+.current-preview-title {
+  opacity: 0;
   font-size: 30px;
 }
 .current-image {
