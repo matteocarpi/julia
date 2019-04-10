@@ -19,8 +19,8 @@ gallery:
   name: Pipi
   image: "/uploads/persephone-gallery-2.jpg"
 - template: gallery
-  name: Pipi
-  image: "/uploads/persephone-gallery-2.jpg"
+  name: Little Fly 2019
+  image: "/uploads/DSC_3297.jpg"
 - template: gallery
   name: Pipi
   image: "/uploads/persephone-gallery-2.jpg"
