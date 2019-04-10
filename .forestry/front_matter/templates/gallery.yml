@@ -1,13 +1,13 @@
 ---
 label: gallery
 hide_body: true
+display_field: name
 fields:
 - type: text
-  name: layout
-  label: layout
-- type: text
-  name: title
-  label: title
-- type: text
-  name: permalink
-  label: permalink
+  name: name
+  label: name
+  description: Name of the project
+- type: file
+  name: image
+  label: image
+  description: Project image (Best size 300x300px)
