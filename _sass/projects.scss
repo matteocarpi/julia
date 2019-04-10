@@ -17,17 +17,23 @@
   max-width: 1200px;
 }
 .gallery-item {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   background-size: cover;
   background-position: center;
 }
 .gallery.title {
   opacity: 0;
   cursor: default;
+  padding: 1rem;
+}
+.gallery-item, .gallery-title {
+  transition: 0.3s;
 }
 .gallery-item:hover{
   .gallery.title {
     opacity: 1;
   }
+  background-blend-mode: lighten;
+  background-color: rgba(255,255,255, 0.5);
 }
