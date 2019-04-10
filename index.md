@@ -1,9 +1,16 @@
 ---
 layout: home
 title: Home
-permalink: /
+permalink: "/"
 avatar: "./uploads/julia-vandehof.jpg"
-bio: ist Theatermacherin, Physical Performerin und     Schauspielerin. Sie lebt und arbeitet in Berlin und Wien. In Ihren Theaterarbeiten versteht sie Bewegung, Sprache, Film, Licht und Musik gleichwertige Bühnenpartner. Das Kreieren beginnt mit und ausgehend vom Körper. Jedes Projekt ist eine Suche nach einer neuen, entsprechenden Form und entsteht in einem kollaborativen Arbeitsprozess. Diese Art und Weise gemeinsam zu kreieren ist für sie verknüpft mit der Idee, wie sie in dieser Welt leben möchte. Sie sieht es als Gegenangebot zu vorherrschenden Macht- und Denk-Strukturen. Für sie öffnet Theater einen Erlebnisraum, der über das Denken in rationaler Linie hinausgeht. Theater berührt, bewegt, wühlt auf. Es kann gewohnte Sicht-weisen aufbrechen und  erlaubt die Realität anders zu beleuchten.
-
+bio: 'Julia Vandehof was born and raised in Austria. She graduated in Theater, Film
+  and Media Studies from the University of Vienna with a focus on Theatre Pedagogy
+  and was trained as an actress at Drama College Vienna. She then went onto create
+  her own work before going onto taking her Masters degree in Devising Theatre and
+  Performance at LISPA Berlin in collaboration with Rose Bruford College London, where
+  she graduated with Distinction. Later, she toured China as Puppeteer and Co-Director
+  with Little Orange Castle Theatre & Theatro Piccolo. Recently, she embarked on a
+  national tour of India with The Whilst Walking Theatre Festival as an Actress. Her
+  two recent creations are You´ve met your match and Persephone-Dancing with the Shadows. '
 
 ---
