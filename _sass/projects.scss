@@ -9,3 +9,25 @@
 .page-title {
   text-align: center;
 }
+#project-gallery {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1200px;
+}
+.gallery-item {
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+.gallery.title {
+  opacity: 0;
+  cursor: default;
+}
+.gallery-item:hover{
+  .gallery.title {
+    opacity: 1;
+  }
+}
