@@ -74,7 +74,9 @@
   justify-content: center;
   background-position: center;
   background-size: cover;
-  transition: 1s ease-in-out;
+}
+.current-item-preview, .current-preview-title {
+  transition: 0.3s;
 }
 .current-item-preview:hover {
   .current-preview-title {

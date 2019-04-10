@@ -6,5 +6,25 @@ gallery:
 - template: gallery
   name: Pipi
   image: "/uploads/persephone-gallery-2.jpg"
-
+- template: gallery
+  name: Pipi
+  image: "/uploads/persephone-gallery-2.jpg"
+- template: gallery
+  name: Pipi
+  image: "/uploads/persephone-gallery-2.jpg"
+- template: gallery
+  name: Pipi
+  image: "/uploads/persephone-gallery-2.jpg"
+- template: gallery
+  name: Pipi
+  image: "/uploads/persephone-gallery-2.jpg"
+- template: gallery
+  name: Pipi
+  image: "/uploads/persephone-gallery-2.jpg"
+- template: gallery
+  name: Pipi
+  image: "/uploads/persephone-gallery-2.jpg"
+- template: gallery
+  name: Pipi
+  image: "/uploads/persephone-gallery-2.jpg"
 ---

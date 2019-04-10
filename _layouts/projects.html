@@ -27,7 +27,7 @@ layout: default
 
 <div id="project-gallery" class="" >
     {% for item in page.gallery  %}
-      <div id="" class="gallery-item" style="background-image: url({{ item.link }})">
+      <div id="" class="gallery-item" style="background-image: url({{ site.baseurl }}{{ item.image }})">
         <h2 class="gallery title">{{ item.name }}</h2>
       </div>
     {% endfor %}
