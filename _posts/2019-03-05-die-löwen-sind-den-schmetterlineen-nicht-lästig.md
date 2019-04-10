@@ -5,10 +5,9 @@ preview_picture: "/uploads/Lowen-1.jpg"
 current: false
 main_pictures:
 - "/uploads/Lowen-1.jpg"
-- "/uploads/Programmzettel Innen.jpg"
 description: |2-
 
-  \[object HTMLLIElement\]
+  ![](/uploads/Programmzettel Innen.jpg)
 date: 2019-03-05 20:11:10 +0000
 youtube_link: https://www.youtube.com/watch?v=NCu9afXPvPM&t=7s
 vertical_gallery:
