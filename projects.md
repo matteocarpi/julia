@@ -25,7 +25,7 @@ gallery:
   name: Pipi
   image: "/uploads/persephone-gallery-2.jpg"
 - template: gallery
-  name: Pipi
-  image: "/uploads/persephone-gallery-2.jpg"
+  name: Pony 2018
+  image: "/uploads/IMG-20181127-WA0008.jpg"
 
 ---
