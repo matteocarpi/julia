@@ -19,7 +19,12 @@ press_pictures:
 - "/uploads/Lowen-press.jpg"
 only_current: false
 sub_title: ''
-credits: ''
+credits: "Eine Raupe wird zum Schmetterling und dieses Bild zur Metapher für Veränderung.
+  \n\nDoch was passiert eigentlich dazwischen? Im Verborgenen? Was passiert bevor
+  eine Veränderung sichtbar wird?\n\nDie Theaterperformance interessiert sich für
+  genau diese Prozesse; die Widerstände und Euphorie, das Unsagbare, jenes, das sich
+  selbst erst als Realität begreifen muss.\n\nBildende Kunst, Schauspiel und Musik
+  treffen dabei aufeinander und machen gemeinsam Theater!"
 gallery:
 - "/uploads/Lowen-6.png"
 - "/uploads/Lowen-4.png"
