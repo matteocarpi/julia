@@ -19,3 +19,5 @@ fields:
   description: other projects go here
   template_types:
   - gallery
+pages:
+- projects.md
