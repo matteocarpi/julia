@@ -7,8 +7,8 @@ gallery:
   name: Ein Stück vom Glück 2013
   image: "/uploads/0072.jpg"
 - template: gallery
-  name: Pipi
-  image: "/uploads/persephone-gallery-2.jpg"
+  name: Begegnungszone 2016
+  image: "/uploads/IMG_3154.JPG"
 - template: gallery
   name: Pipi
   image: "/uploads/persephone-gallery-2.jpg"
