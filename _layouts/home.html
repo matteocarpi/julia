@@ -34,7 +34,7 @@ layout: default
             <div id="" class="current-item-preview" style="background-image: url({{ site.baseurl }}{{ post.preview_picture }});">
               <h2 class="current-preview-title">{{ post.title }}</h2>
             </div>
-            
+
           {% endif %}
 
         {% endif %}
@@ -47,7 +47,7 @@ layout: default
       <img class="avatar" src="{{ page.avatar }}" alt="julia vandehof">
       <div class="bio">
         <h2>{{ site.name }}</h2>
-        <p>{{ page.bio }}</p>
+        {{ page.bio | markdownify }}
       </div>
     </div>
 
