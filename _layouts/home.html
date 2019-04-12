@@ -47,7 +47,9 @@ layout: default
       <img class="avatar" src="{{ page.avatar }}" alt="julia vandehof">
       <div class="bio">
         <h2>{{ site.name }}</h2>
-        {{ page.bio | markdownify }}
+        <div id="bio-description">
+          {{ page.bio | markdownify }}
+        </div>
       </div>
     </div>
 

@@ -116,6 +116,7 @@
       rgba(247, 247, 247, 0.9)
       ), url(/assets/img/colored-ink.jpg);
   background-size: cover;
+  max-height: 600px;
 }
 .bio {
   h2 {
@@ -128,6 +129,12 @@
   align-items: center;
   justify-content: center;
   padding: 1rem;
+}
+div#bio-description {
+  p {
+  text-align: justify;
+  }
+  overflow-y: scroll;
 }
 .contacts {
   border-bottom: solid 1px;
