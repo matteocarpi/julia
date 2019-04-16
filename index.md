@@ -3,9 +3,9 @@ layout: home
 title: Home
 permalink: "/"
 avatar: "./uploads/julia-vandehof.jpg"
-bio: "I work as an actress and performer, along with theatre with communities, as
-  well as collaborations and professionally commissioned work.  \nThe diversity of
-  my works is reflected in the form they take, experimenting with different aesthetics
+bio: "I work as a theater maker, actress and performer, along with theatre with communities,
+  as well as collaborations and professionally commissioned work.  \nThe diversity
+  of my works is reflected in the form they take, experimenting with different aesthetics
   and styles. \n\nI was born and raised in Austria. I graduated in Theater, Film and
   Media Studies from the University of Vienna with a focus on Theatre Pedagogy and
   was trained as an actress at Drama College Vienna. I then went onto create my own
