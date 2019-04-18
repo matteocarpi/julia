@@ -16,10 +16,11 @@
           {% endfor %}
       </ul>
 
-      <div id="links">
-        {% for item in site.data.navigation %}
-          <a class="menu-item" href="{{ item.link }}">{{ item.name }}</a>
-        {% endfor %}
+      <div id="linkWrap">
+        <div id="links">
+          {% for item in site.data.navigation %}
+            <a class="menu-item" href="{{ item.link }}">{{ item.name }}</a>
+          {% endfor %}
+        </div>
       </div>
-
 </div>
