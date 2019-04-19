@@ -11,6 +11,9 @@
   ul#large-menu {
     display: none;
   }
+  .current-work-preview {
+    flex-wrap: wrap;
+  }
   .current-item {
     flex-direction: column;
   }
