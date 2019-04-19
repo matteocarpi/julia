@@ -6,6 +6,16 @@
   .julia {
     max-height: 600px;
   }
+  .readMore {
+    display: none;
+  }
+  .readLess {
+    display: none;
+  }
+  .longParagraph {
+    max-height: 500px;
+    overflow-y: scroll;
+  }
 }
 @media screen and (max-width: 768px){
   ul#large-menu {
@@ -42,7 +52,13 @@
     flex-direction: column;
     justify-content: center;
   }
-
+  .shortened {
+    max-height: 500px;
+    overflow-y: hidden;
+  }
+  .readLess {
+    display: none;
+  }
   // Project Page
   .post_gallery {
     flex-direction: column;
