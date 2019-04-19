@@ -24,6 +24,8 @@
   cursor: pointer;
 }
 #links{
+  position: fixed;
+  top: 0;
   display: none;
   flex-direction: column;
   width: 100vw;
