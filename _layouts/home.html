@@ -47,9 +47,11 @@ layout: default
       <img class="avatar" src="{{ page.avatar }}" alt="julia vandehof">
       <div class="bio">
         <h2>{{ site.name }}</h2>
-        <div id="bio-description">
+        <div id="bio-description" class="longParagraph shortened">
           {{ page.bio | markdownify }}
         </div>
+        <a onclick="readMore()" class="button readMore">Show More</a>
+        <a onclick="readLess()" class="button readLess">Show Less</a>
       </div>
     </div>
 
