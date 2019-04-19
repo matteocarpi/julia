@@ -3,6 +3,9 @@
   #links, #burger, #quit {
     display: none;
   }
+  .julia {
+    max-height: 600px;
+  }
 }
 @media screen and (max-width: 768px){
   ul#large-menu {
