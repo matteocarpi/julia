@@ -16,10 +16,8 @@ function quit(){
   links.style.display = 'none';
   quit.style.display = 'none';
 }
+
 // Read More
-
-
-
 function readMore(){
   var longParagraph = document.querySelector('.longParagraph');
   var readMore = document.querySelector('.readMore');
