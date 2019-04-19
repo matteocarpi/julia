@@ -19,14 +19,11 @@ press_pictures:
 - "/uploads/Lowen-press.jpg"
 only_current: false
 sub_title: ''
-credits: |-
-  Eine Raupe wird zum Schmetterling und dieses Bild zur Metapher für Veränderung.
-
-  Doch was passiert eigentlich dazwischen? Im Verborgenen? Was passiert bevor eine Veränderung sichtbar wird?
-
-  Die Theaterperformance interessiert sich für genau diese Prozesse; die Widerstände und Euphorie, das Unsagbare, jenes, das sich selbst erst als Realität begreifen muss.
-
-  Bildende Kunst, Schauspiel und Musik treffen dabei aufeinander und machen gemeinsam Theater!
+credits: A caterpillar becomes a butterfly and this image becomes a metaphor for change.
+  But what happens in between? In secret? What happens before a change becomes visible?
+  The theater performance is interested in exactly these processes; the resistance
+  and euphoria; the unspeakable, that first has to understand itself as reality. Visual
+  art, acting and music meet and make theater together!
 gallery:
 - "/uploads/Lowen-6.png"
 - "/uploads/Lowen-4.png"
