@@ -37,7 +37,6 @@ img {
   object-fit: contain;
 }
 .header {
-  margin-top: 2rem;
   display: flex;
   align-items: baseline;
   justify-content: space-around;
@@ -46,8 +45,8 @@ img {
   flex-shrink: 0;
 }
 a.name {
-    h2 {
-      font-size: 50px;
+    h3 {
+      color: white;
     }
 }
 ul#large-menu {
@@ -127,4 +126,11 @@ a.name:hover {
 }
 .longParagraph {
   transition: 1s;
+}
+.header.colouredBackground {
+  background-position: left !important;
+  background-size: cover !important;
+}
+.nav-link {
+  color: white;
 }
