@@ -3,7 +3,14 @@ layout: post
 permalink: "/:title/"
 title: Vom Wind, dem Sand und den Sternen
 sub_title: ''
-credits: Bla Bal Amir khan
+credits: |-
+  **devised and performed by** Rashid A., Amir Khan A., Alidad K., Basir M., Nawid N. Mohammad Bashir Y. // Mahtab A., Farhad K.
+
+  **concept & directed by** Julia Pröglhöf
+
+  **idea & stage set by**  Eva Schafranek
+
+  **technical support by**  Manuel Schimanek, Florian Stransky
 preview_picture: "/uploads/foto-vom-wind.jpg"
 current: false
 only_current: false
