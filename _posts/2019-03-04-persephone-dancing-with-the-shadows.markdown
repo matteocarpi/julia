@@ -32,5 +32,6 @@ undefined: []
 gallery:
 - "/uploads/persephone-gallery-2.jpg"
 - "/uploads/persephone-gallery-1.jpg"
+date: 2019-05-31 22:00:00 +0000
 
 ---
