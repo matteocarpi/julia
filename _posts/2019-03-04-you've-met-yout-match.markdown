@@ -20,6 +20,8 @@ credits: |-
   **devised and performed by** Niall Machin and Julia Vandehof
 
   **technical support by** Matteo Carpi
+
+  **2019** Whilst Walking Theatre Touring Festival India (Bangalore, Pune, Mumbai, Agra, Kalkutta)
 vertical_gallery: []
 horizontal_gallery: []
 youtube_link: ''
