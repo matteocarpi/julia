@@ -15,5 +15,8 @@ gallery:
 - template: gallery
   image: "/uploads/foto-vom-wind.jpg"
   name: From the Wind, the Sand and the Stars 2017
+- template: gallery
+  image: "/uploads/Bildschirmfoto2019-04-1-.png"
+  name: The lives they left behind 2018
 
 ---
