@@ -23,7 +23,7 @@ gallery:
   image: "/uploads/DSC_3297.jpg"
 - template: gallery
   name: The lives they left behind 2018
-  image: "/uploads/Bildschirmfoto 2019-04-19 um 16.11.21.png"
+  image: "/uploads/Bildschirmfoto2019-04-1-.png"
 - template: gallery
   name: Pony 2018
   image: "/uploads/IMG-20181127-WA0008.jpg"
