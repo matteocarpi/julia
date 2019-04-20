@@ -11,9 +11,7 @@ description: |-
   The experience gained through the tour will be further experimented in the next research phase. Formally, it plays with a movement score, as well as moments of memory and the push and pull of everyday life. We play with fragmented light sources, which lets the audience experience an ambiguous sense of time in the character’s emotional journey.
 preview_picture: "/uploads/DSC_3330.jpg"
 main_pictures:
-- "/uploads/DSC_3317.jpg"
-- "/uploads/DSC_3324.jpg"
-- "/uploads/DSC_3332-1.jpg"
+- "/uploads/DSC_3330.jpg"
 secondary_gallery:
 - "/uploads/julia-vandehof.jpg"
 - "/uploads/random-pic.jpg"
