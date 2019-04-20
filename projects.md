@@ -18,5 +18,8 @@ gallery:
 - template: gallery
   image: "/uploads/Bildschirmfoto2019-04-1-.png"
   name: The lives they left behind 2018
+- template: gallery
+  image: "/uploads/Bildschirmfoto2019-04-19.png"
+  name: The Elephant´s Workshop 2018
 
 ---
