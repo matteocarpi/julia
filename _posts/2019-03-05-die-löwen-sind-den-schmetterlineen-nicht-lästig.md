@@ -5,8 +5,7 @@ permalink: "/:title"
 preview_picture: "/uploads/Bildschirmfoto2015-03-13.png"
 current: false
 main_pictures:
-- "/uploads/Lowen-1.jpg"
-- "/uploads/Programmzettel-Innen.jpg"
+- "/uploads/Bildschirmfoto2015-03-13.png"
 description: A caterpillar becomes a butterfly and this image becomes a metaphor for
   change. But what happens in between? In secret? What happens before a change becomes
   visible? The theater performance is interested in exactly these processes; the resistance
