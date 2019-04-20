@@ -26,7 +26,7 @@ gallery:
 - "/uploads/fotowind4.jpg"
 - "/uploads/fotowind2.jpg"
 youtube_link: ''
-press: false
+press: true
 press_pictures:
 - "/uploads/artikelwind2.jpg"
 - "/uploads/artikelvomwind1.jpg"
