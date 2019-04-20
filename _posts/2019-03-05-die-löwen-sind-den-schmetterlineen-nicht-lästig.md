@@ -7,7 +7,11 @@ current: false
 main_pictures:
 - "/uploads/Lowen-1.jpg"
 - "/uploads/Programmzettel-Innen.jpg"
-description: ''
+description: A caterpillar becomes a butterfly and this image becomes a metaphor for
+  change. But what happens in between? In secret? What happens before a change becomes
+  visible? The theater performance is interested in exactly these processes; the resistance
+  and euphoria; the unspeakable, that first has to understand itself as reality. Visual
+  art, acting and music meet and make theater together!
 date: 2019-03-05 20:11:10 +0000
 youtube_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/NCu9afXPvPM"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
@@ -22,16 +26,18 @@ press_pictures:
 - "/uploads/Lowen-press.jpg"
 only_current: false
 sub_title: ''
-credits: A caterpillar becomes a butterfly and this image becomes a metaphor for change.
-  But what happens in between? In secret? What happens before a change becomes visible?
-  The theater performance is interested in exactly these processes; the resistance
-  and euphoria; the unspeakable, that first has to understand itself as reality. Visual
-  art, acting and music meet and make theater together!
+credits: |-
+  devised and performed by Lukas Hochrieder und Julia Pröglhöf
+
+  concept by Julia Pröglhöf
+
+  music by Lelkem
 gallery:
 - "/uploads/11425298_10206973686685147_2078413159_n.jpg"
 - "/uploads/11651357_10206979357706919_269275761_n.jpg"
 - "/uploads/Lowen-6.png"
 - "/uploads/Lowen-4.png"
 - "/uploads/Lowen-5.png"
+press_text: ''
 
 ---
