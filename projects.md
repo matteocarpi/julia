@@ -21,5 +21,8 @@ gallery:
 - template: gallery
   image: "/uploads/Bildschirmfoto2019-04-19.png"
   name: The Elephant´s Workshop 2018
+- template: gallery
+  image: "/uploads/ohneang.jpg"
+  name: Ohne Angabe 2011
 
 ---
