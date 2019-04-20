@@ -63,8 +63,14 @@ fields:
   name: press_pictures
   label: Press Pictures
   description: ''
+- type: textarea
+  name: press_text
+  label: Press Text
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
-- _posts/vom-wind-dem-sand-und-den-sternen.md
 - _posts/2019-03-05-die-löwen-sind-den-schmetterlineen-nicht-lästig.md
 - _posts/2019-03-04-you've-met-yout-match.markdown
 - _posts/2019-03-04-persephone-dancing-with-the-shadows.markdown
