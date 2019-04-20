@@ -4,11 +4,11 @@ permalink: "/:title/"
 title: Vom Wind, dem Sand und den Sternen
 sub_title: ''
 credits: Bla Bal Amir khan
-preview_picture: "/uploads/foto vom wind.jpg"
+preview_picture: "/uploads/foto-vom-wind.jpg"
 current: false
 only_current: false
 main_pictures:
-- "/uploads/foto vom wind.jpg"
+- "/uploads/foto-vom-wind.jpg"
 description: ''
 gallery:
 - "/uploads/fotowind2.jpg"
