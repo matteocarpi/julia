@@ -18,10 +18,14 @@ main_pictures:
 - "/uploads/foto-vom-wind.jpg"
 description: ''
 gallery:
+- "/uploads/fotowind1.jpg"
+- "/uploads/fotowind3.jpg"
+- "/uploads/fotowind4.jpg"
 - "/uploads/fotowind2.jpg"
 youtube_link: ''
 press: false
 press_pictures:
+- "/uploads/artikelwind2.jpg"
 - "/uploads/artikelvomwind1.jpg"
 date: 2019-04-20 10:47:59 +0000
 
