@@ -25,8 +25,14 @@ press_pictures:
 - "/uploads/Lowen-press.jpg"
 only_current: false
 sub_title: ''
-credits: "**devised and performed by** Lukas Hochrieder und Julia Pröglhöf\n\n**concept
-  by** Julia Pröglhöf \n\n**music by** Lelkem"
+credits: |-
+  **devised and performed by** Lukas Hochrieder und Julia Pröglhöf
+
+  **concept by** Julia Pröglhöf
+
+  **music by** Lelkem
+
+  **2016** Kunstwerkstatt Tulln
 gallery:
 - "/uploads/11425298_10206973686685147_2078413159_n.jpg"
 - "/uploads/11651357_10206979357706919_269275761_n.jpg"
