@@ -8,6 +8,11 @@ fields:
   hidden: true
   default: post
 - type: text
+  name: permalink
+  label: Permalink
+  hidden: true
+  default: "/:title/"
+- type: text
   name: title
   label: Title
 - type: text
@@ -59,6 +64,7 @@ fields:
   label: Press Pictures
   description: ''
 pages:
+- _posts/dio-porco.md
 - _posts/2019-03-05-die-löwen-sind-den-schmetterlineen-nicht-lästig.md
 - _posts/2019-03-04-you've-met-yout-match.markdown
 - _posts/2019-03-04-persephone-dancing-with-the-shadows.markdown
