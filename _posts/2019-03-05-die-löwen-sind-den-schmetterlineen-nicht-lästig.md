@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Die Löwen sind den Schmetterlingen nicht lästig!
+permalink: "/:title"
 preview_picture: "/uploads/Lowen-1.jpg"
 current: false
 main_pictures:
@@ -8,7 +9,7 @@ main_pictures:
 - "/uploads/Programmzettel-Innen.jpg"
 description: ''
 date: 2019-03-05 20:11:10 +0000
-youtube_link: https://www.youtube.com/watch?v=NCu9afXPvPM&t=7s
+youtube_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/NCu9afXPvPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 vertical_gallery:
 - "/uploads/Lowen-5.png"
 - "/uploads/Lowen-4.png"
