@@ -23,7 +23,7 @@ fields:
 - type: file
   name: preview_picture
   label: Preview Picture
-  description: This image will show in the homepage if this work is "current"
+  description: This image will show in the homepage and on the Projects page.
 - type: boolean
   name: current
   label: Current
@@ -35,6 +35,7 @@ fields:
 - type: image_gallery
   name: main_pictures
   label: Main Pictures
+  description: The big pictures at the top of the post
 - type: textarea
   name: description
   label: Description
@@ -45,6 +46,7 @@ fields:
 - type: image_gallery
   name: gallery
   label: gallery
+  description: More pictures from the project
 - type: text
   name: youtube_link
   label: YouTube link
