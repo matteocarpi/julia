@@ -12,6 +12,12 @@ fields:
   label: Permalink
   hidden: true
   default: "/:title/"
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: DD/MM/YYYY
+    required: true
 - type: text
   name: title
   label: Title
