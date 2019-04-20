@@ -7,7 +7,7 @@ gallery:
   image: "/uploads/DSC_3297.jpg"
   name: Little Fly 2019
 - template: gallery
-  image: "/uploads/DSC_3330.jpg"
+  image: "/uploads/DSC_3324.jpg"
   name: You´ve met your match 2019
 - template: gallery
   image: "/uploads/Bildschirmfoto-2018-11-30.png"
