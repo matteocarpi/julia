@@ -38,3 +38,7 @@ function readLess(){
   readLess.style.display = 'none';
   readMore.style.display = 'block';
 }
+
+
+// Smooth Scroll
+var scroll = new SmoothScroll('a[href*="#"]');
