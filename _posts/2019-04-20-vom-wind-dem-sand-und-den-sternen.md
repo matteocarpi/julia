@@ -32,6 +32,6 @@ press: true
 press_pictures:
 - "/uploads/artikelwind2.jpg"
 - "/uploads/artikelvomwind1.jpg"
-date: 2019-04-20 10:47:59 +0000
+date: 2016-01-11 11:47:59 +0000
 
 ---
