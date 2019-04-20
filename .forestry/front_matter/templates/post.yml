@@ -8,6 +8,11 @@ fields:
   hidden: true
   default: post
 - type: text
+  name: permalink
+  label: Permalink
+  hidden: true
+  default: "/:title/"
+- type: text
   name: title
   label: Title
 - type: text
