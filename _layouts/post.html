@@ -22,35 +22,42 @@ layout: default
   <div id="credits" class="" >
     {{ page.credits | markdownify }}
   </div>
-  <h2>Gallery</h2>
-  <div class="post_gallery">
-    <div class="secondary_gallery">
-      {% for item in page.gallery %}
-        <img class="gallery_image" src="{{ item | prepend: site.baseurl }}" alt="">
-      {% endfor %}
-    </div>
-  </div>
+
+
+
+
 
     {% if page.press == true or page.youtube_link != '' %}
       <div class="documentation">
+        <div class="post_gallery">
+          <h2>Gallery</h2>
+          <div class="secondary_gallery">
+            {% for item in page.gallery  %}
+              <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"><img class="small" src="{{ item | prepend: site.baseurl }}"></a>
+            {% endfor %}
+          </div>
+        </div>
 
         <div class="trailer">
           {% if page.youtube_link != '' %}
-            <h2>Trailer</h2>
+            <h2>Video</h2>
             {{ page.youtube_link }}
-          {% endif %}
-        </div>
-
-        <div class="press">
-          {% if page.press == true %}
-            <h2>Press</h2>
-
-            {% for item in page.press_pictures %}
-              <img src="{{ item | prepend: site.baseurl }}" alt="">
-            {% endfor %}
           {% endif %}
         </div>
 
       </div>
     {% endif %}
+
+    <div class="press">
+      {% if page.press == true %}
+        <h2>Press</h2>
+
+        {% for item in page.press_pictures %}
+          <img src="{{ item | prepend: site.baseurl }}" alt="">
+        {% endfor %}
+      {% endif %}
+
+      {{ page.press_text | markdownify }}
+
+    </div>
 </div>

@@ -63,8 +63,13 @@
   .post_gallery {
     flex-direction: column;
   }
-  .secondary_gallery, .documentation {
+  .documentation {
     margin: 0 0 2rem 0;
+    flex-direction: column;
+  }
+  // Posts
+  .press {
+    flex-direction: column;
   }
 }
 
