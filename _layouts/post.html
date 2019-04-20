@@ -17,9 +17,7 @@ layout: default
 
   <div class="post_description">
     {{ page.description | markdownify }}
-  </div>
-
-  <div id="credits" class="" >
+    <br><br><br>
     {{ page.credits | markdownify }}
   </div>
 
@@ -52,9 +50,16 @@ layout: default
       {% if page.press == true %}
         <h2>Press</h2>
 
+        <div class="pressGallery">
+
         {% for item in page.press_pictures %}
-          <img src="{{ item | prepend: site.baseurl }}" alt="">
+        
+          <img class="pressPicture" src="{{ item | prepend: site.baseurl }}" alt="">
+
         {% endfor %}
+
+        </div>
+
       {% endif %}
 
       {{ page.press_text | markdownify }}
