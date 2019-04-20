@@ -17,7 +17,7 @@ gallery:
   image: "/uploads/pietro-3.jpg"
 - template: gallery
   name: The Elephants Workshop 2018
-  image: "/uploads/Bildschirmfoto 2019-04-19 um 16.08.27.png"
+  image: "/uploads/Bildschirmfoto2019-04-19.png"
 - template: gallery
   name: Little Fly 2019
   image: "/uploads/DSC_3297.jpg"
