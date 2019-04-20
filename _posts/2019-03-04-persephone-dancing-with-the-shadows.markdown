@@ -14,10 +14,18 @@ secondary_gallery:
 - "/uploads/Bildschirmfoto 2018-11-28 um 11.29.51 Kopie.png"
 - "/uploads/Bildschirmfoto 2018-11-28 um 11.26.54 Kopie.png"
 sub_title: an interdisciplinary theatre project
-credits: "**Created and performed** by Berta del Ben, Niall Fallon,\n\nAinhoa Hevia
-  Uria, Angharad Matthews, Julia Vandehof\n\n**Music and Video support by** Matteo
-  Carpi\n\n**Directed by** Julia Vandehof\n\n**2018** ADA Studios Berlin , English
-  Theatre Berlin "
+credits: |-
+  **Created and performed** by Berta del Ben, Niall Fallon,
+
+  Ainhoa Hevia Uria, Angharad Matthews, Julia Vandehof
+
+  **Music and Video support by** Matteo Carpi
+
+  **Directed by** Julia Vandehof
+
+  **2018** ADA Studios Berlin , English Theatre Berlin
+
+  **2019** Whilst Walking Theatre Touring Festival India (Bangalore, Pune, Mumbai, Agra, Kalkutta)
 youtube_link: ''
 press: true
 press_pictures:
