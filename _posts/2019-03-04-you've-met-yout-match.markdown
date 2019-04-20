@@ -30,7 +30,8 @@ youtube_link: ''
 press: false
 press_pictures: []
 undefined: []
-only_current: true
+only_current: false
 gallery: []
+press_text: ''
 
 ---
