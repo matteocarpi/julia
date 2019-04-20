@@ -16,7 +16,8 @@ current: false
 only_current: false
 main_pictures:
 - "/uploads/foto-vom-wind.jpg"
-description: ''
+description: Moving stories, fiery dances and sounds from a foreign world complement
+  each other to create a funny and touching theater experience for young and old alike.
 gallery:
 - "/uploads/fotowind1.jpg"
 - "/uploads/fotowind3.jpg"
