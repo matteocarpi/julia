@@ -33,5 +33,6 @@ undefined: []
 only_current: false
 gallery: []
 press_text: ''
+date: 2019-01-17 23:00:00 +0000
 
 ---
