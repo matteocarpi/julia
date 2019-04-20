@@ -20,7 +20,7 @@ layout: default
   </div>
 
   <div id="credits" class="" >
-    <h4>{{ page.credits }}</h4>
+    {{ page.credits | markdownify }}
   </div>
   <h2>Gallery</h2>
   <div class="post_gallery">
