@@ -20,4 +20,5 @@ fields:
   template_types:
   - gallery
 pages:
+- _posts/vom-wind-den-sand-und-den-sternen.md
 - projects.md
