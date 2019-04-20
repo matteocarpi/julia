@@ -24,5 +24,8 @@ gallery:
 - template: gallery
   image: "/uploads/ohneang.jpg"
   name: Ohne Angabe 2011
+- template: gallery
+  image: "/uploads/pietro-3.jpg"
+  name: Pietro Pizzi 2012
 
 ---
