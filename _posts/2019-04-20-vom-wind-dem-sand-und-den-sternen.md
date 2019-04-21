@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: "/:title/"
-title: From the wind, the sand and the stars
+title: From the Wind, the Sand and the Stars
 sub_title: ''
 credits: |-
   **devised and performed by** Rashid A., Amir Khan A., Alidad K., Basir M., Nawid N. Mohammad Bashir Y. // Mahtab A., Farhad K.
