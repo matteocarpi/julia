@@ -19,9 +19,9 @@ description: |-
   Moving stories, fiery dances and sounds from a foreign world complement each other to create a funny and touching theater experience for young and old alike.
 gallery:
 - "/uploads/fotowind1.jpg"
-- "/uploads/fotowind3.jpg"
-- "/uploads/fotowind4.jpg"
 - "/uploads/fotowind2.jpg"
+- "/uploads/fotowind4.jpg"
+- "/uploads/fotowind3.jpg"
 youtube_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/reBDoCNH90g"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
