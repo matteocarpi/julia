@@ -6,12 +6,16 @@ preview_picture: "/uploads/Bildschirmfoto2015-03-13.png"
 current: false
 main_pictures:
 - "/uploads/Bildschirmfoto2015-03-13.png"
-description: |-
-  A caterpillar becomes a butterfly and this image becomes a metaphor for change. But what happens in between? In secret? What happens before a change becomes visible? The theater performance is interested in exactly these processes; the resistance and euphoria; the unspeakable, that first has to understand itself as reality. Visual art, acting and music meet and make theater together!
-
-  Something new is about to emerge. Desires and dreams that push into consciousness; old structures that no longer fit in existing form;   Step by step. Sometimes timid, then loud and stomping, euphoria meets with resistance.
-
-  The theatrical performance is interested in precisely these processes, which are made visible through the means of the performing and fine arts, supported by live music.
+description: "A caterpillar becomes a butterfly and this image becomes a metaphor
+  for change. But what happens in between? In secret? What happens before a change
+  becomes visible? The theater performance is interested in exactly these processes;
+  the resistance and euphoria; the unspeakable, that first has to understand itself
+  as reality. Visual art, acting and music meet and make theater together!\n\n  \n\nSomething
+  new is about to emerge. Desires and dreams that push into consciousness; old structures
+  that no longer fit in existing form;   Step by step. Sometimes timid, then loud
+  and stomping, euphoria meets with resistance.\n\nThe theatrical performance is interested
+  in precisely these processes, which are made visible through the means of the performing
+  and fine arts, supported by live music."
 date: 2017-08-17 22:00:00 +0000
 youtube_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/NCu9afXPvPM"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
