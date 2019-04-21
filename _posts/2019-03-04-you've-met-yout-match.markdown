@@ -28,7 +28,7 @@ press_pictures: []
 undefined: []
 only_current: false
 gallery:
-- "/uploads/DSC_3332-1.jpg"
+- "/uploads/DSC_3332.jpg"
 - "/uploads/DSC_3324.jpg"
 - "/uploads/DSC_3317.jpg"
 press_text: ''
