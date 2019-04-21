@@ -35,8 +35,8 @@ credits: |-
   **2016** Kunstwerkstatt Tulln
 gallery:
 - "/uploads/11425298_10206973686685147_2078413159_n.jpg"
-- "/uploads/11651357_10206979357706919_269275761_n.jpg"
 - "/uploads/Lowen-6.png"
+- "/uploads/11651357_10206979357706919_269275761_n.jpg"
 - "/uploads/Lowen-4.png"
 - "/uploads/Lowen-5.png"
 press_text: ''
