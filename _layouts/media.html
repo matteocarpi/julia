@@ -4,4 +4,29 @@ layout: default
 <div class="page-title">
   <h1>{{ page.title }}</h1>
 </div>
-{{ content }}
+<div class="current-work">
+{% for media in site.media %}
+  {% if media.only_current == false %}
+    <div class="current-item">
+      <div class="current-title-wrap">
+      <a href="{{ site.baseurl }}{{ media.url }}"><h2 class="current-title vertical-left">{{ media.title }}</h2></a>
+      </div>
+      <div  class="current-description">
+        <p>{{ media.description | markdownify | truncate: 450 }}</p>
+          <a class="button" href="{{ media.url | prepend: site.baseurl }}">Read More</a>
+      </div>
+      <div class="current-image" style="background-image: url({{ media.preview_picture | prepend: site.baseurl }});">
+
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
+</div>
+
+<div id="project-gallery" class="" >
+    {% for item in page.gallery  %}
+      <div id="" class="gallery-item" style="background-image: url({{ site.baseurl }}{{ item.image }})">
+        <h2 class="gallery title">{{ item.name }}</h2>
+      </div>
+    {% endfor %}
+</div>
