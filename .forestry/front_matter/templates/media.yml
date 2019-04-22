@@ -1,5 +1,5 @@
 ---
-label: Projects
+label: Media
 hide_body: true
 fields:
 - type: text
@@ -16,8 +16,8 @@ fields:
 - type: blocks
   name: gallery
   label: Gallery
-  description: other projects go here
+  description: other pictures with titles go here
   template_types:
   - gallery
 pages:
-- projects.md
+- media.md
