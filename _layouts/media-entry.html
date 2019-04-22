@@ -1,0 +1,68 @@
+---
+layout: default
+---
+<div class="post_container">
+
+  <h2 class="post-title">{{ page.title}}</h2>
+  <h3 class="post-subtitle">{{ page.sub_title }}</h3>
+  <div class="main_pictures">
+    {% for item in page.main_pictures %}
+      <div class="main_picture" style="background: url({{ item | prepend: site.baseurl }});
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;">
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="post_description">
+    {{ page.description | markdownify }}
+    <br><br><br>
+    {{ page.credits | markdownify }}
+  </div>
+
+
+
+
+
+    {% if page.press == true or page.youtube_link != '' %}
+      <div class="documentation">
+        <div class="post_gallery">
+          <h2>Gallery</h2>
+          <div class="secondary_gallery">
+            {% for item in page.gallery  %}
+              <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"><img class="small" src="{{ item | prepend: site.baseurl }}"></a>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="trailer">
+          {% if page.youtube_link != '' %}
+            <h2>Video</h2>
+            {{ page.youtube_link }}
+          {% endif %}
+        </div>
+
+      </div>
+    {% endif %}
+
+    <div class="press">
+      {% if page.press == true %}
+        <h2>Press</h2>
+
+        <div class="pressGallery">
+
+        {% for item in page.press_pictures %}
+        
+          <img class="pressPicture" src="{{ item | prepend: site.baseurl }}" alt="">
+
+        {% endfor %}
+
+        </div>
+
+      {% endif %}
+
+      {{ page.press_text | markdownify }}
+
+    </div>
+</div>
