@@ -1,13 +1,18 @@
 ---
 layout: post
 permalink: "/:title/"
-title: From the wind, the sand and the stars
+title: From the Wind, the Sand and the Stars
 sub_title: ''
-credits: "**devised and performed by** Rashid A., Amir Khan A., Alidad K., Basir M.,
-  Nawid N. Mohammad Bashir Y. // Mahtab A., Farhad K.\n\n**concept & directed by**
-  Julia Pröglhöf\n\n**idea & stage set by**  Eva Schafranek\n\n**technical support
-  by**  Manuel Schimanek, Florian Stransky\n\n**2017** Nökiss Herzogenburg, Freiraum
-  St. Pölten, "
+credits: |-
+  **devised and performed by** Rashid A., Amir Khan A., Alidad K., Basir M., Nawid N. Mohammad Bashir Y. // Mahtab A., Farhad K.
+
+  **concept & directed by** Julia Vandehof
+
+  **idea & stage set by**  Eva Schafranek
+
+  **technical support by**  Manuel Schimanek, Florian Stransky
+
+  **2017** Nökiss Herzogenburg, Freiraum St. Pölten,
 preview_picture: "/uploads/foto-vom-wind.jpg"
 current: false
 only_current: false
@@ -19,9 +24,9 @@ description: |-
   Moving stories, fiery dances and sounds from a foreign world complement each other to create a funny and touching theater experience for young and old alike.
 gallery:
 - "/uploads/fotowind1.jpg"
-- "/uploads/fotowind3.jpg"
-- "/uploads/fotowind4.jpg"
 - "/uploads/fotowind2.jpg"
+- "/uploads/fotowind4.jpg"
+- "/uploads/fotowind3.jpg"
 youtube_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/reBDoCNH90g"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
