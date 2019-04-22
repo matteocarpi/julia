@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: _media
+  path: media
   label: Media Entry
 - type: jekyll-posts
   label: Posts
