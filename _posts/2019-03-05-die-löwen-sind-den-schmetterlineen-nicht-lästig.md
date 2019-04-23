@@ -13,9 +13,9 @@ description: |-
 
   The theatrical performance is interested in precisely these processes, which are made visible through the means of the performing and fine arts, supported by live music.
 date: 2017-08-17 22:00:00 +0000
-youtube_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/NCu9afXPvPM"
+youtube_link: '<iframe width="560" height="315" src="https://www.youtube.com/embed/NCu9afXPvPM"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe>
+  allowfullscreen></iframe> '
 vertical_gallery:
 - "/uploads/Lowen-5.png"
 - "/uploads/Lowen-4.png"
@@ -43,10 +43,10 @@ credits: |-
 gallery:
 - "/uploads/logo.jpg"
 - "/uploads/11425298_10206973686685147_2078413159_n.jpg"
+- "/uploads/Lowen-6.png"
 - "/uploads/11651357_10206979357706919_269275761_n.jpg"
 - "/uploads/Lowen-4.png"
 - "/uploads/Lowen-5.png"
-- "/uploads/Lowen-6.png"
 press_text: ''
 categories: project
 
