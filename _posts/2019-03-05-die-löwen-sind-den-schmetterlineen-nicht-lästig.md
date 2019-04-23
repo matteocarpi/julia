@@ -27,19 +27,19 @@ press_pictures:
 only_current: false
 sub_title: ''
 credits: |-
-  **Devised and Performed by** Lukas Hochrieder und Julia Vandehof
+  **devised and performed by** Lukas Hochrieder und Julia Vandehof
 
-  **Concept by** Julia Vandehof
+  **concept by** Julia Vandehof
 
-  **Music by** Lelkem
+  **music by** Lelkem
 
-  **Video** by Heiko Keiblinger
+  **video support by** Heiko Keiblinger
 
-  **Assistance** Gerold Vogler, Ghwyne Vizvary
+  **assistance by** Gerold Vogler, Ghwyne Vizvary
 
   **2015** Kunstwerkstatt Tulln
 
-  **With support from Generali / Stadt Tulln / Land Niederösterreich /Doing Music / Alfred Gebauer**
+  **with support from Generali / Stadt Tulln / Land Niederösterreich /Doing Music / Alfred Gebauer**
 gallery:
 - "/uploads/logo.jpg"
 - "/uploads/11425298_10206973686685147_2078413159_n.jpg"
