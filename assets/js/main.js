@@ -1,6 +1,5 @@
 // Smooth Scroll
 var scroll = new SmoothScroll('a[href*="#"]');
-
 // Mobile Menu
 function burger(){
   var burger = document.getElementById('burger');
