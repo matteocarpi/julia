@@ -10,14 +10,9 @@ preview_picture: "/uploads/ink2.JPG"
 current: false
 only_current: false
 main_pictures: []
-description: |-
-  **Theatre** for me is a space that opens up a world that stretches, places itself in and plays between
-
-  **REALITY and IMAGINATION.**
-
-  I am interested in exactly this in-between. ...
-
-  ![](/uploads/TheMaPofmycreations.jpg)
+description: "**Theatre** for me is a space that opens up a world \n\nthat stretches,
+  places itself in and plays between\n\n**REALITY and IMAGINATION.**\n\nI am interested
+  in exactly this in-between. ...\n\n![](/uploads/TheMaPofmycreations.jpg)"
 gallery:
 - "/uploads/TheMaPofmycreations-1.jpg"
 youtube_link: ''
