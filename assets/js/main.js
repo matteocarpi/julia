@@ -1,3 +1,6 @@
+// Smooth Scroll
+var scroll = new SmoothScroll('a[href*="#"]');
+
 // Mobile Menu
 function burger(){
   var burger = document.getElementById('burger');
@@ -38,7 +41,3 @@ function readLess(){
   readLess.style.display = 'none';
   readMore.style.display = 'block';
 }
-
-
-// Smooth Scroll
-var scroll = new SmoothScroll('a[href*="#"]');
