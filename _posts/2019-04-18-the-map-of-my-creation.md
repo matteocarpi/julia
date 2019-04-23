@@ -3,7 +3,7 @@ layout: post
 permalink: "/:title/"
 categories: media
 date: 2019-04-18 22:00:00 +0000
-title: The MaP of my creation
+title: A MaP of creation
 sub_title: ''
 credits: text and images by Julia Vandehof
 preview_picture: "/uploads/The MaP of my creations.jpg"
