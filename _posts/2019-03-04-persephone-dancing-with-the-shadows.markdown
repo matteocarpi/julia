@@ -17,16 +17,12 @@ secondary_gallery:
 - "/uploads/Bildschirmfoto 2018-11-28 um 11.29.51 Kopie.png"
 - "/uploads/Bildschirmfoto 2018-11-28 um 11.26.54 Kopie.png"
 sub_title: An Interdisciplinary Theatre Project
-credits: |-
-  **Created and performed** by Berta del Ben, Niall Fallon, Ainhoa Hevia Uria, Angharad Matthews, Julia Vandehof
-
-  **Music and Video support by** Matteo Carpi
-
-  **Directed by** Julia Vandehof
-
-  **2018** ADA Studios 10 times 6 Festival Berlin  / English Theatre  Expat Explore Festival Berlin
-
-  **2019** Whilst Walking Theatre Touring Festival India (United Arts Foundation Bangalore, TIFA Pune,  Castiko Space Mumbai, UP 80 Agra, Delhi , Padatik Kalkutta)
+credits: "**Created and performed** by Berta del Ben, Niall Fallon, Ainhoa Hevia Uria,
+  Angharad Matthews, Julia Vandehof\n\n**Music and Video support by** Matteo Carpi\n\n**Directed
+  by** Julia Vandehof\n\n**2018** ADA Studios 10 times 6 Festival Berlin \n\n**2018**
+  English Theatre  Expat Explore Festival Berlin\n\n**2019**  Whilst Walking Theatre
+  Touring Festival India (United Arts Foundation Bangalore, TIFA Pune,  Castiko Space
+  Mumbai, UP 80 Agra, Delhi , Padatik Kalkutta)"
 youtube_link: ''
 press: true
 press_pictures:
