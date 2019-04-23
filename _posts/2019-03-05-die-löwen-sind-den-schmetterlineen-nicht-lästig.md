@@ -35,6 +35,7 @@ gallery:
 - "/uploads/11651357_10206979357706919_269275761_n.jpg"
 - "/uploads/Lowen-4.png"
 - "/uploads/Lowen-5.png"
+- "/uploads/logos_löwe.jpg"
 - "/uploads/logos_löwe-1.jpg"
 press_text: ''
 categories: project
