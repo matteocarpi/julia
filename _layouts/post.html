@@ -22,11 +22,11 @@ layout: default
   </div>
 
 
-    {% if page.press or page.youtube_link or page.gallery %}
+    {% if page.press or page.youtube_link or page.gallery and page.press != nil  or page.youtube_link != nil or page.gallery != nil %}
 
       <div class="documentation">
 
-        {% if page.gallery %}
+        {% if page.gallery and page.gallery != nil %}
 
           <div class="post_gallery">
             <h2>Gallery</h2>
@@ -40,7 +40,7 @@ layout: default
         {% endif %}
 
         <div class="trailer">
-          {% if page.youtube_link %}
+          {% if page.youtube_link and youtube_link != nil %}
             <h2>Video</h2>
             {{ page.youtube_link }}
           {% endif %}
@@ -50,7 +50,7 @@ layout: default
     {% endif %}
 
     <div class="press">
-      {% if page.press %}
+      {% if page.press_pictures and page.press_pictures != nil %}
         <h2>Press</h2>
 
         <div class="pressGallery">
@@ -64,8 +64,11 @@ layout: default
         </div>
 
       {% endif %}
+      
+      {% if page.press_text and page.press_text != nil %}
 
-      {{ page.press_text | markdownify }}
+        {{ page.press_text | markdownify }}
 
+      {% endif %}
     </div>
 </div>
