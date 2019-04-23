@@ -37,7 +37,7 @@ credits: |-
 
   **with support from**
 
-  ![](/uploads/logos löwe.jpg)
+  ![](/uploads/logos_löwe.jpg)
 gallery:
 - "/uploads/11425298_10206973686685147_2078413159_n.jpg"
 - "/uploads/Lowen-6.png"
