@@ -18,6 +18,19 @@ fields:
   config:
     date_format: DD/MM/YYYY
     required: true
+- type: select
+  name: categories
+  config:
+    source:
+      type: simple
+      section: jekyll-posts
+    required: true
+    options:
+    - project
+    - media
+  label: Category
+  description: Select wether this is a Project or a Media document
+  default: project
 - type: text
   name: title
   label: Title
