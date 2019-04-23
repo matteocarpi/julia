@@ -26,25 +26,16 @@ press_pictures:
 - "/uploads/Lowen-press.jpg"
 only_current: false
 sub_title: ''
-credits: |-
-  **devised and performed by** Lukas Hochrieder und Julia Vandehof
-
-  **concept by** Julia Vandehof
-
-  **music by** Lelkem
-
-  **2015** Kunstwerkstatt Tulln
-
-  **with support from**
-
-  ![](/uploads/logos_löwe.jpg)
+credits: "**devised and performed by** Lukas Hochrieder und Julia Vandehof\n\n**concept
+  by** Julia Vandehof\n\n**music by** Lelkem\n\n**2015** Kunstwerkstatt Tulln\n\n**with
+  support from Generali / Stadt Tulln / Land Niederösterreich** "
 gallery:
 - "/uploads/11425298_10206973686685147_2078413159_n.jpg"
 - "/uploads/Lowen-6.png"
 - "/uploads/11651357_10206979357706919_269275761_n.jpg"
 - "/uploads/Lowen-4.png"
 - "/uploads/Lowen-5.png"
-- "/uploads/logos_löwe.jpg"
+- "/uploads/logos_löwe-1.jpg"
 press_text: ''
 categories: project
 

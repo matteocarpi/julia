@@ -4,18 +4,11 @@ categories: project
 permalink: "/:title/"
 title: From the Wind, the Sand and the Stars
 sub_title: ''
-credits: |-
-  **devised and performed by** Rashid A., Amir Khan A., Alidad K., Basir M., Nawid N. Mohammad Bashir Y. // Mahtab A., Farhad K.
-
-  **concept & directed by** Julia Vandehof
-
-  **idea & stage set by**  Eva Schafranek
-
-  **technical support by**  Manuel Schimanek, Florian Stransky
-
-  **2017** Nökiss Herzogenburg, Freiraum St. Pölten
-
-  **![](/uploads/logocomeon.png)**
+credits: "**devised and performed by** Rashid A., Amir Khan A., Alidad K., Basir M.,
+  Nawid N. Mohammad Bashir Y. // Mahtab A., Farhad K.\n\n**concept & directed by**
+  Julia Vandehof\n\n**idea & stage set by**  Eva Schafranek\n\n**technical support
+  by**  Manuel Schimanek, Florian Stransky\n\n**2017** Nökiss Herzogenburg, Freiraum
+  St. Pölten\n\n**with support from** Come on! Kulturvernetzung / Land Niederösterreich "
 preview_picture: "/uploads/foto-vom-wind.jpg"
 current: false
 only_current: false
