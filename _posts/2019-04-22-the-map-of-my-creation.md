@@ -12,7 +12,7 @@ only_current: false
 main_pictures: []
 description: "**Theatre** for me is a space that opens up a world\n\nthat stretches,
   places itself in and plays between\n\n**REALITY and IMAGINATION.** \n\nI am interested
-  in exactly this in-between. ...\n\n![](/uploads/TheMaPofmycreations.jpg)"
+  in exactly this in-between. ..."
 gallery:
 - "/uploads/TheMaPofmycreations.jpg"
 youtube_link: ''
