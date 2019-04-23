@@ -6,7 +6,7 @@ date: 2019-04-22 22:00:00 +0000
 title: 'A MaP of Creation '
 sub_title: ''
 credits: text and images by Julia Vandehof
-preview_picture: "/uploads/ganz.JPG"
+preview_picture: "/uploads/ink2.JPG"
 current: false
 only_current: false
 main_pictures: []
