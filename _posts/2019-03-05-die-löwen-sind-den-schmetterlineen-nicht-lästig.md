@@ -30,12 +30,12 @@ credits: "**devised and performed by** Lukas Hochrieder und Julia Vandehof\n\n**
   by** Julia Vandehof\n\n**music by** Lelkem\n\n**2015** Kunstwerkstatt Tulln\n\n**with
   support from Generali / Stadt Tulln / Land Niederösterreich** "
 gallery:
+- "/uploads/logo.jpg"
 - "/uploads/11425298_10206973686685147_2078413159_n.jpg"
 - "/uploads/11651357_10206979357706919_269275761_n.jpg"
 - "/uploads/Lowen-4.png"
 - "/uploads/Lowen-5.png"
 - "/uploads/Lowen-6.png"
-- "/uploads/logos_löwe-2.jpg"
 press_text: ''
 categories: project
 
