@@ -17,9 +17,12 @@ secondary_gallery:
 - "/uploads/julia-vandehof.jpg"
 - "/uploads/random-pic.jpg"
 sub_title: ''
-credits: "**devised and performed by** Niall Machin and Julia Vandehof\n\n**technical
-  support by** Matteo Carpi \n\n**2019** Whilst Walking Theatre Touring Festival India
-  (Bangalore, Pune, Mumbai, Agra, Kalkutta)"
+credits: |-
+  **devised and performed by** Niall Machin and Julia Vandehof
+
+  **technical support by** Matteo Carpi
+
+  **2019** Whilst Walking Theatre Touring Festival India (United Arts Foundation Bangalore, TIFA Pune,  Castiko Space Mumbai, UP 80 Agra , Padatik Kalkutta)
 vertical_gallery: []
 horizontal_gallery: []
 youtube_link: ''
