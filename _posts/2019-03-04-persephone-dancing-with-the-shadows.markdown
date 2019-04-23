@@ -3,19 +3,12 @@ layout: post
 categories: project
 title: Persephone - Dancing with the Shadows
 current: true
-description: "The performance is a descent into a world of shadows and phantoms and
-  is inspired by the Greek myth of Persephone. The narrative alludes to the cyclical
-  nature of life-death and to the idea of resurrection, questioning what it means
-  to embrace _death-in-life._ The audience is invited into an atmospheric world where
-  they encounter embodied movement, non-linear storytelling, soundscape and shapes
-  in light causing striking shadows.\n\nOn stage there are five rectangular wooden
-  frames. Covered in cloth they show shadowed shapes, consequently acting as a backdrop
-  to the projected media of ink in water. They are the stage set and stage partners
-  whilst being objects. The Boxes can be moved throughout the play creating images
-  and sceneries. The performers move with, through and in them.\n\nAfter sharing the
-  20-minute piece with an audience in India, Berta del Ben, Matteo Carpi,  Ainhoa
-  Hevia Uria, Niall Machin, Angharad Matthews and Julia Vandehof are currently devising
-  a full-length version of the Performance. The Premiere will be in Autumn 2019. "
+description: |-
+  The performance is a descent into a world of shadows and phantoms and takes the Greek myth of Persephone as its core inspiration. The narrative alludes to the cyclical nature of life-death and to the idea of resurrection, questioning what it means to embrace _death-in-life._ The audience is invited into a world where they encounter non-linear storytelling, deeply atmospheric soundscapes and striking imagery shown through the grotesque nature of the ensemble and shadow play.
+
+  On stage there are five rectangular wooden frames. Covered in cloth they show shadowed shapes, consequently acting as a backdrop to the projected media of ink in water. They are the stage set and stage partners whilst being objects. The boxes can be moved throughout the play creating images and sceneries. The performers move with, through and in them.
+
+  After sharing the 20-minute piece with an audience in India, Berta del Ben, Matteo Carpi,  Ainhoa Hevia Uria, Niall Fallon, Angharad Matthews and Julia Vandehof are currently devising a full-length version of the Performance. The Premiere will be in Autumn 2019.
 permalink: "/:title"
 preview_picture: "/uploads/persephone-ink-back.jpg"
 main_pictures:
@@ -23,7 +16,7 @@ main_pictures:
 secondary_gallery:
 - "/uploads/Bildschirmfoto 2018-11-28 um 11.29.51 Kopie.png"
 - "/uploads/Bildschirmfoto 2018-11-28 um 11.26.54 Kopie.png"
-sub_title: an interdisciplinary theatre project
+sub_title: An Interdisciplinary Theatre Project
 credits: |-
   **Created and performed** by Berta del Ben, Niall Fallon, Ainhoa Hevia Uria, Angharad Matthews, Julia Vandehof
 
