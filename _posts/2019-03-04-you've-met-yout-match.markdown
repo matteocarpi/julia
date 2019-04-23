@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: project
-title: You've Met Your Match
+title: 'You''ve Met Your Match '
 current: true
 preview-picture: "/uploads/random-pic.jpg"
 description: |-
@@ -18,7 +18,7 @@ secondary_gallery:
 - "/uploads/random-pic.jpg"
 sub_title: ''
 credits: |-
-  **devised and performed by** Niall Machin and Julia Vandehof
+  **devised and performed by** Niall Fallon and Julia Vandehof
 
   **technical support by** Matteo Carpi
 
