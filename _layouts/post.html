@@ -25,19 +25,25 @@ layout: default
 
 
 
-    {% if page.press == true or page.youtube_link != '' %}
+    {% if page.press or page.youtube_link or page.gallery %}
+
       <div class="documentation">
-        <div class="post_gallery">
-          <h2>Gallery</h2>
-          <div class="secondary_gallery">
-            {% for item in page.gallery  %}
-              <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"><img class="small" src="{{ item | prepend: site.baseurl }}"></a>
-            {% endfor %}
+
+        {% if page.gallery %}
+
+          <div class="post_gallery">
+            <h2>Gallery</h2>
+            <div class="secondary_gallery">
+              {% for item in page.gallery  %}
+                <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"><img class="small" src="{{ item | prepend: site.baseurl }}"></a>
+              {% endfor %}
+            </div>
           </div>
-        </div>
+          
+        {% endif %}
 
         <div class="trailer">
-          {% if page.youtube_link != '' %}
+          {% if page.youtube_link %}
             <h2>Video</h2>
             {{ page.youtube_link }}
           {% endif %}
@@ -47,13 +53,13 @@ layout: default
     {% endif %}
 
     <div class="press">
-      {% if page.press == true %}
+      {% if page.press %}
         <h2>Press</h2>
 
         <div class="pressGallery">
 
         {% for item in page.press_pictures %}
-        
+
           <img class="pressPicture" src="{{ item | prepend: site.baseurl }}" alt="">
 
         {% endfor %}
