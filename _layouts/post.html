@@ -22,9 +22,6 @@ layout: default
   </div>
 
 
-
-
-
     {% if page.press or page.youtube_link or page.gallery %}
 
       <div class="documentation">
@@ -34,12 +31,12 @@ layout: default
           <div class="post_gallery">
             <h2>Gallery</h2>
             <div class="secondary_gallery">
-              {% for item in page.gallery  %}
+              {% for item in page.gallery %}
                 <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"><img class="small" src="{{ item | prepend: site.baseurl }}"></a>
               {% endfor %}
             </div>
           </div>
-          
+
         {% endif %}
 
         <div class="trailer">
