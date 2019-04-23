@@ -9,7 +9,7 @@ description: |-
 
   The project was programmed as a work-in-progress showing during the Whilst Walking Theater Festival India from January to March 2019.
 
-  The experience gained through the tour will be further experimented in the next research phase. Formally, it plays with a movement score, as well as moments of memory and the push and pull of everyday life. We play with fragmented light sources, which lets the audience experience an ambiguous sense of time in the character’s emotional journey.
+  The experience gained through the tour will be further experimented in the next research phase. Formally, it plays with a movement score, as well as moments of memory and the push and pull of everyday life. A play with fragmented light sources, which lets the audience experience an ambiguous sense of time in the character’s emotional journey.
 preview_picture: "/uploads/DSC_3330.jpg"
 main_pictures:
 - "/uploads/DSC_3330.jpg"
