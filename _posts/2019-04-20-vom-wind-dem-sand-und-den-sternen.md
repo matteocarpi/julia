@@ -13,7 +13,9 @@ credits: |-
 
   **technical support by**  Manuel Schimanek, Florian Stransky
 
-  **2017** Nökiss Herzogenburg, Freiraum St. Pölten,
+  **2017** Nökiss Herzogenburg, Freiraum St. Pölten
+
+  **![](/uploads/logocomeon.png)**
 preview_picture: "/uploads/foto-vom-wind.jpg"
 current: false
 only_current: false
@@ -28,6 +30,7 @@ gallery:
 - "/uploads/fotowind2.jpg"
 - "/uploads/fotowind4.jpg"
 - "/uploads/fotowind3.jpg"
+- "/uploads/logocomeon.png"
 youtube_link: <iframe width="560" height="315" src="https://www.youtube.com/embed/reBDoCNH90g"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
