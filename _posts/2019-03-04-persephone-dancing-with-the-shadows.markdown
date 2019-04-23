@@ -33,7 +33,7 @@ credits: |-
 
   **2018** ADA Studios 10 times 6 Festival Berlin  / English Theatre  Expat Explore Festival Berlin
 
-  **2019** Whilst Walking Theatre Touring Festival India (Bangalore, Pune, Mumbai, Agra, Kalkutta)
+  **2019** Whilst Walking Theatre Touring Festival India (United Arts Foundation Bangalore, TIFA Pune,  Castiko Space Mumbai, UP 80 Agra, Delhi , Padatik Kalkutta)
 youtube_link: ''
 press: true
 press_pictures:
