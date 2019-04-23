@@ -3,21 +3,18 @@ layout: post
 permalink: "/:title/"
 categories: media
 date: 2019-04-22 22:00:00 +0000
-title: A MaP of Creation
+title: 'A MaP of Creation '
 sub_title: ''
 credits: text and images by Julia Vandehof
-preview_picture: "/uploads/ganz.JPG"
+preview_picture: "/uploads/ink2.JPG"
 current: false
 only_current: false
 main_pictures: []
-description: |-
-  **Theatre** for me is a space that opens up a world that stretches, places itself in and plays between
-
-  **REALITY and IMAGINATION.**
-
-  I am interested in exactly this in-between. ...
+description: "**Theatre** for me is a space that opens up a world that stretches,
+  places itself in and plays between\n\n**REALITY and IMAGINATION.**\n\nI am interested
+  in exactly this in-between. ... "
 gallery:
-- "/uploads/The MaP of my creations.jpg"
+- "/uploads/TheMaPofmycreations-1.jpg"
 youtube_link: ''
 press: false
 press_pictures: []
