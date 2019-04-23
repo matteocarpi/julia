@@ -14,7 +14,7 @@ description: "**Theatre** for me is a space that opens up a world that stretches
   places itself in and plays between\n\n**REALITY and IMAGINATION.**\n\nI am interested
   in exactly this in-between. ... "
 gallery:
-- "/uploads/The MaP of my creations.jpg"
+- "/uploads/TheMaPofmycreations-1.jpg"
 youtube_link: ''
 press: false
 press_pictures: []
