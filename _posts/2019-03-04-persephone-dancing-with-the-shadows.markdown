@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: project
 title: Persephone - Dancing with the Shadows
 current: true
 description: "The performance is a descent into a world of shadows and phantoms and

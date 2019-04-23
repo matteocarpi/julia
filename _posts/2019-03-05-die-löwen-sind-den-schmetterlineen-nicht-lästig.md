@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: project
 title: Die Löwen sind den Schmetterlingen nicht lästig!
 permalink: "/:title"
 preview_picture: "/uploads/Bildschirmfoto2015-03-13.png"

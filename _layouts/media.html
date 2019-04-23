@@ -6,7 +6,6 @@ layout: default
 </div>
 <div class="current-work">
 {% for media in site.media %}
-  {% if media.only_current == false %}
     <div class="current-item">
       <div class="current-title-wrap">
       <a href="{{ site.baseurl }}{{ media.url }}"><h2 class="current-title vertical-left">{{ media.title }}</h2></a>
@@ -19,7 +18,6 @@ layout: default
 
       </div>
     </div>
-  {% endif %}
 {% endfor %}
 </div>
 

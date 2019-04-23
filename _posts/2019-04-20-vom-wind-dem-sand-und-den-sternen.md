@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: project
 permalink: "/:title/"
 title: From the Wind, the Sand and the Stars
 sub_title: ''

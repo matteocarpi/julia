@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: project
 title: You've Met Your Match
 current: true
 preview-picture: "/uploads/random-pic.jpg"
