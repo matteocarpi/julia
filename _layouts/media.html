@@ -11,9 +11,17 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}"><h2 class="current-title vertical-left">{{ post.title }}</h2></a>
       </div>
       <div  class="current-description">
-        <p>{{ post.description | markdownify | truncate: 450 }}</p>
-          <a class="button" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+        
+        <div id="" class="" >
+
+
+          <p>{{ post.description | markdownify | truncate: 450 }}</p>
+        </div>
+
+        <a class="button" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+
       </div>
+
       <div class="current-image" style="background-image: url({{ post.preview_picture | prepend: site.baseurl }});">
 
       </div>
