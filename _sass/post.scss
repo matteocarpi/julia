@@ -72,6 +72,7 @@ img.large {
 }
 .trailer, .secondary_gallery {
   margin: 0 2rem;
+  align-items: flex-start;
 }
 .press {
   h2 {
@@ -79,7 +80,7 @@ img.large {
   }
   margin-top: 5rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   min-width: 80%;
   flex-wrap: wrap;

@@ -36,7 +36,7 @@ layout: default
         {% endif %}
 
         <div class="trailer">
-          {% if page.youtube_link and youtube_link != nil %}
+          {% if page.youtube_link and page.youtube_link != '' %}
             <h2>Video</h2>
             {{ page.youtube_link }}
           {% endif %}
