@@ -58,9 +58,17 @@ h3.post-subtitle {
   align-items: flex-start;
   margin-bottom: 2rem;
 }
+img {
+  padding: 0.1rem;
+}
 img.small {
   max-height: 250px;
-  padding: 0.1rem;
+}
+img.medium {
+  max-width: 400px;
+}
+img.large {
+  max-width: 600px;
 }
 .trailer, .secondary_gallery {
   margin: 0 2rem;
