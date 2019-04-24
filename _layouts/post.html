@@ -7,11 +7,7 @@ layout: default
   <h3 class="post-subtitle">{{ page.sub_title }}</h3>
   <div class="main_pictures">
     {% for item in page.main_pictures %}
-      <div class="main_picture" style="background: url({{ item | prepend: site.baseurl }});
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;">
-      </div>
+        <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"><img class="large" src="{{ item | prepend: site.baseurl }}"></a>
     {% endfor %}
   </div>
 
@@ -26,7 +22,7 @@ layout: default
 
       <div class="documentation">
 
-        {% if page.gallery and page.gallery != nil %}
+        {% if page.gallery and page.gallery != nil and page.gallery.size >= 1 %}
 
           <div class="post_gallery">
             <h2>Gallery</h2>
@@ -57,7 +53,7 @@ layout: default
 
         {% for item in page.press_pictures %}
 
-          <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"><img class="small" src="{{ item | prepend: site.baseurl }}"></a>
+          <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"><img class="medium" src="{{ item | prepend: site.baseurl }}"></a>
 
         {% endfor %}
 
