@@ -8,9 +8,9 @@ bio: "\nJulia Vandehof is a theatre maker, actress and performer. She lives and 
   of narration. Her interdisciplinary approach combines movement, drama, video and
   stage design acting as complementary, interconnected disciplines. Her focus is on
   collaborative devising, exploring the idea of the poetic body and the practice of
-  embodied movement.\n\nJulia was born and raised in Austria. She graduated in Theatre,
-  Film and Media Studies from the University of Vienna with a focus on Theatre Pedagogy
-  and was trained as an actress at Drama College Vienna. After working in these areas
+  embodied movement.\n\nJulia was born and raised in Austria. She trained as an Actress
+  at Drama College Vienna and graduated in Theatre, Film and Media Studies from the
+  University of Vienna with a focus on Theatre Pedagogy. After working in these areas
   and creating her first own piece Die Löwen sind den Schmetterlingen nicht lästig,
   she then went on to taking her Masters degree in Devised Theatre and Performance
   at LISPA Berlin in collaboration with Rose Bruford College London, where she graduated
