@@ -15,7 +15,7 @@ description: |-
 date: 2017-08-17 22:00:00 +0000
 youtube_link: '<iframe width="560" height="315" src="https://www.youtube.com/embed/NCu9afXPvPM"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe> '
+  allowfullscreen></iframe>'
 vertical_gallery:
 - "/uploads/Lowen-5.png"
 - "/uploads/Lowen-4.png"
