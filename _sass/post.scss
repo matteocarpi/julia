@@ -62,7 +62,7 @@ img {
   padding: 0.1rem;
 }
 img.small {
-  max-height: 250px;
+  width: 300px;
 }
 img.medium {
   max-width: 400px;
@@ -74,6 +74,9 @@ img.large {
   margin: 0 2rem;
 }
 .press {
+  h2 {
+  margin-right: 2rem;
+  }
   margin-top: 5rem;
   display: flex;
   justify-content: space-between;
