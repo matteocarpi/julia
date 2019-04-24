@@ -50,7 +50,7 @@ layout: default
     {% endif %}
 
     <div class="press">
-      {% if page.press_pictures and page.press_pictures != nil %}
+      {% if page.press_pictures and page.press_pictures != nil and press_pictures > 1 %}
         <h2>Press</h2>
 
         <div class="pressGallery">
@@ -64,7 +64,7 @@ layout: default
         </div>
 
       {% endif %}
-      
+
       {% if page.press_text and page.press_text != nil %}
 
         {{ page.press_text | markdownify }}
