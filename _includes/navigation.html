@@ -12,13 +12,11 @@
       <i id="burger" class="material-icons" onclick="burger()">menu</i>
       <i id="quit" class="material-icons" onclick="quit()">clear</i>
 
-      <ul id="large-menu" class="navbar-nav">
-        {% for item in site.data.navigation %}
-          <li class="nav-item {% if page.url contains item.link %} active {% endif %}">
-            <a class="nav-link" href="{{ item.link }}"> {{ item.name }}
-          </li>
+        <div class= "navigation">
+          {% for item in site.data.navigation %}
+            <a class="nav-link {% if page.url contains item.link %} active {% endif %}" href="{{ item.link }}"> {{ item.name }}
           {% endfor %}
-      </ul>
+        </div>
 
         <div id="links">
           {% for item in site.data.navigation %}
