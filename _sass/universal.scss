@@ -111,7 +111,7 @@ a.name:hover {
 }
 .page-title::after {
   content: "";
-  background: linear-gradient(rgba(000,000,000, 0.2), rgba(000,000,000, 0.3)), url(/julia-preview/uploads/print2.JPG);
+  background: linear-gradient(rgba(000,000,000, 0.2), rgba(000,000,000, 0.3)), url(/uploads/print2.JPG);
   filter: blur(1px);
   width: 120%;
   background-size: cover;
@@ -128,7 +128,7 @@ a.name:hover {
   background: linear-gradient(
       rgba(000, 000, 000, 0.3),
       rgba(000, 000, 000, 0.5)),
-      url(/julia-preview/assets/img/videoblocks-black-ink-drop-in-water-filmed-in-slow-motion_s414zxc9g_thumbnail-full06.jpg);
+      url(/assets/img/videoblocks-black-ink-drop-in-water-filmed-in-slow-motion_s414zxc9g_thumbnail-full06.jpg);
 }
 .title {
   margin: 0 auto;
