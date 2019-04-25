@@ -9,7 +9,7 @@ credits: "**devised and performed by** Rashid A., Amir Khan A., Alidad K., Basir
   Julia Vandehof\n\n**idea & stage set by**  Eva Schafranek\n\n**technical support
   by**  Manuel Schimanek, Florian Stransky\n\n**2017** Nökiss Herzogenburg, Freiraum
   St. Pölten\n\n**with support from** Come on! Kulturvernetzung / Land Niederösterreich "
-preview_picture: "/uploads/foto-vom-wind.jpg"
+preview_picture: "/uploads/foto vom wind Kopie.jpg"
 current: false
 only_current: false
 main_pictures:
