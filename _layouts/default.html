@@ -2,8 +2,11 @@
 <html lang="en" dir="ltr">
     {% include head.html %}
   <body>
-    {% include navigation.html %}
-    {{ content }}
-    {% include footer.html %}
+      {% if page.url != "/" %}
+        {% include navigation.html %}
+      {% endif %}
+      {{ content }}
+      {% include footer.html %}
+      {% include js.html %}
   </body>
 </html>

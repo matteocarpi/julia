@@ -1,0 +1,96 @@
+.post_container {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem auto 0 auto;
+    padding: 0 2rem 2rem 2rem;
+}
+.main_pictures {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 2rem;
+  max-width: 1250px;
+  width: 100%;
+}
+.main_picture {
+  max-width: 600px;
+  margin-bottom: 2rem;
+  background-size: contain;
+}
+h2.post-title {
+    max-width: 800px;
+    text-align: center;
+    margin: 0;
+}
+h3.post-subtitle {
+    font-style: italic;
+      text-align: center;
+}
+.main_picture {
+  width: 60%;
+  padding-top: (60% / 16) * 9;
+}
+.post_description {
+  max-width: 800px;
+  margin: 2rem auto;
+}
+.secondary_gallery {
+  max-width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+  align-items: center;
+}
+.post_gallery {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+.documentation {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+img {
+  padding: 0.1rem;
+}
+img.small {
+  width: 300px;
+}
+img.medium {
+  max-width: 400px;
+}
+img.large {
+  max-width: 600px;
+}
+.trailer, .secondary_gallery {
+  margin: 0 2rem;
+  align-items: flex-start;
+}
+.press {
+  h2 {
+  margin-right: 2rem;
+  }
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 80%;
+  flex-wrap: wrap;
+}
+.pressPicture {
+  max-width: 600px;
+}
+.pressGallery {
+  display: flex;
+  align-items: flex-start;
+}

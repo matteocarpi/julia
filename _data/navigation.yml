@@ -1,0 +1,8 @@
+- name: About
+  link: /julia-preview/#about
+- name: Projects
+  link: /julia-preview/projects
+- name: Media
+  link: /julia-preview/media
+- name: Contact
+  link: /julia-preview/#contact

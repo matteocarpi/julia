@@ -1,9 +1,14 @@
 ---
 layout: home
 title: Home
-permalink: /
-avatar:
-bio: ist Theatermacherin, Physical Performerin und     Schauspielerin. Sie lebt und arbeitet in Berlin und Wien. /n /n In Ihren Theaterarbeiten versteht sie Bewegung, Sprache, Film, Licht und Musik gleichwertige Bühnenpartner. Das Kreieren beginnt mit und ausgehend vom Körper. Jedes Projekt ist eine Suche nach einer neuen, entsprechenden Form und entsteht in einem kollaborativen Arbeitsprozess. Diese Art und Weise gemeinsam zu kreieren ist für sie verknüpft mit der Idee, wie sie in dieser Welt leben möchte. Sie sieht es als Gegenangebot zu vorherrschenden Macht- und Denk-Strukturen. /n /n Für sie öffnet Theater einen Erlebnisraum, der über das Denken in rationaler Linie hinausgeht. Theater berührt, bewegt, wühlt auf. Es kann gewohnte Sicht-weisen aufbrechen und  erlaubt die Realität anders zu beleuchten.
+permalink: "/"
+avatar: "./uploads/julia-vandehof.jpg"
+bio: |-
+  Julia Vandehof is a theatre maker, actress and physical performer. She lives and works in Berlin and Vienna. Her work uses a strong visual language with non-linear forms of narration. Her interdisciplinary approach combines movement, drama, video and stage design acting as complementary, interconnected disciplines. Her focus is on collaborative devising, exploring the idea of the poetic body and the practice of embodied movement.
 
+  Julia was born and raised in Austria. She trained as an Actress at Drama College Vienna and graduated in Theatre, Film and Media Studies from the University of Vienna with a focus on Theatre Pedagogy. After working in these areas and creating her first own piece Die Löwen sind den Schmetterlingen nicht lästig, she then went on to taking her Masters degree in Devised Theatre and Performance at LISPA Berlin in collaboration with Rose Bruford College London, where she graduated with Distinction. Later, she toured China as a Puppeteer and Co-Director with Little Orange Castle Theatre & Theatro Piccolo. Recently, she embarked on a national tour of India with The Whilst Walking Theatre Festival (The Collaborators & Bacterial Factory).
 
 ---
+Julia Vandehof is a theatre maker, actress and physical performer. She lives and works in Berlin and Vienna. Her work uses a strong visual language with non-linear forms of narration. Her interdisciplinary approach combines movement, drama, video and stage design acting as complementary, interconnected disciplines. Her focus is on collaborative devising, exploring the idea of the poetic body and the practice of embodied movement.
+
+Julia was born and raised in Austria. She trained as an Actress at _Drama College Vienna_ and graduated in Theatre, Film and Media Studies from the _University of Vienna_ with a focus on Theatre Pedagogy. After working in these areas and creating her first own piece _Die Löwen sind den Schmetterlingen nicht lästig_, she then went on to taking her Masters degree in _Devised Theatre and Performance_ at LISPA Berlin in collaboration with Rose Bruford College London, where she graduated with Distinction. Later, she toured China as a Puppeteer and Co-Director with _Little Orange Castle Theatre & Theatro Piccolo_. Recently, she embarked on a national tour of India with The Whilst Walking Theatre Festival (_The Collaborators & Bacterial Factory_).

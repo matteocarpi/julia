@@ -1,0 +1,98 @@
+// Tablet
+@media screen and (min-width: 769px){
+  #links, #burger, #quit {
+    display: none;
+  }
+  .julia {
+    max-height: 600px;
+  }
+  .readMore {
+    display: none;
+  }
+  .readLess {
+    display: none;
+  }
+  .longParagraph {
+    max-height: 500px;
+    overflow-y: scroll;
+  }
+}
+@media screen and (max-width: 768px){
+  ul#large-menu {
+    display: none;
+  }
+  .current-work-preview {
+    flex-wrap: wrap;
+  }
+  .current-item {
+    flex-direction: column;
+  }
+  .current-title-wrap {
+    margin-left: 0;
+  }
+  .vertical-left {
+    transform: rotate(0deg);
+  }
+  .current-title {
+    margin-left: 0;
+  }
+  .current-image {
+    order: 2;
+    width: 100%;
+  }
+  .current-description {
+    order: 3;
+  }
+  .julia {
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2rem;
+  }
+  div#contact {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .shortened {
+    max-height: 500px;
+    overflow-y: hidden;
+  }
+  .readLess {
+    display: none;
+  }
+  // Project Page
+  .post_gallery {
+    flex-direction: column;
+  }
+  .documentation {
+    margin: 0 0 2rem 0;
+    flex-direction: column;
+  }
+  // Posts
+  .press {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  h1 {
+    font-size: 60px;
+  }
+  a.email {
+    font-size: 20px;
+  }
+  .avatar {
+    width: 80%;
+  }
+  h2 {
+    font-size: 50px;
+  }
+}
+
+@media screen and (max-width: 375px){
+  h2.post-title {
+    font-size: 2rem;
+  }
+  h3.post-subtitle {
+    font-size: 1rem;
+  }
+}

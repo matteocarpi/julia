@@ -1,0 +1,12 @@
+---
+label: gallery
+hide_body: true
+fields:
+- type: text
+  name: name
+  label: name
+  description: Name of the project
+- type: file
+  name: image
+  label: image
+  description: Project image (Best size 300x300px)

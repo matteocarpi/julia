@@ -1,0 +1,23 @@
+---
+label: Media
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+  hidden: true
+- type: blocks
+  name: gallery
+  label: Gallery
+  description: other pictures with titles go here
+  template_types:
+  - gallery
+pages:
+- media.md

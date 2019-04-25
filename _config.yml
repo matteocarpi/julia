@@ -14,11 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Julia Vandehof
-name: Julia Vandehof
+name: "Julia Vandehof"
 profession: Theatre Maker | Performer
 email: julia.vandehof@gmx.at
 description: Theater Maker | Performer
-baseurl: "" # the subpath of your site, e.g. /blog
+permalink: /:title/
+baseurl: /julia-preview # the subpath of your site, e.g. /blog
 url: "https://www.juliavandehof.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -27,7 +28,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
+collections:
+  - media
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

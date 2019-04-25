@@ -1,0 +1,137 @@
+.title-slide {
+  * {
+    text-align: center;
+    color: white;
+  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1 0 auto;
+  height: 100vh;
+  min-height: 550px;
+}
+.fas.fa-arrow-down {
+  margin-top: 5rem;
+  font-size: 70px;
+}
+.current-section {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  border-bottom: solid 1px black;
+}
+.current-work {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: solid 1px black;
+}
+.current-item {
+  width: 100%;
+  min-height: 300px;
+  border-top: solid 1px black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.vertical-left {
+  transform: rotate(-90deg);
+}
+.current-title-wrap {
+  padding: 2rem 0;
+  margin-left: 2rem;
+  width: 200px;
+}
+.current-title {
+  max-height: 700px;
+  text-align: center;
+  font-size: 30px;
+}
+.current-work-preview {
+  a {
+    width: 100%;
+  }
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.current-item-preview {
+  min-height: 300px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-position: center;
+  background-size: cover;
+}
+.current-item-preview, .current-preview-title {
+  transition: 0.3s;
+}
+.current-item-preview:hover {
+  .current-preview-title {
+    opacity: 1;
+  }
+  background-blend-mode: lighten;
+  background-color: rgba(255,255,255, 0.5);
+}
+.current-preview-title {
+  opacity: 0;
+  font-size: 30px;
+  padding: 2rem;
+}
+.current-image {
+  width: 40%;
+  height: 100%;
+  padding-top: 40%;
+  background-position: center;
+  background-size: cover;
+}
+.current-description {
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100%;
+  padding: 2rem;
+}
+.julia {
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom: solid 1px;
+  border-top: solid 1px;
+  background-size: cover;
+}
+.bio {
+  h2 {
+    text-align: center;
+  }
+  margin: 0 auto;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+div#bio-description {
+  p {
+  text-align: justify;
+  }
+}
+.contacts {
+  border-bottom: solid 1px;
+  display: flex;
+  align-items: center;
+  min-height: 300px;
+}
+a.email {
+    margin: 0 auto;
+    color: black;
+    font-size: 50px;
+    transition: 0.3s;
+}
+a.email:hover {
+    transform: scale(1.02);
+    text-shadow: 1px 1px 2px grey;
+}

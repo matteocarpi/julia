@@ -1,10 +1,62 @@
 ---
-layout: coming-soon
+layout: default
 ---
-<div class="title-slide">
-  <div class="name">
-      <h1>{{ site.name }}</h1>
-      <h3>{{ site.profession }}</h3>
-      <h3> <em>Coming Soon</em> </h2>
+<div class="background-home">
+  <div class="title-slide">
+    {% include navigation.html %}
+    <div class="grow">
+    </div>
+      <div class="name">
+          <h1 class="light">{{ site.name }}</h1>
+          <h3>{{ site.profession }}</h3>
+      </div>
+      <a href="{{ site.baseurl }}/#current"><i class="fas fa-arrow-down"></i></a>
+      <div class="grow">
+
+      </div>
+    </div>
   </div>
+  <h1 id="current" class="current-section">Current Work</h1>
+    <div class="current-work-preview">
+
+      {% for post in site.posts %}
+        {% if post.current == true %}
+          {% if post.only_current == false %}
+
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              <div id="" class="current-item-preview" style="background-image: url({{ site.baseurl }}{{ post.preview_picture }});">
+                <h2 class="current-preview-title">{{ post.title }}</h2>
+              </div>
+            </a>
+
+            {% else %}
+
+            <div id="" class="current-item-preview" style="background-image: url({{ site.baseurl }}{{ post.preview_picture }});">
+              <h2 class="current-preview-title">{{ post.title }}</h2>
+            </div>
+
+          {% endif %}
+
+        {% endif %}
+      {% endfor %}
+
+    </div>
+
+    <h1 id="about" class="title">About</h1>
+    <div id="" class="julia">
+      <img class="avatar" src="{{ page.avatar }}" alt="julia vandehof">
+      <div class="bio">
+        <h2>{{ site.name }}</h2>
+        <div id="bio-description" class="longParagraph shortened">
+          {{ page.bio | markdownify }}
+        </div>
+        <a onclick="readMore()" class="button readMore">Show More</a>
+        <a onclick="readLess()" class="button readLess">Show Less</a>
+      </div>
+    </div>
+
+    <div id="contact" class="contacts">
+      <h2 class="vertical-left">Contact</h2>
+      <a class="email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+    </div>
 </div>
