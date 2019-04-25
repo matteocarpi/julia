@@ -42,29 +42,28 @@ layout: default
           {% endif %}
         </div>
 
+        <div class="press">
+          {% if page.press_pictures and page.press_pictures != nil and page.press_pictures.size >= 1 %}
+            <h2>Press</h2>
+
+            <div class="pressGallery">
+
+            {% for item in page.press_pictures %}
+
+              <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"><img class="medium" src="{{ item | prepend: site.baseurl }}"></a>
+
+            {% endfor %}
+
+            </div>
+
+          {% endif %}
+
+          {% if page.press_text and page.press_text != nil %}
+
+            {{ page.press_text | markdownify }}
+
+          {% endif %}
+        </div>
       </div>
     {% endif %}
-
-    <div class="press">
-      {% if page.press_pictures and page.press_pictures != nil and page.press_pictures.size >= 1 %}
-        <h2>Press</h2>
-
-        <div class="pressGallery">
-
-        {% for item in page.press_pictures %}
-
-          <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"><img class="medium" src="{{ item | prepend: site.baseurl }}"></a>
-
-        {% endfor %}
-
-        </div>
-
-      {% endif %}
-
-      {% if page.press_text and page.press_text != nil %}
-
-        {{ page.press_text | markdownify }}
-
-      {% endif %}
-    </div>
 </div>
