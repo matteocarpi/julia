@@ -31,9 +31,13 @@ press_pictures:
 only_current: false
 undefined: []
 gallery:
+- "/uploads/DSC06902.JPG"
+- "/uploads/DSC06739.JPG"
+- "/uploads/DSC06728.JPG"
+- "/uploads/DSC06753.JPG"
 - "/uploads/persephone-gallery-2.jpg"
 - "/uploads/persephone-gallery-1.jpg"
-date: 2019-04-19 22:00:00 +0000
+date: 2019-04-19T22:00:00.000+00:00
 press_text: ''
 
 ---
