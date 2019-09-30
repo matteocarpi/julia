@@ -19,7 +19,6 @@ preview_picture: "/uploads/DSCN0751.JPG"
 current: false
 only_current: false
 main_pictures:
-- "/uploads/DSCN0782.JPG"
 - "/uploads/DSCN0751-1.JPG"
 description: |2-
 
@@ -27,6 +26,7 @@ description: |2-
 
   The play questions norms and ideals of beauty and encourages to define it yourself.
 gallery:
+- "/uploads/DSCN0782.JPG"
 - "/uploads/DSCN0742.JPG"
 youtube_link: ''
 press: false
