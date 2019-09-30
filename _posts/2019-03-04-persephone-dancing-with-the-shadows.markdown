@@ -8,7 +8,7 @@ description: |-
 
   On stage there are five rectangular wooden frames. Covered in cloth they show shadowed shapes, consequently acting as a backdrop to the projected media of ink in water. They are the stage set and stage partners whilst being objects. The boxes can be moved throughout the play creating images and sceneries. The performers move with, through and in them.
 
-  After sharing the 20-minute piece with an audience in India, Berta del Ben, Matteo Carpi,  Ainhoa Hevia Uria, Niall Fallon, Angharad Matthews and Julia Vandehof are currently devising a full-length version of the Performance. The Premiere will be in Autumn 2019.
+  After sharing the 20-minute piece with an audience in India, Berta del Ben, Matteo Carpi,  Ainhoa Hevia Uria, Niall Fallon, Angharad Matthews and Julia Vandehof are currently devising a full-length version of the Performance. The Premiere will be in Spring 2020.
 permalink: "/:title"
 preview_picture: "/uploads/persephone-ink-back.jpg"
 main_pictures:
