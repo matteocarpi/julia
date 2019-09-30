@@ -9,7 +9,8 @@ credits: Fotos by Helene Sorger 2019
 preview_picture: "/uploads/fotos.jpg"
 current: false
 only_current: false
-main_pictures: []
+main_pictures:
+- "/uploads/fotos.jpg"
 description: ''
 gallery: []
 youtube_link: ''
