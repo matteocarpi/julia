@@ -11,11 +11,11 @@ credits: |-
   **in collaboration with:** NMS Zwentendorf, Gemeinde Zwentendorf, Kunstwerkstatt Tulln, artists from Tulln
 
   **with support from** Viertelfestival 2020
-preview_picture: "/uploads/Unbenannt.jpg"
+preview_picture: "/uploads/Foto-Alpen-Region-Echtfoto-AK-Privatfoto-Kuh-Weide-1950-Privatfoto.jpg"
 current: true
 only_current: false
 main_pictures:
-- "/uploads/Unbenannt-1.jpg"
+- "/uploads/Foto-Alpen-Region-Echtfoto-AK-Privatfoto-Kuh-Weide-1950-Privatfoto.jpg"
 description: |-
   **I am from Austria. - Australia?!! - No, Austria. - Austria? -Mozart...Hitler... .... Sound of Music?? - Ohhhh...AUSTRIA!**
 
