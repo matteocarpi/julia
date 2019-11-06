@@ -11,6 +11,8 @@ credits: |-
   **in collaboration with:** NMS Zwentendorf, Gemeinde Zwentendorf, Kunstwerkstatt Tulln, artists from Tulln
 
   **with support from** Viertelfestival 2020
+
+  ![](/uploads/RGB_VFNOE_Logo_2020_Projekt_kompakt_rot.jpg)
 preview_picture: "/uploads/Foto-Alpen-Region-Echtfoto-AK-Privatfoto-Kuh-Weide-1950-Privatfoto.jpg"
 current: true
 only_current: false
