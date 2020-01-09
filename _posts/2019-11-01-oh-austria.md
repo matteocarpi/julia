@@ -13,11 +13,11 @@ credits: |-
   **with support from** Viertelfestival 2020
 
   ![](/uploads/RGB_VFNOE_Logo_2020_Projekt_kompakt_rot.jpg)
-preview_picture: "/uploads/Foto-Alpen-Region-Echtfoto-AK-Privatfoto-Kuh-Weide-1950-Privatfoto.jpg"
+preview_picture: "/uploads/oh öst.jpg"
 current: true
 only_current: false
 main_pictures:
-- "/uploads/Foto-Alpen-Region-Echtfoto-AK-Privatfoto-Kuh-Weide-1950-Privatfoto.jpg"
+- "/uploads/oh öst.jpg"
 description: |-
   **I am from Austria. - Australia?!! - No, Austria. - Austria? -Mozart...Hitler... .... Sound of Music?? - Ohhhh...AUSTRIA!**
 
