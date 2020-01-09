@@ -2,7 +2,7 @@
 layout: post
 permalink: "/:title/"
 categories: project
-date: 2019-11-01 23:00:00 +0000
+date: 2019-11-02 23:00:00 +0000
 title: Oh Austria!
 sub_title: A theatrical Research Project
 credits: |-
