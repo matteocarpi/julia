@@ -16,8 +16,8 @@ current: true
 only_current: false
 main_pictures:
 - "/uploads/oh österreich kuh .jpg"
-description: "**„Oh Österreich“** \n\n**I am from Austria. - Australia?! - No, Austria.
-  - Austria? - Mozart...Schnitzel... .... Sound of Music?? - Ohhhh...AUSTRIA!**\n\nDie
+description: "## **„Oh Österreich“** \n\n**I am from Austria. - Australia?! - No,
+  Austria. - Austria? - Mozart...Schnitzel... .... Sound of Music?? - Ohhhh...AUSTRIA!**\n\nDie
   künstlerische Recherche entfaltet sich zwischen einem Gefühl des Heimwehs, der Heimatliebe
   und der kritischen Auseinandersetzung mit der „Identität“ Österreichs und des Begriffes
   „Home“ (Heimat, zu Hause, Haus). Durch einen persönlichen Zugang wird eine kritische
