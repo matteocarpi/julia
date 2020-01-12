@@ -13,7 +13,7 @@ credits: |-
   **with support from** Viertelfestival 2020
 
   ![](/uploads/RGB_VFNOE_Logo_2020_Projekt_kompakt_rot.jpg)
-preview_picture: "/uploads/oh öst.jpg"
+preview_picture: "/uploads/oh österreich kuh .jpg"
 current: true
 only_current: false
 main_pictures:
