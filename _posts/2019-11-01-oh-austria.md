@@ -11,30 +11,30 @@ credits: |-
   **in collaboration with:** NMS Zwentendorf, Gemeinde Zwentendorf, Kunstwerkstatt Tulln, artists from Tulln
 
   **with support from** Viertelfestival 2020
-
-  ![](/uploads/RGB_VFNOE_Logo_2020_Projekt_kompakt_rot.jpg)
 preview_picture: "/uploads/oh österreich kuh .jpg"
 current: true
 only_current: false
 main_pictures:
-- "/uploads/oh öst.jpg"
+- "/uploads/oh österreich kuh .jpg"
 description: |-
-  **I am from Austria. - Australia?!! - No, Austria. - Austria? -Mozart...Hitler... .... Sound of Music?? - Ohhhh...AUSTRIA!**
+  **I am from Austria. - Australia?!! - No, Austria. - Austria? -Mozart... Schnitzel... .... Sound of Music?? - Ohhhh...AUSTRIA!**
 
   "Oh Austria" is an artistic research that unfolds between a feeling of homesickness, homeland love and the critical discussion about the "identity" of Austria and the term "home”
 
   What characterizes Austria? What is typical? Special about it? What makes it my home? What makes it feel my home? And what does this popular term “Home” actually really mean?
 
-  During the _“Viertelfestival 2020” a_diverse pool of artistic positions will be developed in several research workshops.
+  During the “Viertelfestival 2020” a diverse pool of artistic positions will be developed in several research workshops.
 
   An audience will be invited to a Performative Exhibition with Music, Theatre, Performances, and Installation to encounter the individual artistic approaches.
 
   **Public Sharing**
 
-  Donnerstag 4.6. 2020 18 Uhr Donauhof Zwentendorf
+  Donnerstag 4.6. 2020 17.30 Uhr Donauhof Zwentendorf
 
   Sonntag 7.6. 2020 18 Uhr Kunstwerkstatt Tulln
-gallery: []
+gallery:
+- "/uploads/RGB_VFNOE_Logo_2020_Projekt_kompakt_rot.jpg"
+- "/uploads/oh öst.jpg"
 youtube_link: ''
 press: false
 press_pictures: []
