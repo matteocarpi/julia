@@ -27,11 +27,13 @@ description: |-
 
   Diesen Fragen werden sich Schüler/innen der Neuen Mittelschule Zwentendorf und Künstler/innen aus dem Tullnerfeld in kreativer Form annähern und dazu verschiedene künstlerische Positionen kreieren.
 
-  Für die abschließenden Präsentationen in Form von **Performativen Ausstellungenmit Theater, Live-Musik und Poesie__ wird das Publikum eingeladen, um den unterschiedlichen Entwürfen zu begegnen**.**
+  Für die abschließenden Präsentationen in Form von **Performativen Ausstellungenmit Theater, Live-Musik und Poesie__ wird das Publikum eingeladen, um den unterschiedlichen Entwürfen zu begegnen__.**
 
   Donnerstag , 4.6.2020 / 17.30 Uhr / Donauhof
 
   Sonntag , 7.6. 2020 / 18 Uhr / Kunstwerkstatt Tulln
+
+  ## **„Oh Austria“**
 
   **I am from Austria. - Australia?!! - No, Austria. - Austria? -Mozart... Schnitzel... .... Sound of Music?? - Ohhhh...AUSTRIA!**
 
