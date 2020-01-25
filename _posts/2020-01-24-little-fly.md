@@ -20,7 +20,7 @@ description: |-
 
   Little Fly is a performance project that deals with power relationships through movement in a limited space. For this, an abstract and exaggerated approach is chosen: the movement patterns of the piece are inspired by animal behavior, especially by chickens. A surrealistic corral is shown here by those who corner and those being cornerd.
 
-  The performance is currently in an R&D. A first work-in-progress - version was shared with an audience in India as part of the Whilst Walking Touring Theater Festival. In February 2020, the project has a residency in Berlin. In March 2020, the project is invited to Faber Residency in Girona. Through work-in-progress showings and workshops, the encounter with the audience becomes part of the artistic research.
+  The performance is currently in R&D. A first work-in-progress - version was shared with an audience in India as part of the Whilst Walking Touring Theater Festival. In February 2020, the project has a residency in Berlin. In March 2020, the project is invited to Faber Residency in Girona. Through work-in-progress showings and workshops, the encounter with the audience becomes part of the artistic research.
 gallery: []
 youtube_link: ''
 press: false
