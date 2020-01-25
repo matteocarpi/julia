@@ -11,7 +11,7 @@ credits: |-
   **in collaboration with:** NMS Zwentendorf, Gemeinde Zwentendorf, Kunstwerkstatt Tulln, artists from Tulln
 
   **with support from** Viertelfestival 2020
-preview_picture: "/uploads/oh österreich kuh .jpg"
+preview_picture: "/uploads/foto_oh_österreich1web.jpg"
 current: true
 only_current: false
 main_pictures:
@@ -27,11 +27,11 @@ description: |-
 
   Diesen Fragen werden sich Schüler/innen der Neuen Mittelschule Zwentendorf und Künstler/innen aus dem Tullnerfeld in kreativer Form annähern und dazu verschiedene künstlerische Positionen kreieren.
 
-  Für die abschließenden Präsentationen in Form von **Performativen Ausstellungenmit Theater, Live-Musik und Poesie__ wird das Publikum eingeladen, um den unterschiedlichen Entwürfen zu begegnen__.**
+  Für die abschließenden Präsentationen in Form von **Performativen Ausstellungen mit Theater, Live-Musik und Poesie wird das Publikum eingeladen, um den unterschiedlichen Entwürfen zu begegnen.**
 
   Donnerstag , 4.6.2020 / 17.30 Uhr / Donauhof
 
-  Sonntag , 7.6. 2020 / 18 Uhr / Kunstwerkstatt Tulln
+  Sonntag , 7.6. 2020 / 19 Uhr / Kunstwerkstatt Tulln
 
   ## **„Oh Austria“**
 
