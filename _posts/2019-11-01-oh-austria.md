@@ -27,7 +27,7 @@ description: |-
 
   Für die abschließenden Präsentationen in Form von **Performativen Ausstellungen mit Theater, Live-Musik und Poesie wird das Publikum eingeladen, um den unterschiedlichen Entwürfen zu begegnen.**
 
-  Donnerstag , 4.6.2020 / 17.30 Uhr / Donauhof
+  Donnerstag , 4.6.2020 / 17.30 Uhr / Donauhof Zwentendorf
 
   Sonntag , 7.6. 2020 / 19 Uhr / Kunstwerkstatt Tulln
 
