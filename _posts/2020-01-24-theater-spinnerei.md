@@ -2,7 +2,7 @@
 layout: post
 permalink: "/:title/"
 categories: media
-date: 2020-01-24 23:00:00 +0000
+date: 2020-01-24T23:00:00.000+00:00
 title: Theater Spinnerei
 sub_title: ''
 credits: ''
