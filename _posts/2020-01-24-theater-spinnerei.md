@@ -19,6 +19,8 @@ description: |-
 
   The first project to be realized by Theater Spinnerei is _„Oh Austria“_. The theatrical research unfolds between a feeling of homesickness, homeland love and the critical discussion abouth the „identity“ of Austria and the term „home“. It will be developed with friendly support of Viertelfestival Niederösterreich 2020.
 
+  ***
+
   **Theater Spinnerei** ist ein in Österreich ansässiger Theaterverein unter der künstlerischen Leitung von Julia Vandehof.
 
   Theater Spinnerei ist ein Raum zum Experimentieren mit und Erforschen von theatralen Praxen und artverwandten Kunstformen.
