@@ -2,11 +2,11 @@
 layout: post
 permalink: "/:title/"
 categories: project
-date: 2019-11-02 23:00:00 +0000
+date: 2019-11-02T23:00:00.000+00:00
 title: Oh Austria!
-sub_title: A theatrical Research Project
+sub_title: A multidisciplinary research project
 credits: |-
-  **concept and artistic director:** Julia Vandehof
+  **concept, artistic director, performance:** Julia Vandehof
 
   **in collaboration with:** NMS Zwentendorf, Gemeinde Zwentendorf, Kunstwerkstatt Tulln, artists from Tulln
 
@@ -17,37 +17,23 @@ only_current: false
 main_pictures:
 - "/uploads/oh österreich kuh .jpg"
 description: |-
-  **I am from Austria. - Australia?! - No, Austria. - Austria? - Mozart...Schnitzel... .... Sound of Music?? - Ohhhh...AUSTRIA!**
+  Die multi-disziplinäre künstlerische Recherche entfaltet sich zwischen einem Gefühl der Heimatliebe und der kritischen Auseinandersetzung mit der „Identität“ Österreichs und des Begriffes „Home“ (Heimat, zu Hause, Haus). Durch einen persönlichen Zugang wird eine kritische Auseinandersetzung mit Humor und Tiefgang hervorgerufen, die abseits von populistischen Kampfansagen passiert.
 
-  Die künstlerische Recherche entfaltet sich zwischen einem Gefühl des Heimwehs, der Heimatliebe und der kritischen Auseinandersetzung mit der „Identität“ Österreichs und des Begriffes „Home“ (Heimat, zu Hause, Haus). Durch einen persönlichen Zugang wird eine kritische Auseinandersetzung mit Humor und Tiefgang hervorgerufen, die abseits von populistischen Kampfansagen passiert.
+  _Land der Berge, Land der Ströme, Land der Würstlstände, der Dirndl, der Kaffeehaus-Kultur, des Walzers und des Jodelns. Und bitte nicht den Gugelhupf vergessen. Aber was, wenn ich weder Jodeln kann, noch Schnitzel mag und das hier trotzdem meine sogenannte Heimat ist? Was macht Österreich aus? Was ist das Typische? Besondere? Was macht es zu meiner Heimat? Meinem zu Hause? Und was bedeutet dieser gern verwendete Heimat-Begriff jetzt eigentlich wirklich? Was ist Heimat?_
 
-  Land der Berge, Land der Ströme, Land der Würstlstände, der Dirndl, der Kaffeehaus-Kultur, des Walzers und des Jodelns. Und bitte nicht den Gugelhupf vergessen. Aber was, wenn ich weder Jodeln kann, noch Schnitzel mag und das hier trotzdem meine sogenannte Heimat ist? Was macht Österreich aus? Was ist das Typische? Besondere? Was macht es zu meiner Heimat? Meinem zu Hause? Und was bedeutet dieser gern verwendete Heimat-Begriff jetzt eigentlich wirklich? Was ist Heimat?
+  Für die Research- Präsentation in Form von **Performativen Ausstellungen mit Theater, Bildender Kunst, Live-Musik und Poesie wird das Publikum eingeladen, den unterschiedlichen Entwürfen zu begegnen.**
 
-  Diesen Fragen werden sich Schüler/innen der Neuen Mittelschule Zwentendorf und Künstler/innen aus dem Tullnerfeld in kreativer Form annähern und dazu verschiedene künstlerische Positionen kreieren.
-
-  Für die abschließenden Präsentationen in Form von **Performativen Ausstellungen mit Theater, Live-Musik und Poesie wird das Publikum eingeladen, um den unterschiedlichen Entwürfen zu begegnen.**
-
-  Donnerstag , 4.6.2020 / 17.30 Uhr / Donauhof Zwentendorf
-
-  Sonntag , 7.6. 2020 / 19 Uhr / Kunstwerkstatt Tulln
+  Das Projekt Oh Österreich hätte im Frühjahr 2020 seinen Start beim Viertelfestivals Niederösterreich haben sollen. Im Rahmen dessen wären Recherche-Workshops in Kooperation mit der NMS Zwentendorf und Künstler/innen aus dem Tullnerfeld angedacht gewesen. Aufgrund der aktuellen Situation wurde das Viertelfestival 2020 auf das kommende Jahr verschoben. Dieses neue Zeitfenster eröffnet mit Sicherheit auch eine spannende Gelegenheit gerade in diesem Moment an dem Recherche-Projekt zu arbeiten.
 
   ## **„Oh Austria“**
 
-  **I am from Austria. - Australia?!! - No, Austria. - Austria? -Mozart... Schnitzel... .... Sound of Music?? - Ohhhh...AUSTRIA!**
+  The multi-disciplinary artistic research unfolds between a feeling of love of home and a critical examination of the "identity" of Austria and the term "home" (home, at home, house).
 
-  "Oh Austria" is an artistic research that unfolds between a feeling of homesickness, homeland love and the critical discussion about the "identity" of Austria and the term "home”.
+  Land of mountains, land of streams, land of sausage stands, dirndls, coffeehouse culture, waltzes and yodelling. And please don't forget the Gugelhupf. But what if I can neither yodel nor like schnitzel and this is still my so-called home? What makes Austria special? What is typical? What makes it my home? And what does this popular home term really mean now? What is home?
 
-  What characterizes Austria? What is typical? Special about it? What makes it my home? What makes it feel my home? And what does this popular term “Home” actually really mean?
+  Audience will be invited to see the research presentation in form of aperformative exhibition with theater, visual arts, live music and poetry.
 
-  During the “Viertelfestival 2020” a diverse pool of artistic positions will be developed in several research workshops.
-
-  An audience will be invited to a Performative Exhibition with Music, Theatre, Performances, and Installation to encounter the individual artistic approaches.
-
-  **Public Sharing**
-
-  Donnerstag 4.6. 2020 17.30 Uhr Donauhof Zwentendorf
-
-  Sonntag 7.6. 2020 19 Uhr Kunstwerkstatt Tulln
+  ‚Oh Austria’ should have started at the Viertelfestival Niederösterreich in spring 2020. As part of this, research workshops in cooperation with the NMS Zwentendorf and artists from Tullnerfeld were planned. Due to the current situation, the festival has been postponed to the coming year. This new time window certainly opens up an exciting opportunity to work on the research project at this very moment
 gallery:
 - "/uploads/RGB_VFNOE_Logo_2020_Projekt_kompakt_rot.jpg"
 - "/uploads/oh öst.jpg"
