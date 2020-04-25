@@ -4,7 +4,7 @@ permalink: "/:title/"
 categories: project
 date: 2019-11-02T23:00:00.000+00:00
 title: Oh Austria!
-sub_title: A multidisciplinary research project
+sub_title: 'A multidisciplinary research project '
 credits: |-
   **concept, artistic director, performance:** Julia Vandehof
 
