@@ -5,12 +5,12 @@ categories: project
 date: 2020-04-24 22:00:00 +0000
 title: Little Fly
 sub_title: " "
-credits: devised by  Kein Komplot   (Ainhoa Hevia Uria, Gina Battle i Oliva, Marina
+credits: 'devised by  Kein Komplot   (Ainhoa Hevia Uria, Gina Battle i Oliva, Marina
   Zerva, Julia Vandehof). Kein Komplot is an international devising theatre collective.
   The artistic approach is based on the creation of, through and with the body in
   the ensemble. Ainhoa, Gina, Julia and Marina met in a postgraduate training in DEVISED
   THEATER AND PERFORMANCE (Rose Bruford Collge London / arthaus Berlin). Little Fly
-  is their first project.
+  is their first project. '
 preview_picture: "/uploads/littleflyweb.jpg"
 current: true
 only_current: false
