@@ -28,5 +28,7 @@ gallery:
   image: "/uploads/pietro-3.jpg"
   name: Pietro Pizzi 2012
 - template: gallery
+  name: ''
+  image: ''
 
 ---
