@@ -26,3 +26,5 @@ fields:
   name: avatar
   label: Avatar
   description: Your profile picture that will appear next to the bio
+pages:
+- pages/index.md
