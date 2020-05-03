@@ -2,7 +2,7 @@
 layout: post
 permalink: "/:title/"
 categories: project
-date: 2019-01-18 23:00:00 +0000
+date: 2019-01-18T23:00:00.000+00:00
 title: Whilst Walking Tour India
 sub_title: ''
 credits: |-
@@ -12,7 +12,8 @@ credits: |-
 preview_picture: "/uploads/Whilst Walking Team.jpg"
 current: false
 only_current: false
-main_pictures: []
+main_pictures:
+- "/uploads/Whilst Walking Team.jpg"
 description: |-
   The Whilst Walking Theatre Festival includes performances, theatrical experiments, and workshops, all pointing towards their unique use of a Theatre Lab setting.
 
