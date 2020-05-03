@@ -2,7 +2,7 @@
 layout: post
 permalink: "/:title/"
 categories: project
-date: 2019-09-29 22:00:00 +0000
+date: 2019-09-29T22:00:00.000+00:00
 title: wUNderSCHÖN
 sub_title: ''
 credits: |-
@@ -27,7 +27,6 @@ description: |2-
   The play questions norms and ideals of beauty and encourages to define it yourself.
 gallery:
 - "/uploads/DSCN0751-1.JPG"
-- "/uploads/DSC_0549.jpg"
 - "/uploads/DSC_0745.jpg"
 - "/uploads/DSC_0764_1.jpg"
 - "/uploads/DSC_0771.jpg"
