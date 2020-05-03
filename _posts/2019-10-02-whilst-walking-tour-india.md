@@ -5,10 +5,11 @@ categories: project
 date: 2019-01-18T23:00:00.000+00:00
 title: Whilst Walking Tour India
 sub_title: ''
-credits: |-
-  **curated, devised, organized, performed and facilitated by** Julia Vandehof, Niall Fallon, Titas Dutta, Ainhoa Hevia Uria, Matteo Carpi, Gina Battle Oliva, Vivek Kumar
-
-  Pune (Sudarshan Rangmatch, Tifa Working Studio) Bangalore (United Arts Foundation) , Shantiniketan (Forest Art Retreat) , Kolkata (Padatik Theatre), Agra (UP 80), Dehli, Mumbai (The Castiko Space)
+credits: "**curated, devised, organized, performed and facilitated by** Julia Vandehof,
+  Niall Fallon, Titas Dutta, Ainhoa Hevia Uria, Matteo Carpi, Gina Battle Oliva, Vivek
+  Kumar\n\nPune (Sudarshan Rangmatch, Tifa Working Studio) Bangalore (United Arts
+  Foundation) , Shantiniketan (Forest Art Retreat) , Kolkata (Padatik Theatre), Agra
+  (UP 80), Dehli, Mumbai (The Castiko Space) "
 preview_picture: "/uploads/Whilst Walking Team.jpg"
 current: false
 only_current: false
