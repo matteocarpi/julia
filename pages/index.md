@@ -18,7 +18,7 @@ bio: "Julia Vandehof is a theatre maker, actress and physical performer. She liv
   Puppeteer and Co-Director with Little Orange Castle Theatre & Theatro Piccolo and
   embarked on a national tour of India with ‚The Whilst Walking Theatre Festival’
   (The Collaborators & Bacterial Factory).\n\nRecently, she has been invited to Faber
-  Residency Ulot, Spain with the Performance-Project ‚Little Fly’. \n\n\n\n\nJulia
+  Residency Ulot, Spain with the Performance-Project ‚Little Fly’. \n\n\n\n______________________________________________________________________________\n\n\n\nJulia
   Vandehof ist Theatermacherin, Schauspielerin und physische Performerin. Sie lebt
   und arbeitet in Niederösterreich und Berlin sowie in internationalem Kontext. Ihre
   Arbeit kennzeichnet eine starke visuelle Sprache mit nichtlinearen Erzählformen.
