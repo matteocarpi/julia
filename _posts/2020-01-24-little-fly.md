@@ -30,6 +30,8 @@ description: |-
   The performance is a theatrical movement-piece with a non-linear dramaturgy. The creation is based on the use of four elements: the boxing ring, the animalisation of chicken, ropes that create disconnected connections, and the constant buzz of flies.
 
   The performance is currently in R&D. A first work-in-progress - version was shared with an audience in India as part of the Whilst Walking Touring Theater Festival. In February and March 2020 we received two working opportunities: in Berlin and Faber Residency Girona. Covid-19 stopped our possibility to work with each other as we live in different parts of Europe. We are waiting to be able to meet again in the space.
+
+  Follow us on Instagram @kein_komplot
 gallery: []
 youtube_link: <iframe width="560"height="315"src="https://www.youtube.com/embed/jcbgHR_LpI8"frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
