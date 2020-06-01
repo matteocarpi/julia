@@ -3,7 +3,7 @@ layout: post
 permalink: "/:title/"
 categories: media
 date: 2020-01-24T23:00:00.000+00:00
-title: Theater Spinnerei
+title: die Spinnerei
 sub_title: ''
 credits: ''
 preview_picture: ''
@@ -11,23 +11,19 @@ current: false
 only_current: false
 main_pictures: []
 description: |-
-  **Theater Spinnerei** is an austrian based Company. Julia Vandehof is the artistic director.
+  **Die** **Spinnerei** is a theatre company based in Lower Austria. Die Spinnerei is an art laboratory for experimenting with and researching theatrical practices and related art forms. The focus is on performative creation through the body.
 
-  Theater Spinnerei is a space to allow experiment with and research of theatrical practise and other related art forms.
+  Thereby theater projects are developed, as well as artistic research in a regional and international context. Theme-specific workshops and projects with different target groups are carried out as part of artistic practice.
 
-  Focus is on devising interdiciplinary theatre work, creating artistic research and sharing the practise in workshops. Therefore Theater Spinnerei chooses regional and international Collaborations.
-
-  The first project to be realized by Theater Spinnerei is _„Oh Austria“_. The theatrical research unfolds between a feeling of homesickness, homeland love and the critical discussion abouth the „identity“ of Austria and the term „home“. It will be developed with friendly support of Viertelfestival Niederösterreich 2020.
+  The first project is "Oh Austria". The theatrical research deals with the "identity" of Austria and the term "home" (home, at home, house) and will be realized thanks to the friendly support of Viertelfestival Niederösterreich 2021.
 
   ***
 
-  **Theater Spinnerei** ist ein in Österreich ansässiger Theaterverein unter der künstlerischen Leitung von Julia Vandehof.
+  **Die Spinnerei** ist ein in Niederösterreich ansässiger Kulturverein, der primär mit Mitteln des Theaters arbeitet. Die Spinnerei versteht sich als Kunst-Labor zum Experimentieren mit und Erforschen von theatralen Praxen und artverwandten Kunstformen. Der Fokus liegt auf dem performativen Kreieren durch den Körper als schöpferisches Mittel.
 
-  Theater Spinnerei ist ein Raum zum Experimentieren mit und Erforschen von theatralen Praxen und artverwandten Kunstformen.
+  Dabei werden Theater-Projekte entwickelt, sowie künstlerische Recherchen im regionalen und internationalen Kontext. Themenspezifische Workshops und Projekte mit verschiedenen Zielgruppen werden als Teil der künstlerischen Praxis durchgeführt.
 
-  Der Fokus liegt im Entwickeln von interdisziplinären Theaterstücken, Erarbeiten von künstlerischen Recherchen und der Vermittlung durch Workshops. Dafür werden regionale und internationale Kollaborationen gewählt.
-
-  Das erste von Theater Spinnerei umgesetzte Projekt ist _„Oh Österreich“_. Der theatrale Research ist eine Auseinandersetzung mit der „Identität“ Österreichs und des Begriffes „Home“ (Heimat, zu Hause, Haus) und wurde aufgrund der freundlichen Unterstützung desViertelfestivals Niederösterreich 2020 ermöglicht.
+  Das erstes Projekt ist _„Oh Österreich“._ Der theatrale Research ist eine Auseinandersetzung mit der „Identität“ Österreichs und des Begriffes „Home“ (Heimat, zu Hause, Haus) und wird aufgrund der freundlichen Unterstützung des Viertelfestivals Niederösterreich 2021 ermöglicht.
 gallery: []
 youtube_link: ''
 press: false
