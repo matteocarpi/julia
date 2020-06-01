@@ -1,5 +1,5 @@
 ---
-title: Theater Spinnerei
+title: Die Spinnerei
 permalink: "/:title/"
 layout: post
 sub_title: ''
