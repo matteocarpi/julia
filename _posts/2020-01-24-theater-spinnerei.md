@@ -3,7 +3,7 @@ layout: post
 permalink: "/:title/"
 categories: media
 date: 2020-01-24T23:00:00.000+00:00
-title: die Spinnerei
+title: Die Spinnerei
 sub_title: ''
 credits: ''
 preview_picture: ''
