@@ -11,7 +11,7 @@ current: false
 only_current: false
 main_pictures: []
 description: |-
-  **Lucid Dreams Theatre** is a theatre company based in Lower Austria. Lucid Dreams is an art laboratory for experimenting with and researching theatrical practices and related art forms. The focus is on performative creation through the body.
+  **Lucid Dreams** is a theatre company based in Lower Austria. Lucid Dreams is an art laboratory for experimenting with and researching theatrical practices and related art forms. The focus is on performative creation through the body.
 
   Thereby theater projects are developed, as well as artistic research in a regional and international context. Theme-specific workshops and projects with different target groups are carried out as part of artistic practice.
 
