@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Lucid Dreams Theater
 permalink: "/:title/"
 layout: post
 sub_title: ''
