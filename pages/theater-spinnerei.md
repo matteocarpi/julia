@@ -14,5 +14,4 @@ youtube_link: ''
 press: false
 press_pictures: []
 press_text: ''
-
 ---
