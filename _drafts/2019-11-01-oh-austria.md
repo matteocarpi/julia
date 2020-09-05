@@ -12,7 +12,7 @@ credits: |-
 
   **with support from** Viertelfestival 2020
 preview_picture: "/uploads/foto_oh_österreich1web.jpg"
-current: true
+current: false
 only_current: false
 main_pictures:
 - "/uploads/IMG_20200421_181453_942.jpg"
