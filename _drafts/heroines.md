@@ -1,0 +1,40 @@
+---
+layout: post
+permalink: "/:title/"
+categories: project
+date: 2020-09-04 22:00:00 +0000
+title: Heroines
+sub_title: ''
+credits: ''
+preview_picture: "/uploads/heroines_aufruf_einseitig.jpg"
+current: true
+only_current: false
+main_pictures:
+- "/uploads/_dsc0114.jpg"
+description: |-
+  **Why did Medea kill her children? What if Ophelia hadn't drowned herself? Did Cinderella really need a prince to save her life?**
+
+  It's the 21st century. Gender roles were questioned and broken up. And yet, changing and rewriting roles is a slow one.
+
+  Gender roles have always existed and are enshrined in the stories that have been told. But what do these female characters have to do with us? What stories would we like to hear? And where are the connections between these characters and our everyday lives?
+
+  From autumn 2020, the theatre performance project _Heroines_ will be developed in Lower Austria together with people between 14 and 70 years of age.
+
+  ***
+
+  **Warum hat Medea ihre Kinder getötet? Was wäre, wenn Ophelia sich nicht ertränkt hätte? Und hat Aschenputtel wirklich einen Prinzen gebraucht, der ihr Leben zu rettet?**
+
+  Es ist das 21. Jahrhundert. Geschlechterrollen wurden hinterfragt und aufgebrochen. Das Neuschreiben von Rollen ist jedoch ein langsamer Prozess.
+
+  Geschlechterrollen gab es schon immer und sie haben sich in den Geschichten eingeschrieben, die uns erzählt wurden. Aber was haben diese weiblichen Charaktere mit uns zu tun? Welche Geschichten hätten wir gerne erzählt bekommen? Und wo liegen die Verbindungen zwischen diesen Frauenfiguren und unserem Alltag?
+
+  Ab Herbst 2020 wird in Niederösterreich zusammen mit Menschen zwischen 14 und 70 Jahren das Theaterprojekt Heroines entwickelt.
+gallery:
+- "/uploads/_dsc0114.jpg"
+- "/uploads/logobalkenkuvecomeon-scaled.jpg"
+youtube_link: ''
+press: false
+press_pictures: []
+press_text: ''
+
+---
