@@ -4,7 +4,7 @@ title: Home
 permalink: "/"
 avatar: "./uploads/julia-vandehof.jpg"
 bio: "Julia Vandehof is a theatre maker, actress and physical performer. She lives
-  and works in Lower Austria and Berlin as well in international context. Her work
+  and works in Lower Austria and Berlin, as well in international context. Her work
   uses a strong visual language with non-linear forms of narration. Her interdisciplinary
   approach combines movement, drama, video and stage design acting as complementary,
   interconnected disciplines. Her focus is on collaborative devising, exploring the
@@ -17,8 +17,9 @@ bio: "Julia Vandehof is a theatre maker, actress and physical performer. She liv
   London, where she graduated with Distinction. \n\nLater, she toured  China as a
   Puppeteer and Co-Director with Little Orange Castle Theatre & Theatro Piccolo and
   embarked on a national tour of India with ‚The Whilst Walking Theatre Festival’
-  (The Collaborators & Bacterial Factory).\n\nRecently, she has been invited to Faber
-  Residency Ulot, Spain with the Performance-Project ‚Little Fly’. \n\n\n\n______________________________________________________________________________\n\n\n\nJulia
+  (The Collaborators & Bacterial Factory).\n\nCurrently she is researching on female
+  characters in Stories and how they are connected with us nowadays - with the project
+  Heroines.\n\n\n\n______________________________________________________________________________\n\n\n\nJulia
   Vandehof ist Theatermacherin, Schauspielerin und physische Performerin. Sie lebt
   und arbeitet in Niederösterreich und Berlin sowie in internationalem Kontext. Ihre
   Arbeit kennzeichnet eine starke visuelle Sprache mit nichtlinearen Erzählformen.
@@ -35,8 +36,9 @@ bio: "Julia Vandehof is a theatre maker, actress and physical performer. She liv
   London, \n\nDanach tourte sie als Puppenspielerin und Co-Regisseurin mit Little
   Orange Castle Theatre und Theatro Piccolo durch China und unternahm mit dem Whilst
   Walking Theatre Festival (The Collaborators & Bacterial Factory) eine nationale
-  Tournee durch Indien.\n\nKürzlich wurde sie mit dem Performance-Projekt Little Fly
-  in die Faber Residency Ulot, Spanien, eingeladen.\n"
+  Tournee durch Indien.\n\nAktuell, beschäftigt sie sich mit weiblichen Charakteren
+  in Geschichten und wie diese mit uns heute in Verbindung stehen: mit dem Projekt
+  Heroines."
 
 ---
 Julia Vandehof is a theatre maker, actress and physical performer. She lives and works in Berlin and Vienna. Her work uses a strong visual language with non-linear forms of narration. Her interdisciplinary approach combines movement, drama, video and stage design acting as complementary, interconnected disciplines. Her focus is on collaborative devising, exploring the idea of the poetic body and the practice of embodied movement.
