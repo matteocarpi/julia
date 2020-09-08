@@ -9,7 +9,8 @@ credits: ''
 preview_picture: ''
 current: false
 only_current: false
-main_pictures: []
+main_pictures:
+- "/uploads/lucid_dreams_logo.jpg"
 description: "**Lucid Dreams** is a theatre company based in Lower Austria. Lucid
   Dreams is an art laboratory for experimenting with and researching theatrical practices
   and related art forms. The focus is on performative creation through the body.\n\nThereby
