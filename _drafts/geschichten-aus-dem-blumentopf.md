@@ -24,7 +24,7 @@ credits: |-
 
   Der Workshop wird begleitet von Julia Vandehof. Sie ist Theatermacherin und Performerin. Ausbildung in Physical Devised Theatre and Performance (LISPA Berlin/Rose Bruford College London). Seit 10 Jahren begleitet sie theaterpädagogische Prozesse und Projekte mit Kindern und Jugendlichen und Erwachsenen (u.a. Theater O.N Berlin / TUSCH, Whilst Walking Touring Festival Indien, Kunsthalle Krems, AMS Tulln, NöKISS, SBW). Der Körper als schöpferisches Mittel steht im Zentrum ihrer Arbeit.
 preview_picture: "/uploads/book-4032668_1920-2.jpg"
-current: false
+current: true
 only_current: false
 main_pictures: []
 description: ''
