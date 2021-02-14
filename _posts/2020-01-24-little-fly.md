@@ -12,7 +12,7 @@ credits: 'devised by  Kein Komplot   (Ainhoa Hevia Uria, Gina Battle i Oliva, Ma
   THEATER AND PERFORMANCE (Rose Bruford Collge London / arthaus Berlin). Little Fly
   is their first project. '
 preview_picture: "/uploads/littleflyweb.jpg"
-current: true
+current: false
 only_current: false
 main_pictures:
 - "/uploads/littleflyweb.jpg"
