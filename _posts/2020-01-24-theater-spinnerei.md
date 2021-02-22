@@ -11,30 +11,32 @@ current: false
 only_current: false
 main_pictures:
 - "/uploads/lucid_dreams_logo.jpg"
-description: "**Lucid Dreams** is a theatre company based in Lower Austria. Lucid
-  Dreams is an art laboratory for experimenting with and researching theatrical practices
-  and related art forms. The focus is on performative creation through the body. \n\nThereby
-  theater projects are devised, as well as artistic research in a regional and international
-  context. Theme-specific workshops and projects with different target groups are
-  carried out as part of artistic practice.\n\nIn season 2020/2021 the projects \"_Oh
-  Österreich_\" and \"_Heroines_\" are planned.\n\n_„Oh Österreich“:_ A theatrical
-  Research about the identity of Austria and the term home. Supported by Viertelfestival
-  2021.\n\n„Heroines“ will look at female characters and question what these characters
-  tell about our lives nowadays. Supported by Kulturabteilung Land Niederösterreich.\n\n***\n\n**Lucid
-  Dreams** ist ein in Niederösterreich ansässiger Kulturverein, der primär mit Mitteln
-  des Theaters arbeitet und versteht sich als Kunst-Labor zum Experimentieren mit
-  und Erforschen von theatralen Praxen und artverwandten Kunstformen. Der Fokus liegt
-  auf dem performativen Kreieren durch den Körper als schöpferisches Mittel.\n\nDabei
-  werden Theater-Projekte entwickelt, sowie künstlerische Recherchen im regionalen
-  und internationalen Kontext. Themenspezifische Workshops und Projekte mit verschiedenen
-  Zielgruppen werden als Teil der künstlerischen Praxis durchgeführt.\n\nFür die Spielzeit
-  2020/2021 sind die Projekte \"_Oh Österreich_\" und \"_Heroines_\" geplant.\n\n_„Oh
-  Österreich“:_ Der theatrale Research ist eine Auseinandersetzung mit der „Identität“
-  Österreichs und des Begriffes „Home“ (Heimat, zu Hause, Haus) und wird aufgrund
-  der freundlichen Unterstützung des Viertelfestivals Niederösterreich 2021 ermöglicht.\n\n_\"Heroines\"_
-  beschäftigt sich mit Heldinnen-Figuren, fragt, was diese mit uns heute zu tun haben
-  und hinterfragt, welche Geschichten wir gerne erzählt bekommen hätten. Das Projekt
-  wird unterstützt von der Kulturabteilung des Land NÖ."
+description: |-
+  **Lucid Dreams** **Theater** ist ein in Niederösterreich ansässiger Kulturverein, der primär mit Mitteln des Physischen Theaters arbeitet und versteht sich als Kunst-Labor zum Experimentieren mit und Erforschen von theatralen Praxen und artverwandten Kunstformen.
+
+  Das performative Kreieren durch und mit dem Körper, sowie interdisziplinäre und kollaborative Arbeitsweisen bilden das Herzstück von Lucid Dreams Theater. Dabei werden Theater-Projekte entwickelt und künstlerische Recherchen. Themenspezifische Workshops und partizipative Kunst-Projekte mit verschiedenen Zielgruppen werden als Teil der künstlerischen Praxis durchgeführt.
+
+  Lucid Dreams Theater ist von Julia Vandehof ins Leben gerufen worden. Der Verein bewegt sich im und verbindet regionalen und internationalen Kontext. Abseits der Vereinsstruktur lebt der Verein durch die Zusammenarbeit mit in Österreich lebenden Künstler*innen, sowie Kolleg*innen aus internationalem Kontext.
+
+  Für die Spielzeit 2020/2021 sind die Projekte "_Oh Österreich_" und "_Heroines_" geplant.
+
+  _„Oh Österreich“:_ Der theatrale Research ist eine Auseinandersetzung mit der „Identität“ Österreichs und des Begriffes „Home“ (Heimat, zu Hause, Haus) und wird aufgrund der freundlichen Unterstützung des Viertelfestivals Niederösterreich 2021 ermöglicht.
+
+  _"Heroines"_ beschäftigt sich mit Heldinnen-Figuren, fragt, was diese mit uns heute zu tun haben und hinterfragt, welche Geschichten wir gerne erzählt bekommen hätten. Das Projekt wird unterstützt von der Kulturabteilung des Land NÖ und dem BMKOES.
+
+  ***
+
+  **Lucid Dreams** is a cultural association based in Lower Austria that works primarily with means of physical theater and sees itself as an art laboratory for experimenting with and exploring theatrical practices and related art forms.
+
+  Performative creation through and with the body, as well as interdisciplinary and collaborative ways of working are at the heart of Lucid Dreams Theater. This involves devising of theater projects and artistic research. Thematic workshops and participatory art projects with different target groups are conducted as part of the artistic practice.
+
+  Lucid Dreams Theater was founded by Julia Vandehof. The association moves in and connects regional and international contexts. Apart from the structure of the association, the association lives through the cooperation with artists living in Austria, as well as colleagues from an international context.
+
+  In season 2020/2021 the projects "_Oh Österreich_" and "_Heroines_" are planned.
+
+  _„Oh Österreich“:_ A theatrical Research about the identity of Austria and the term home. Supported by Viertelfestival 2021.
+
+  „Heroines“ will look at female characters and question what these characters tell about our lives nowadays. Supported by Kulturabteilung Land Niederösterreich and BMKOES.
 gallery: []
 youtube_link: ''
 press: false
