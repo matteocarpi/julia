@@ -153,3 +153,11 @@ i.fa-instagram {
   display: flex;
   align-items: center;
 }
+
+.upcoming {
+  width: 100%;
+  display: flex;
+  border-bottom: solid 1px black;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

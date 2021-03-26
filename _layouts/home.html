@@ -16,6 +16,28 @@ layout: default
       </div>
     </div>
   </div>
+  
+  {% if page.upcoming_performances != nil %}
+  <h1 id="current" class="current-section">Upcoming</h1>
+    <div class="upcoming">
+      {% for performance in page.upcoming_performances %}
+        <div class="upcoming_date_container"> 
+          <a href="{{ performance.link }}">
+          <h3>{{performance.title}}</h3>
+          </a>
+
+          <span class="performance_date">{{ performance.date | date: "%d.%m.%Y - %H:%M h"}}
+
+          <a href="{{performance.venue_link}}" target="_blank">
+          <h4>@{{ performance.venue}}</h4>
+          </a>
+
+
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+
   <h1 id="current" class="current-section">Current Work</h1>
     <div class="current-work-preview">
 
