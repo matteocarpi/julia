@@ -7,7 +7,7 @@
   margin-bottom: 4rem;
 }
 .current-image {
-    flex-shrink: 0;
+  flex-shrink: 0;
 }
 .page-title {
   text-align: center;
@@ -33,13 +33,14 @@
   font-size: 3rem;
   hyphens: auto;
 }
-.gallery-item, .gallery-title {
+.gallery-item,
+.gallery-title {
   transition: 0.3s;
 }
-.gallery-item:hover{
+.gallery-item:hover {
   .gallery.title {
     opacity: 1;
   }
   background-blend-mode: lighten;
-  background-color: rgba(255,255,255, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
 }
