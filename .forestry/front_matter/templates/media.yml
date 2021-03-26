@@ -19,5 +19,3 @@ fields:
   description: other pictures with titles go here
   template_types:
   - gallery
-pages:
-- pages/theater-spinnerei.md
