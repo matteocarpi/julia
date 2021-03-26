@@ -26,5 +26,32 @@ fields:
   name: avatar
   label: Avatar
   description: Your profile picture that will appear next to the bio
+- name: upcoming_performances
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: date
+    type: datetime
+    label: Date
+    description: ''
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Upcoming Performances
 pages:
 - pages/index.md
