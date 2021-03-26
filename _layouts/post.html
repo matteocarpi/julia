@@ -1,69 +1,82 @@
 ---
 layout: default
 ---
-<div class="post_container">
 
+<div class="post_container">
   <h2 class="post-title">{{ page.title}}</h2>
   <h3 class="post-subtitle">{{ page.sub_title }}</h3>
   <div class="main_pictures">
     {% for item in page.main_pictures %}
-        <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"><img class="large" src="{{ item | prepend: site.baseurl }}"></a>
+    <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"
+      ><img class="large" src="{{ item | prepend: site.baseurl }}"
+    /></a>
     {% endfor %}
   </div>
 
   <div class="post_description">
     {{ page.description | markdownify }}
-    <br><br><br>
+    <br /><br /><br />
     {{ page.credits | markdownify }}
   </div>
 
+  {% if page.press or page.youtube_link or page.gallery and page.press != nil or
+  page.youtube_link != nil or page.gallery != nil %}
 
-    {% if page.press or page.youtube_link or page.gallery and page.press != nil  or page.youtube_link != nil or page.gallery != nil %}
+  <div class="documentation">
+    {% if page.gallery and page.gallery != nil and page.gallery.size >= 1 %}
 
-      <div class="documentation">
-
-        {% if page.gallery and page.gallery != nil and page.gallery.size >= 1 %}
-
-          <div class="post_gallery">
-            <h2>Gallery</h2>
-            <div class="secondary_gallery">
-              {% for item in page.gallery %}
-                <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"><img class="small" src="{{ item | prepend: site.baseurl }}"></a>
-              {% endfor %}
-            </div>
-          </div>
-
-        {% endif %}
-
-        <div class="trailer">
-          {% if page.youtube_link and page.youtube_link != '' %}
-            <h2>Video</h2>
-            {{ page.youtube_link }}
-          {% endif %}
-        </div>
-
-        <div class="press">
-          {% if page.press_pictures and page.press_pictures != nil and page.press_pictures.size >= 1 %}
-            <h2>Press</h2>
-
-            <div class="pressGallery">
-
-            {% for item in page.press_pictures %}
-
-              <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"><img class="medium" src="{{ item | prepend: site.baseurl }}"></a>
-
-            {% endfor %}
-
-            </div>
-
-          {% endif %}
-
-          {% if page.press_text and page.press_text != nil %}
-
-            {{ page.press_text | markdownify }}
-
-          {% endif %}
-        </div>
+    <div class="post_gallery">
+      <h2>Gallery</h2>
+      <div class="secondary_gallery">
+        {% for item in page.gallery %}
+        <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"
+          ><img class="small" src="{{ item | prepend: site.baseurl }}"
+        /></a>
+        {% endfor %}
       </div>
+    </div>
+
     {% endif %}
+
+    <div class="trailer">
+      {% if page.youtube_link and page.youtube_link != '' %}
+      <h2>Video</h2>
+      {{ page.youtube_link }} {% endif %}
+    </div>
+
+    <div class="press">
+      {% if page.press_pictures and page.press_pictures != nil and
+      page.press_pictures.size >= 1 %}
+      <h2>Press</h2>
+
+      <div class="pressGallery">
+        {% for item in page.press_pictures %}
+
+        <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"
+          ><img class="medium" src="{{ item | prepend: site.baseurl }}"
+        /></a>
+
+        {% endfor %}
+      </div>
+
+      {% endif %} {% if page.press_text and page.press_text != nil %} {{
+      page.press_text | markdownify }} {% endif %}
+    </div>
+
+    <div class="partners">
+      {% if page.partners != nil %}
+      <h2>Partners</h2>
+      <div class="pressGallery">
+        {% for item in page.partners %}
+
+        <a data-fancybox="gallery" href="{{ item | prepend: site.baseurl }}"
+          ><img class="medium" src="{{ item | prepend: site.baseurl }}"
+        /></a>
+
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
 </div>
