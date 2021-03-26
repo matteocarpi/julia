@@ -21,6 +21,12 @@ bio: |
   Aktuelle kreative Forschungsfelder sind das Spannungsfeld zwischen der Repräsentation und der Realität von Geschlechterrollen in (mythologischen) Geschichte, ein poetischer Blick auf dys/utopische Zukunfts-Welten, und das Spazierengehen.
 
   Julia ist in Österreich geboren und aufgewachsen. In Wien absolviert sie eine Ausbildung zur Schauspielerin und in den Grundlagen des Filmemachens. Sie schließt ihr Studium der Theater-, Film- und Medienwissenschaften mit Schwerpunkt Theaterpädagogik ab. Nachdem sie in diesen Bereichen gearbeitet und ihr erstes eigenes Stück ‚Die Löwen sind den Schmetterlingen nicht lästig’ entwickelt hatte, entschließt sie sich ihrer künstlerischen Praxis volle Aufmerksamkeit zu schenken und macht ihren Master in „Devised Theatre and Performance“ (arthaus / LISPA Berlin und Rose Bruford College London).
+upcoming_performances:
+- title: Mashy potatoes
+  date: 2021-03-16 23:00:00 +0000
+  link: "#"
+  venue: Potato
+  venue_link: "#"
 
 ---
 Julia Vandehof is a theatre maker, actress and physical performer. She lives and works in Berlin and Vienna. Her work uses a strong visual language with non-linear forms of narration. Her interdisciplinary approach combines movement, drama, video and stage design acting as complementary, interconnected disciplines. Her focus is on collaborative devising, exploring the idea of the poetic body and the practice of embodied movement.
