@@ -1,16 +1,16 @@
 ---
 layout: post
-permalink: "lucid-dreams-theater"
+permalink: "/:title/"
 categories: media
 date: 2020-01-24T23:00:00.000+00:00
 title: Lucid Dreams Theater
-sub_title: ""
-credits: ""
-preview_picture: ""
+sub_title: ''
+credits: ''
+preview_picture: ''
 current: false
 only_current: false
 main_pictures:
-  - "/uploads/lucid_dreams_logo.jpg"
+- "/uploads/lucid_dreams_logo.jpg"
 description: |-
   **Lucid Dreams** **Theater** ist ein in Niederösterreich ansässiger Kulturverein, der primär mit Mitteln des Physischen Theaters arbeitet und versteht sich als Kunst-Labor zum Experimentieren mit und Erforschen von theatralen Praxen und artverwandten Kunstformen.
 
@@ -38,8 +38,9 @@ description: |-
 
   „Heroines“ will look at female characters and question what these characters tell about our lives nowadays. Supported by Kulturabteilung Land Niederösterreich and BMKOES.
 gallery: []
-youtube_link: ""
+youtube_link: ''
 press: false
 press_pictures: []
-press_text: ""
+press_text: ''
+
 ---
