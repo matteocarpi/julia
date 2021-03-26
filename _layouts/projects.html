@@ -1,34 +1,44 @@
 ---
 layout: default
 ---
+
 <div class="page-title">
   <h1>{{ page.title }}</h1>
 </div>
 <div class="current-work">
-{% for post in site.categories.project %}
-  {% if post.only_current == false %}
-    <div class="current-item">
-      <div class="current-title-wrap">
-      <a href="{{ site.baseurl }}{{ post.url }}"><h2 class="current-title vertical-left">{{ post.title }}</h2></a>
-      </div>
-      <div  class="current-description">
-        <div class="descriptionWrap">
-          <p>{{ post.description | markdownify | truncate: 450 }}</p>
-        </div>
-          <a class="button" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-      </div>
-      <div class="current-image" style="background-image: url({{ post.preview_picture | prepend: site.baseurl }});">
-
-      </div>
+  {% for post in site.categories.project %} {% if post.only_current == false %}
+  <div class="current-item">
+    <div class="current-title-wrap">
+      <a href="{{ site.baseurl }}{{ post.url }}"
+        ><h2 class="current-title vertical-left">{{ post.title }}</h2></a
+      >
     </div>
-  {% endif %}
-{% endfor %}
+    <div class="current-description">
+      <div class="descriptionWrap">
+        <p>{{ post.description | markdownify | truncate: 450 }}</p>
+      </div>
+      <a class="button" href="{{ post.url | prepend: site.baseurl }}"
+        >Read More</a
+      >
+    </div>
+    <div
+      class="current-image"
+      style="background-image: url({{ post.preview_picture | prepend: site.baseurl }});"
+    ></div>
+  </div>
+  {% endif %} {% endfor %}
 </div>
 
-<div id="project-gallery" class="" >
-    {% for item in page.gallery  %}
-      <div id="" class="gallery-item" style="background-image: url({{ site.baseurl }}{{ item.image }})">
-        <h2 class="gallery title">{{ item.name }}</h2>
-      </div>
-    {% endfor %}
+{%- Hide for now -%}
+<div id="project-gallery" class="">
+  {% for item in page.gallery %}
+  <div
+    id=""
+    class="gallery-item"
+    style="background-image: url({{ site.baseurl }}{{ item.image }})"
+  >
+    <h2 class="gallery title">{{ item.name }}</h2>
+  </div>
+  {% endfor %}
 </div>
+{%- endcomment -%}
