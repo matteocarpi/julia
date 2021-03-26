@@ -4,17 +4,18 @@ permalink: "/:title/"
 categories: project
 date: 2019-01-18T23:00:00.000+00:00
 title: Whilst Walking Tour India
-sub_title: ''
-credits: "**curated, devised, organized, performed and facilitated by** Julia Vandehof,
+sub_title: ""
+credits:
+  "**curated, devised, organized, performed and facilitated by** Julia Vandehof,
   Niall Fallon, Titas Dutta, Ainhoa Hevia Uria, Matteo Carpi, Gina Battle Oliva, Vivek
   Kumar\n\nPune (Sudarshan Rangmatch, Tifa Working Studio) Bangalore (United Arts
   Foundation) , Shantiniketan (Forest Art Retreat) , Kolkata (Padatik Theatre), Agra
   (UP 80), Dehli, Mumbai (The Castiko Space) "
-preview_picture: "/uploads/Whilst Walking Team.jpg"
+preview_picture: "/uploads/WhilstWalkingTeam.jpg"
 current: false
 only_current: false
 main_pictures:
-- "/uploads/Whilst Walking Team.jpg"
+  - "/uploads/WhilstWalkingTeam.jpg"
 description: |-
   The Whilst Walking Theatre Festival includes performances, theatrical experiments, and workshops, all pointing towards their unique use of a Theatre Lab setting.
 
@@ -28,10 +29,9 @@ description: |-
 
   The collective hopes that the exchanges with participants along the way will subsequently develop even the work that we present in each respective city.
 gallery: []
-youtube_link: ''
+youtube_link: ""
 press: false
 press_pictures: []
-press_text: ''
+press_text: ""
 partners: []
-
 ---
