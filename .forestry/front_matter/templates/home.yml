@@ -48,6 +48,16 @@ fields:
     config:
       required: false
     label: Link
+  - name: venue
+    type: text
+    config:
+      required: false
+    label: Venue
+  - name: venue_link
+    type: text
+    config:
+      required: false
+    label: Venue Link
   config:
     min: 
     max: 
