@@ -32,5 +32,9 @@ youtube_link: ''
 press: false
 press_pictures: []
 press_text: ''
+partners:
+- "/uploads/logo.jpg"
+- "/uploads/logocomeon.png"
+- "/uploads/oh österreich kuh .jpg"
 
 ---
