@@ -22,10 +22,15 @@ bio: |
 
   Julia ist in Österreich geboren und aufgewachsen. In Wien absolviert sie eine Ausbildung zur Schauspielerin und in den Grundlagen des Filmemachens. Sie schließt ihr Studium der Theater-, Film- und Medienwissenschaften mit Schwerpunkt Theaterpädagogik ab. Nachdem sie in diesen Bereichen gearbeitet und ihr erstes eigenes Stück ‚Die Löwen sind den Schmetterlingen nicht lästig’ entwickelt hatte, entschließt sie sich ihrer künstlerischen Praxis volle Aufmerksamkeit zu schenken und macht ihren Master in „Devised Theatre and Performance“ (arthaus / LISPA Berlin und Rose Bruford College London).
 upcoming_performances:
-- date: 
-  title: ''
+- title: ''
+  date: 
   link: ''
   venue: ''
+  venue_link: ''
+- date: 2021-06-05 05:30:00 +0000
+  title: Little Fly_KeinKomplot
+  link: http://perpetracions.ccsantmarti.net/ed21/
+  venue: Barcelona
   venue_link: ''
 - title: Mashy potatoes
   date: 2021-03-16 23:00:00 +0000
