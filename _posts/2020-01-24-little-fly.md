@@ -29,7 +29,9 @@ description: |-
 
   The performance is a theatrical movement-piece with a non-linear dramaturgy. The creation is based on the use of four elements: the boxing ring, the animalisation of chicken, ropes that create disconnected connections, and the constant buzz of flies.
 
-  The performance is currently in R&D. A first work-in-progress - version was shared with an audience in India as part of the Whilst Walking Touring Theater Festival. In February and March 2020 we received two working opportunities: in Berlin and Faber Residency Girona. Covid-19 stopped our possibility to work with each other as we live in different parts of Europe. We are waiting to be able to meet again in the space.
+  the Journey: a first work-in-progress - version that was shared with an audience in India as part of the Whilst Walking Touring Theater Festival 2019.  In February and March 2020 they received two working opportunities: in Berlin and Faber Residency Girona. Covid-19.
+
+  Happy to share the work with an audience in Barcelona on 5/6/21.
 
   Follow us on Instagram @kein_komplot
 gallery: []
