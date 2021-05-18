@@ -32,11 +32,6 @@ upcoming_performances:
   link: http://perpetracions.ccsantmarti.net/ed21/
   venue: Barcelona
   venue_link: ''
-- title: Mashy potatoes
-  date: 2021-03-16 23:00:00 +0000
-  link: "#"
-  venue: Potato
-  venue_link: "#"
 
 ---
 Julia Vandehof is a theatre maker, actress and physical performer. She lives and works in Berlin and Vienna. Her work uses a strong visual language with non-linear forms of narration. Her interdisciplinary approach combines movement, drama, video and stage design acting as complementary, interconnected disciplines. Her focus is on collaborative devising, exploring the idea of the poetic body and the practice of embodied movement.
