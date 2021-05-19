@@ -27,7 +27,7 @@ upcoming_performances:
   link: ''
   venue: ''
   venue_link: ''
-- date: 2021-06-05 05:30:00 +0000
+- date: 2021-06-05 17:30:00 +0000
   title: Little Fly_KeinKomplot
   link: http://perpetracions.ccsantmarti.net/ed21/
   venue: Barcelona
