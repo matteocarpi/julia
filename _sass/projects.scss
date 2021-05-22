@@ -3,8 +3,13 @@
   border-left: solid 1px;
   padding: 0 1rem;
 }
-.current-work {
+.projects-list {
+  width: 100%;
   margin-bottom: 4rem;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 3rem;
+  justify-content: space-around;
 }
 .current-image {
   flex-shrink: 0;
@@ -20,25 +25,39 @@
   flex-wrap: wrap;
   max-width: 1200px;
 }
-.gallery-item {
+.project-thumb {
+  margin: 1rem;
+  cursor: pointer !important;
+}
+.gallery-item,
+.project-thumb {
   width: 300px;
   height: 300px;
   background-size: cover;
   background-position: center;
 }
-.gallery.title {
-  opacity: 0;
+a.project.title {
+  cursor: pointer !important;
+}
+.gallery-title {
   cursor: default;
+}
+.gallery.title,
+.project.title {
+  opacity: 0;
   padding: 1rem;
   font-size: 3rem;
   hyphens: auto;
 }
 .gallery-item,
-.gallery-title {
+.gallery.title {
   transition: 0.3s;
 }
-.gallery-item:hover {
-  .gallery.title {
+
+.gallery-item:hover,
+.project-thumb:hover {
+  .gallery.title,
+  .project.title {
     opacity: 1;
   }
   background-blend-mode: lighten;
