@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: "/:title/"
+permalink: "lucid-dreams-theatre"
 categories: media
 date: 2020-01-24T23:00:00.000+00:00
 title: Lucid Dreams Theater
