@@ -5,11 +5,20 @@ categories: project
 date: 2021-05-29 22:00:00 +0000
 title: Superheld*innen
 sub_title: Theaterlabor für Kinder und Jugendliche
-credits: "9\\. – 12.8. 2021 / Atrium Tulln\n\nMo - Mi 10 – 13 Uhr, Do 16 - 19 Uhr
-  / \n\n**Abschluss-Präsentation:** Do 18 Uhr\n\n\\******Das Theaterlabor und die
-  abschließende Präsentation finden unter Berücksichtigung der gesetzlichen Covid-19
-  Sicherheitsmaßnahmen statt!******\n\n**Mitzubringen** sind bequeme Kleidung und
-  eine kleine Stärkung für Zwischendurch.\n\n**Anmeldung bis 26.7.21 unter lucid_dreams@gmx.at**"
+credits: |-
+  9\. – 12.8. 2021 / Atrium Tulln
+
+  Mo - Mi 10 – 13 Uhr, Do 16 - 19 Uhr /
+
+  **Abschluss-Präsentation:** Do 18 Uhr
+
+  \***_Das Theaterlabor und die abschließende Präsentation finden unter Berücksichtigung der gesetzlichen Covid-19 Sicherheitsmaßnahmen statt!___*
+
+  **Mitzubringen** sind bequeme Kleidung und eine kleine Stärkung für Zwischendurch.
+
+  **Anmeldung bis 26.7.21 unter lucid_dreams@gmx.at**
+
+  [https://www.stadtdesmiteinanders.at/ein-abwechslungsreicher-sommer-zuhause/](https://www.stadtdesmiteinanders.at/ein-abwechslungsreicher-sommer-zuhause/ "https://www.stadtdesmiteinanders.at/ein-abwechslungsreicher-sommer-zuhause/")
 preview_picture: "/uploads/hero-boy.jpg"
 current: true
 only_current: false
