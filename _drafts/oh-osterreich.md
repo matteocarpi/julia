@@ -11,8 +11,8 @@ credits: "Das Projekt ist eine Kooperation mit der NMS Zwentendorf, Gemeinde Zwe
   (Zwentendorfer*innen) im Zwentrum\n\n14\\.8.21 Installative Performance in der Kunstwerkstatt\n\n[https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/](https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/
   \"https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/\")"
 preview_picture: "/uploads/oh österreich kuh .jpg"
-current: false
-only_current: true
+current: true
+only_current: false
 main_pictures: []
 description: Die künstlerische Recherche entfaltet sich zwischen einem Gefühl des
   Heimwehs, der Heimatliebe und der kritischen Auseinandersetzung mit der „Identität“
