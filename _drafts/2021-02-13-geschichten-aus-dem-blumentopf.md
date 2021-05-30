@@ -2,7 +2,7 @@
 layout: post
 permalink: "/:title/"
 categories: project
-date: 2021-02-13 23:00:00 +0000
+date: 2021-02-13T23:00:00.000+00:00
 title: Geschichten aus dem Blumentopf
 sub_title: Theater@home Workshop für Kinder und Jugendliche
 credits: |-
@@ -35,5 +35,6 @@ youtube_link: ''
 press: false
 press_pictures: []
 press_text: ''
+partners: []
 
 ---
