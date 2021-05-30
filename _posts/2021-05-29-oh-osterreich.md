@@ -10,7 +10,7 @@ credits: "Das Projekt ist eine Kooperation mit der NMS Zwentendorf, Gemeinde Zwe
   mit Schüler*innen der NMS im Donauhof Zwentendorf\n\n7\\.8.21 Workshop für Interessierte
   (Zwentendorfer*innen) im Zwentrum\n\n14\\.8.21 Installative Performance in der Kunstwerkstatt\n\n[https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/](https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/
   \"https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/\")"
-preview_picture: "/uploads/oh österreich kuh .jpg"
+preview_picture: "/uploads/oho_collage_inst.jpg"
 current: true
 only_current: false
 main_pictures: []
