@@ -16,7 +16,8 @@ credits: |-
 preview_picture: "/uploads/20210604_154536-1.jpg"
 current: true
 only_current: false
-main_pictures: []
+main_pictures:
+- "/uploads/20210604_154536-1.jpg"
 description: "\n**Take care! A rabbit hole!  \n**Performance\n\nmit und von Julia
   Vandehof und Ainhoa Hevia Uria , Technik: Leroy Werner  \n 2. Juli 2021, 21 Uhr
   \ \n Ca. 40 min  \n Kunstwerkstatt Tulln  \n Eintritt: freie Spende  \n  \n \"Wer
