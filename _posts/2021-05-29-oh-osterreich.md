@@ -2,15 +2,19 @@
 layout: post
 permalink: "/:title/"
 categories: project
-date: 2021-05-29 22:00:00 +0000
+date: 2021-05-29T22:00:00.000+00:00
 title: Oh Österreich!
 sub_title: Künstlerische Recherche
-credits: "Das Projekt ist eine Kooperation mit der NMS Zwentendorf, Gemeinde Zwentendorf
-  und Künstler*innen aus dem Tullnerfeld, Kunstwerkstatt Tulln.\n\n1\\.7.21 Präsentation
-  mit Schüler*innen der NMS im Donauhof Zwentendorf\n\n7\\.8.21 Workshop für Interessierte
-  (Zwentendorfer*innen) im Zwentrum\n\n14\\.8.21 Installative Performance in der Kunstwerkstatt
-  \n\n[https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/](https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/
-  \"https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/\")"
+credits: |-
+  Das Projekt ist eine Kooperation mit der NMS Zwentendorf, Gemeinde Zwentendorf und Künstler*innen aus dem Tullnerfeld, Kunstwerkstatt Tulln.
+
+  1\.7.21 10 Uhr Präsentation mit Schüler*innen der NMS im Donauhof Zwentendorf
+
+  7\.8.21 Workshop für Interessierte (Zwentendorfer*innen) im Zwentrum
+
+  14\.8.21 Installative Performance in der Kunstwerkstatt
+
+  [https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/](https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/ "https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/")
 preview_picture: "/uploads/oho_collage_inst.jpg"
 current: true
 only_current: false
