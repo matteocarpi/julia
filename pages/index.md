@@ -22,11 +22,11 @@ bio: |
 
   Julia ist in Österreich geboren und aufgewachsen. In Wien absolviert sie eine Ausbildung zur Schauspielerin und in den Grundlagen des Filmemachens. Sie schließt ihr Studium der Theater-, Film- und Medienwissenschaften mit Schwerpunkt Theaterpädagogik ab. Nachdem sie in diesen Bereichen gearbeitet und ihr erstes eigenes Stück ‚Die Löwen sind den Schmetterlingen nicht lästig’ entwickelt hatte, entschließt sie sich ihrer künstlerischen Praxis volle Aufmerksamkeit zu schenken und macht ihren Master in „Devised Theatre and Performance“ (arthaus / LISPA Berlin und Rose Bruford College London).
 upcoming_performances:
-- title: ''
-  date: 
+- title: Take Care! A rabbit Hole!
+  date: 2021-07-02 19:00:00 +0000
   link: ''
-  venue: ''
-  venue_link: ''
+  venue: Kunstwerkstatt Tulln
+  venue_link: http://www.kunstwerkstatt.at/wp/
 - date: 2021-06-05T17:30:00.000+00:00
   title: Little Fly_KeinKomplot
   link: http://perpetracions.ccsantmarti.net/ed21/
