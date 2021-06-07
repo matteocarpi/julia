@@ -15,7 +15,7 @@ credits: |-
   14\.8.21 Installative Performance in der Kunstwerkstatt
 
   [https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/](https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/ "https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/")
-preview_picture: "/uploads/oho_collage_inst.jpg"
+preview_picture: "/uploads/p075-vfno-flyer-online.jpg"
 current: true
 only_current: false
 main_pictures: []
@@ -25,7 +25,8 @@ description: |-
   ***
 
   The artistic research unfolds between a feeling of homesickness, love of home and the critical examination of the "identity" of Austria and the term "home" (Heimat, home, house). Through the personal approach, a critical examination with humor and depth is stimulated, which happens away from populist fighting statements. What is Austria? Land of mountains, land of streams, land of sausage stands and dirndls, coffee house culture and the waltz. But - if I can neither yodel nor like schnitzel and yet this is my so-called home? In the final presentations in the form of performative exhibitions with theater, live music and poetry, the audience is invited to encounter the different designs.
-gallery: []
+gallery:
+- "/uploads/img-20210531-wa0004.jpg"
 youtube_link: ''
 press: false
 press_pictures: []
