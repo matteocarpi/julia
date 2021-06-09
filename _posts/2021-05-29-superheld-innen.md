@@ -2,7 +2,7 @@
 layout: post
 permalink: "/:title/"
 categories: project
-date: 2021-05-29 22:00:00 +0000
+date: 2021-05-29T22:00:00.000+00:00
 title: Superheld*innen
 sub_title: Theaterlabor für Kinder und Jugendliche
 credits: |-
@@ -22,7 +22,8 @@ credits: |-
 preview_picture: "/uploads/hero-boy.jpg"
 current: true
 only_current: false
-main_pictures: []
+main_pictures:
+- "/uploads/hero-boy.jpg"
 description: |-
   **_Superheld*innen sind stark und schneller als ein Blitz. Sie können Gedanken lesen oder durch Wände sehen. Sie können fliegen oder von Hochhaus zu Hochhaus springen. Ihr Mission: die Menschen und die Welt zu retten. Mit ihren spektakulären Outfits sind sie unverkennbar! Und dann gibt es noch diese Bösewichte, die ihnen immer wieder in die Quere kommen._**
 
