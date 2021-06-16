@@ -22,7 +22,7 @@ description: "\"Wer mit Ungeheuern kämpft, mag zusehn, daß er nicht dabei zum 
   irgendwann bemerkt, dass wir schon wieder aufgetaucht waren. Und plötzlich ist Frühling.\"_\n\nTake
   care! A Rabbit Hole! ist eine interdisziplinäre Performance, ein poetisches Bilder-Gedicht,
   physisches Theater. Schräg. Witzig. Düster. Chaotisch.\n\nDie Bühne wird zum Abgrund,
-  in dem skurrile Monster erwachen, Schatten ihr Unwesen treiben und groteske Momente
+  in dem skurrile Kreaturen erwachen, Schatten ihr Unwesen treiben und groteske Momente
   zum Lachen bringen. Vor allem entlässt die Performance ihre Zuseher*innen mit dem
   Gefühl, dass nach jedem Winter doch immer wieder der Frühling kommt.\n\nAinhoa und
   Julia haben gemeinsam dieses künstlerische Material entwickelt, das im Rahmen einer
