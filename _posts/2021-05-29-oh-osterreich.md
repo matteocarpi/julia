@@ -42,6 +42,6 @@ press: false
 press_pictures: []
 press_text: ''
 partners:
-- "/uploads/RGB_VFNOE_Logo_2020_Projekt_kompakt_rot.jpg"
+- "/uploads/vfnoe_logo_2021_im_rahmen_des_rot.png"
 
 ---
