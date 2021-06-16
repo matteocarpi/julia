@@ -6,13 +6,7 @@ date: 2021-05-29T22:00:00.000+00:00
 title: Oh Österreich!
 sub_title: Künstlerische Recherche
 credits: |-
-  Das Projekt ist eine Kooperation mit der NMS Zwentendorf, Gemeinde Zwentendorf und Künstler*innen aus dem Tullnerfeld, Kunstwerkstatt Tulln.
-
-  1\.7.21 10 Uhr Präsentation mit Schüler*innen der NMS im Donauhof Zwentendorf
-
-  7\.8.21 Workshop für Interessierte (Zwentendorfer*innen) im Zwentrum
-
-  14\.8.21 Installative Performance in der Kunstwerkstatt
+  Das Projekt findet im Rahmen des Viertelfestivals Niederösterreich statt und ist eine Kooperation mit der NMS Zwentendorf, Gemeinde Zwentendorf und Künstler*innen aus dem Tullnerfeld, Kunstwerkstatt Tulln.
 
   [https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/](https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/ "https://www.viertelfestival-noe.at/veranstaltung/oh-oesterreich-2/")
 preview_picture: "/uploads/p075-vfno-flyer-online.jpg"
@@ -21,7 +15,23 @@ only_current: false
 main_pictures:
 - "/uploads/img-20210531-wa0004.jpg"
 description: |-
+  **I am from Austria**
+
+  Was zeichnet Österreich aus? Was macht es zu meinem Zuhause? Und was bedeutet dieser gern verwendete Heimat-Begriff wirklich? Diesen Fragen nähern sich Schüler*innen der NMS und interessierte Zwentendorfer*innen in kreativer Form an, sowie Künstler*innen mit Bezug zum Tullnerfeld.
+
   Die künstlerische Recherche entfaltet sich zwischen einem Gefühl des Heimwehs, der Heimatliebe und der kritischen Auseinandersetzung mit der „Identität“ Österreichs und dem Begriff „Home“ (Heimat, zu Hause, Haus). Durch den persönlichen Zugang wird eine kritische Auseinandersetzung mit Humor und Tiefgang angeregt, die abseits von populistischen Kampfansagen passiert. Was ist Österreich? Land der Berge, Land der Ströme, Land der Würstlstände und Dirndl, der Kaffeehaus-Kultur und des Walzers. Aber – wenn ich weder Jodeln kann noch Schnitzel mag und hier trotzdem meine sogenannte Heimat ist? Bei den abschließenden Präsentationen in Form von performativen Ausstellungen mit Theater, Livemusik und Poesie wird das Publikum eingeladen, den unterschiedlichen Entwürfen zu begegnen.
+
+  **1.7. 2021 Donauhof Zwentendorf, 10 Uhr**
+
+  Schüler*innen der NMS Zwentendorf präsentieren ein Theaterstück, das im Rahmen des Recherche-Projektes „Oh Österreich“ mit Julia Vandehof entstanden ist. Spaziergänge durch Zwentendorf waren der Ausgangspunkt und die Inspiration für die gemeinsame Stückentwicklung.
+
+  **7.8 2021, im Zwentrum, 10 – 19 Uhr**
+
+  Interessierte Zwentendorfer*innen sind im Rahmen eines Kreativ- und Theaterworkshops eingeladen, sich Fragen rund um die Identität Österreichs und des Begriffes „Home“ (Heimat , zu Hause, Haus) in spielerischer Form anzunähern.
+
+  **15.8.2021, Kunstwerkstatt Tulln**
+
+  Künstler*innen mit Bezug zum Tullnerfeld entwickeln verschiedene künstlerische Positionen und präsentieren diese in Form einer performativen Ausstellung vor einem Publikum
 
   ***
 
