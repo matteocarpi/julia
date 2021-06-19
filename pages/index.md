@@ -28,7 +28,7 @@ upcoming_performances:
   venue: Donauhof Zwentendorf
   venue_link: https://www.zwentendorf.at/Donauhof_-_Restaurant
 - title: Take Care! A rabbit Hole!
-  date: 2021-07-02 19:00:00 +0000
+  date: 2021-07-02 21:00:00 +0000
   link: https://juliavandehof.com/take-care-a-rabbit-hole/
   venue: Kunstwerkstatt Tulln
   venue_link: http://www.kunstwerkstatt.at/wp/
