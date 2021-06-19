@@ -6,8 +6,8 @@ date: 2021-06-06 22:00:00 +0000
 title: Take Care! A rabbit hole!
 sub_title: Performance - Sharing der künstlerischen Recherche
 credits: "mit und von Julia Vandehof und Ainhoa Hevia Uria , Technik: Leroy Werner,
-  Dank an Angharad Matthews und Michelle Madson\n\n  \n2\\. Juli 2021, 21 Uhr  \nCa.
-  40 min  \nKunstwerkstatt Tulln  \nEintritt: freie Spende"
+  Dank an Angharad Matthews und Michelle Madson\n\n2\\. Juli 2021, 21 Uhr  \nCa. 45
+  min  \nKunstwerkstatt Tulln  \nEintritt: freie Spende"
 preview_picture: "/uploads/20210604_154536-1.jpg"
 current: true
 only_current: false
@@ -34,10 +34,30 @@ description: "\"Wer mit Ungeheuern kämpft, mag zusehn, daß er nicht dabei zum 
   Erforschung jenes unsagbaren Stadiums herangezogen wurden.\n\nIn den Researchprozess
   waren Angharad Matthews und Michelle Madson involviert. In der Performance sind
   sie via Audio und Videomaterial präsent.\n\nUm Anmeldung und Kartenreservierung
-  wird gebeten unter [lucid_dreams@gmx.at](mailto:lucid_dreams@gmx.at)\n\nDie Veranstaltung
-  findet unter den tagesaktuellen gesetzlichen Covid-Sicherheitsmaßnahmen statt.  \nDie
-  Performance arbeitet vorwiegend mit Bild- und Bewegungselementen. Texte sind in
-  deutscher, englischer und spanischer Sprache."
+  wird gebeten unter [lucid_drea_sgmx.at_](mailto:lucid_dreams@gmx.at)\n\n_Die Veranstaltung
+  findet unter den tagesaktuellen gesetzlichen Covid-Sicherheitsmaßnahmen statt._\n\n_
+  \ \nDie Performance arbeitet vorwiegend mit Bild- und Bewegungselementen. Texte
+  sind in deutscher, englischer und spanischer Sprache._\n\n***\n\n\"**He** who fights
+  with monsters should look **to** it that **he** himself does not become a monster.
+  **And if you gaze long into an abyss**, **the abyss** also **gazes into you**.\"
+  -Friedrich Nietzsche\n\n\"What did you do during the lockdown - ehm the lockdowns?
+  Enjoyed the sun? Read books? Went for a walk? Streamed Netflix? Meditated? We jumped,
+  into the Rabbit Hole. Deep down. Shrunk and grew, almost drowned, saw the shadows,
+  dug deeper and at some point realised we'd already resurfaced. And suddenly it's
+  spring.\"\n\nTake Care! A Rabbit Hole! is an interdisciplinary performance, a poetic
+  image-poem, physical theatre. Weird. Funny. Dark. Chaotic.\n\nThe stage becomes
+  an abyss in which whimsical creatures awaken, shadows wreak havoc and grotesque
+  moments make you laugh. Above all, the performance leaves the audience with the
+  feeling that after every winter, spring always comes again.\n\nAinhoa and Julia
+  have developed this artistic material together, which was created in a research
+  process of that moment in the cycle of the \"Hero's Journey\" in which the protagonist
+  is confronted with his own \"abyss\", with death and rebirth, the descent into the
+  gardens of the underworld and the encounter with his own shadows. In the case of
+  this performance: the female protagonists. For it is the myths and stories of Innana,
+  Alice and Persephone that were used as sources of inspiration for the playful exploration
+  of that ineffable stage.\n\nAngharad Matthews and Michelle Madson were involved
+  in the research process. They will be present in the performance via audio and video
+  footage."
 gallery: []
 youtube_link: ''
 press: false
