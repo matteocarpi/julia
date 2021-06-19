@@ -17,7 +17,7 @@ main_pictures:
 description: |-
   **I am from Austria**
 
-  Was zeichnet Österreich aus? Was macht es zu meinem Zuhause? Und was bedeutet dieser gern verwendete Heimat-Begriff wirklich? Diesen Fragen nähern sich Schüler*innen der NMS und interessierte Zwentendorfer*innen in kreativer Form an, sowie Künstler*innen mit Bezug zum Tullnerfeld.
+  Was zeichnet Österreich aus? Was macht es zu meinem Zuhause? Und was bedeutet dieser gern verwendete Heimat-Begriff wirklich? Diesen Fragen nähern sich Schüler_innen der NMS und interessierte Zwentendorfer*_innen in kreativer Form an, sowie Künstler*innen mit Bezug zum Tullnerfeld.
 
   Die künstlerische Recherche entfaltet sich zwischen einem Gefühl des Heimwehs, der Heimatliebe und der kritischen Auseinandersetzung mit der „Identität“ Österreichs und dem Begriff „Home“ (Heimat, zu Hause, Haus). Durch den persönlichen Zugang wird eine kritische Auseinandersetzung mit Humor und Tiefgang angeregt, die abseits von populistischen Kampfansagen passiert. Was ist Österreich? Land der Berge, Land der Ströme, Land der Würstlstände und Dirndl, der Kaffeehaus-Kultur und des Walzers. Aber – wenn ich weder Jodeln kann noch Schnitzel mag und hier trotzdem meine sogenannte Heimat ist?
 
