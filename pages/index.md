@@ -24,7 +24,7 @@ bio: |
 upcoming_performances:
 - title: 'OH Österreich! OH Zwentendorf! '
   date: 2021-07-01 08:00:00 +0000
-  link: ''
+  link: https://juliavandehof.com/oh-osterreich/
   venue: Donauhof Zwentendorf
   venue_link: https://www.zwentendorf.at/Donauhof_-_Restaurant
 - title: Take Care! A rabbit Hole!
