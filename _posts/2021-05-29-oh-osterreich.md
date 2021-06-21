@@ -39,8 +39,8 @@ description: |-
 
   The artistic research unfolds between a feeling of homesickness, love of home and the critical examination of the "identity" of Austria and the term "home" (Heimat, home, house). Through the personal approach, a critical examination with humor and depth is stimulated, which happens away from populist fighting statements. What is Austria? Land of mountains, land of streams, land of sausage stands and dirndls, coffee house culture and the waltz. But - if I can neither yodel nor like schnitzel and yet this is my so-called home? In the final presentations in the form of performative exhibitions with theater, live music and poetry, the audience is invited to encounter the different designs.
 gallery:
+- "/uploads/einladung_nms_theater.jpg"
 - "/uploads/einladung_workshop_zwentendorf.jpg"
-- "/uploads/einladung_theater_nms.jpg"
 youtube_link: ''
 press: false
 press_pictures: []
